@@ -1,0 +1,4 @@
+# OpenWeatherMap API Key
+api_key = "796af41489c24d7da4252946191411"
+
+#api_key = "a8653213d0f145c7a58212615190911"
