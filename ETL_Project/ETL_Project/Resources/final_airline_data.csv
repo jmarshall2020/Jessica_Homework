@@ -1,773 +1,773 @@
-,year, month,carrier,carrier_name,airport,arr_flights,arr_cancelled, arr_delay, carrier_delay,weather_delay,City,State
-23,2018,1,MQ,Envoy Air,DFW,4491.0,152.0,48316.0,11983.0,7471.0,Dallas/Fort Worth, TX
-993,2018,1,AA,American Airlines Inc.,DEN,881.0,5.0,6502.0,2164.0,219.0,Denver, CO
-994,2018,1,AA,American Airlines Inc.,DFW,11495.0,126.0,98510.0,37673.0,6868.0,Dallas/Fort Worth, TX
-1017,2018,1,AA,American Airlines Inc.,LAX,3153.0,41.0,25934.0,13320.0,1494.0,Los Angeles, CA
-1036,2018,1,AA,American Airlines Inc.,ORD,5203.0,85.0,44973.0,15678.0,1447.0,Chicago, IL
-1074,2018,1,AS,Alaska Airlines Inc.,ATL,36.0,0.0,39.0,0.0,0.0,Atlanta, GA
-1087,2018,1,AS,Alaska Airlines Inc.,DEN,124.0,0.0,1004.0,338.0,0.0,Denver, CO
-1088,2018,1,AS,Alaska Airlines Inc.,DFW,100.0,0.0,133.0,60.0,0.0,Dallas/Fort Worth, TX
-1103,2018,1,AS,Alaska Airlines Inc.,LAX,702.0,2.0,2480.0,1042.0,95.0,Los Angeles, CA
-1114,2018,1,AS,Alaska Airlines Inc.,ORD,156.0,1.0,620.0,167.0,0.0,Chicago, IL
-1140,2018,1,B6,JetBlue Airways,ATL,147.0,8.0,2381.0,1283.0,85.0,Atlanta, GA
-1155,2018,1,B6,JetBlue Airways,DEN,89.0,6.0,932.0,247.0,28.0,Denver, CO
-1156,2018,1,B6,JetBlue Airways,DFW,51.0,4.0,1144.0,544.0,0.0,Dallas/Fort Worth, TX
-1166,2018,1,B6,JetBlue Airways,LAX,529.0,16.0,6923.0,3281.0,536.0,Los Angeles, CA
-1207,2018,1,DL,Delta Air Lines Inc.,ATL,19038.0,462.0,240743.0,65783.0,28294.0,Atlanta, GA
-977,2018,1,AA,American Airlines Inc.,ATL,956.0,28.0,8794.0,3851.0,396.0,Atlanta, GA
-1240,2018,1,DL,Delta Air Lines Inc.,DEN,778.0,9.0,6856.0,1614.0,1340.0,Denver, CO
-1279,2018,1,DL,Delta Air Lines Inc.,LAX,2455.0,22.0,21413.0,8147.0,4363.0,Los Angeles, CA
-1306,2018,1,DL,Delta Air Lines Inc.,ORD,547.0,9.0,5124.0,1018.0,969.0,Chicago, IL
-1354,2018,1,EV,ExpressJet Airlines Inc.,ATL,905.0,39.0,17115.0,5573.0,0.0,Atlanta, GA
-1386,2018,1,EV,ExpressJet Airlines Inc.,DFW,930.0,31.0,11875.0,7143.0,0.0,Dallas/Fort Worth, TX
-1443,2018,1,EV,ExpressJet Airlines Inc.,ORD,912.0,19.0,18107.0,4344.0,1395.0,Chicago, IL
-1474,2018,1,F9,Frontier Airlines Inc.,ATL,272.0,5.0,4155.0,1445.0,30.0,Atlanta, GA
-1485,2018,1,F9,Frontier Airlines Inc.,DEN,1607.0,30.0,22245.0,7102.0,146.0,Denver, CO
-1486,2018,1,F9,Frontier Airlines Inc.,DFW,40.0,2.0,389.0,151.0,0.0,Dallas/Fort Worth, TX
-1495,2018,1,F9,Frontier Airlines Inc.,LAX,124.0,1.0,1512.0,371.0,44.0,Los Angeles, CA
-1508,2018,1,F9,Frontier Airlines Inc.,ORD,217.0,3.0,4181.0,537.0,0.0,Chicago, IL
-1555,2018,1,G4,Allegiant Air,DEN,8.0,0.0,178.0,0.0,141.0,Denver, CO
-1585,2018,1,G4,Allegiant Air,LAX,109.0,2.0,1968.0,170.0,87.0,Los Angeles, CA
-1654,2018,1,HA,Hawaiian Airlines Inc.,LAX,162.0,0.0,2373.0,2135.0,0.0,Los Angeles, CA
-1673,2018,1,MQ,Envoy Air,ATL,56.0,4.0,224.0,36.0,35.0,Atlanta, GA
-1241,2018,1,DL,Delta Air Lines Inc.,DFW,510.0,7.0,3723.0,966.0,779.0,Dallas/Fort Worth, TX
-947,2018,1,9E,Endeavor Air Inc.,ORD,167.0,11.0,1412.0,601.0,0.0,Chicago, IL
-1172,2018,1,B6,JetBlue Airways,ORD,171.0,10.0,4477.0,1953.0,287.0,Chicago, IL
-893,2018,1,9E,Endeavor Air Inc.,DEN,3.0,0.0,0.0,0.0,0.0,Denver, CO
-466,2018,1,UA,United Air Lines Inc.,ATL,434.0,13.0,3962.0,1221.0,372.0,Atlanta, GA
-400,2018,1,OO,SkyWest Airlines Inc.,ORD,5925.0,208.0,167233.0,48990.0,4837.0,Chicago, IL
-363,2018,1,OO,SkyWest Airlines Inc.,LAX,2946.0,37.0,34504.0,11110.0,332.0,Los Angeles, CA
-307,2018,1,OO,SkyWest Airlines Inc.,DFW,463.0,12.0,6542.0,2410.0,190.0,Dallas/Fort Worth, TX
-306,2018,1,OO,SkyWest Airlines Inc.,DEN,3890.0,71.0,56616.0,21319.0,3096.0,Denver, CO
-255,2018,1,OO,SkyWest Airlines Inc.,ATL,2115.0,63.0,62234.0,17773.0,4214.0,Atlanta, GA
-487,2018,1,UA,United Air Lines Inc.,DEN,4695.0,37.0,30186.0,7974.0,2873.0,Denver, CO
-219,2018,1,OH,PSA Airlines Inc.,ORD,181.0,5.0,4522.0,1498.0,33.0,Chicago, IL
-138,2018,1,NK,Spirit Air Lines,ORD,774.0,10.0,6505.0,964.0,123.0,Chicago, IL
-129,2018,1,NK,Spirit Air Lines,LAX,682.0,7.0,4683.0,1920.0,84.0,Los Angeles, CA
-122,2018,1,NK,Spirit Air Lines,DFW,608.0,6.0,5490.0,2085.0,15.0,Dallas/Fort Worth, TX
-121,2018,1,NK,Spirit Air Lines,DEN,258.0,2.0,3064.0,441.0,120.0,Denver, CO
-114,2018,1,NK,Spirit Air Lines,ATL,629.0,10.0,6276.0,2009.0,135.0,Atlanta, GA
-894,2018,1,9E,Endeavor Air Inc.,DFW,225.0,5.0,1751.0,854.0,32.0,Dallas/Fort Worth, TX
-154,2018,1,OH,PSA Airlines Inc.,ATL,68.0,3.0,470.0,228.0,0.0,Atlanta, GA
-488,2018,1,UA,United Air Lines Inc.,DFW,502.0,8.0,4467.0,1331.0,465.0,Dallas/Fort Worth, TX
-81,2018,1,MQ,Envoy Air,ORD,4704.0,166.0,69063.0,18761.0,5530.0,Chicago, IL
-778,2018,1,YX,Republic Airline,ATL,409.0,25.0,2989.0,677.0,44.0,Atlanta, GA
-862,2018,1,9E,Endeavor Air Inc.,ATL,1834.0,66.0,35797.0,11229.0,3408.0,Atlanta, GA
-835,2018,1,YX,Republic Airline,ORD,1484.0,55.0,19131.0,4486.0,1274.0,Chicago, IL
-801,2018,1,YX,Republic Airline,DFW,330.0,13.0,2805.0,847.0,343.0,Dallas/Fort Worth, TX
-800,2018,1,YX,Republic Airline,DEN,321.0,2.0,3732.0,1555.0,272.0,Denver, CO
-512,2018,1,UA,United Air Lines Inc.,LAX,2126.0,15.0,16865.0,6376.0,2035.0,Los Angeles, CA
-701,2018,1,YV,Mesa Airlines Inc.,DFW,2612.0,193.0,25908.0,10445.0,2259.0,Dallas/Fort Worth, TX
-675,2018,1,YV,Mesa Airlines Inc.,ATL,191.0,17.0,2053.0,441.0,4.0,Atlanta, GA
-608,2018,1,WN,Southwest Airlines Co.,DEN,5515.0,73.0,32473.0,11621.0,1088.0,Denver, CO
-590,2018,1,WN,Southwest Airlines Co.,ATL,3529.0,152.0,20436.0,6997.0,293.0,Atlanta, GA
-579,2018,1,VX,Virgin America,ORD,69.0,1.0,415.0,157.0,0.0,Chicago, IL
-575,2018,1,VX,Virgin America,LAX,1201.0,24.0,6633.0,2348.0,243.0,Los Angeles, CA
-566,2018,1,VX,Virgin America,DEN,59.0,1.0,402.0,70.0,0.0,Denver, CO
-531,2018,1,UA,United Air Lines Inc.,ORD,5162.0,57.0,41708.0,11456.0,2909.0,Chicago, IL
-627,2018,1,WN,Southwest Airlines Co.,LAX,3604.0,61.0,28183.0,9239.0,165.0,Los Angeles, CA
-2758,2018,2,B6,JetBlue Airways,ATL,132.0,2.0,995.0,607.0,0.0,Atlanta, GA
-2773,2018,2,B6,JetBlue Airways,DEN,80.0,0.0,1150.0,364.0,0.0,Denver, CO
-2612,2018,2,AA,American Airlines Inc.,DEN,786.0,6.0,8207.0,3303.0,492.0,Denver, CO
-2784,2018,2,B6,JetBlue Airways,LAX,482.0,1.0,6643.0,2176.0,0.0,Los Angeles, CA
-2790,2018,2,B6,JetBlue Airways,ORD,148.0,8.0,3609.0,1269.0,51.0,Chicago, IL
-2774,2018,2,B6,JetBlue Airways,DFW,48.0,1.0,893.0,277.0,0.0,Dallas/Fort Worth, TX
-2732,2018,2,AS,Alaska Airlines Inc.,ORD,114.0,0.0,1592.0,70.0,25.0,Chicago, IL
-2613,2018,2,AA,American Airlines Inc.,DFW,10664.0,189.0,156506.0,45868.0,6101.0,Dallas/Fort Worth, TX
-2706,2018,2,AS,Alaska Airlines Inc.,DFW,84.0,0.0,771.0,48.0,24.0,Dallas/Fort Worth, TX
-2705,2018,2,AS,Alaska Airlines Inc.,DEN,112.0,0.0,708.0,330.0,0.0,Denver, CO
-2692,2018,2,AS,Alaska Airlines Inc.,ATL,28.0,0.0,225.0,160.0,0.0,Atlanta, GA
-2655,2018,2,AA,American Airlines Inc.,ORD,4644.0,170.0,51969.0,13380.0,2411.0,Chicago, IL
-2636,2018,2,AA,American Airlines Inc.,LAX,2885.0,11.0,21567.0,8766.0,1000.0,Los Angeles, CA
-2825,2018,2,DL,Delta Air Lines Inc.,ATL,17790.0,9.0,143740.0,56123.0,10031.0,Atlanta, GA
-2721,2018,2,AS,Alaska Airlines Inc.,LAX,605.0,0.0,1986.0,1001.0,96.0,Los Angeles, CA
-2858,2018,2,DL,Delta Air Lines Inc.,DEN,717.0,0.0,8361.0,4095.0,914.0,Denver, CO
-3096,2018,2,F9,Frontier Airlines Inc.,DEN,1438.0,18.0,24796.0,6548.0,251.0,Denver, CO
-2897,2018,2,DL,Delta Air Lines Inc.,LAX,2256.0,2.0,20716.0,7567.0,1988.0,Los Angeles, CA
-2924,2018,2,DL,Delta Air Lines Inc.,ORD,496.0,2.0,8471.0,1453.0,693.0,Chicago, IL
-2970,2018,2,EV,ExpressJet Airlines Inc.,ATL,518.0,3.0,5450.0,1226.0,0.0,Atlanta, GA
-3000,2018,2,EV,ExpressJet Airlines Inc.,DFW,841.0,20.0,23538.0,11051.0,0.0,Dallas/Fort Worth, TX
-3055,2018,2,EV,ExpressJet Airlines Inc.,ORD,766.0,48.0,19031.0,3768.0,1107.0,Chicago, IL
-3084,2018,2,F9,Frontier Airlines Inc.,ATL,243.0,2.0,4541.0,1256.0,0.0,Atlanta, GA
-3097,2018,2,F9,Frontier Airlines Inc.,DFW,34.0,0.0,710.0,87.0,28.0,Dallas/Fort Worth, TX
-3107,2018,2,F9,Frontier Airlines Inc.,LAX,112.0,0.0,2621.0,868.0,13.0,Los Angeles, CA
-3120,2018,2,F9,Frontier Airlines Inc.,ORD,197.0,4.0,3783.0,506.0,75.0,Chicago, IL
-3165,2018,2,G4,Allegiant Air,DEN,8.0,0.0,196.0,47.0,15.0,Denver, CO
-3195,2018,2,G4,Allegiant Air,LAX,100.0,3.0,2310.0,585.0,212.0,Los Angeles, CA
-3264,2018,2,HA,Hawaiian Airlines Inc.,LAX,140.0,0.0,1445.0,1151.0,12.0,Los Angeles, CA
-3283,2018,2,MQ,Envoy Air,ATL,53.0,6.0,560.0,78.0,0.0,Atlanta, GA
-3309,2018,2,MQ,Envoy Air,DFW,4022.0,213.0,63801.0,9410.0,10678.0,Dallas/Fort Worth, TX
-2859,2018,2,DL,Delta Air Lines Inc.,DFW,447.0,0.0,4128.0,913.0,420.0,Dallas/Fort Worth, TX
-2595,2018,2,AA,American Airlines Inc.,ATL,858.0,6.0,7903.0,2753.0,241.0,Atlanta, GA
-2140,2018,2,UA,United Air Lines Inc.,DFW,487.0,4.0,7652.0,1026.0,1899.0,Dallas/Fort Worth, TX
-2527,2018,2,9E,Endeavor Air Inc.,DFW,220.0,4.0,5951.0,1844.0,1004.0,Dallas/Fort Worth, TX
-2566,2018,2,9E,Endeavor Air Inc.,ORD,138.0,3.0,3076.0,532.0,0.0,Chicago, IL
-1765,2018,2,NK,Spirit Air Lines,ATL,570.0,8.0,6351.0,1447.0,109.0,Atlanta, GA
-1773,2018,2,NK,Spirit Air Lines,DEN,224.0,2.0,1692.0,326.0,95.0,Denver, CO
-1774,2018,2,NK,Spirit Air Lines,DFW,546.0,5.0,12114.0,2094.0,0.0,Dallas/Fort Worth, TX
-1781,2018,2,NK,Spirit Air Lines,LAX,616.0,6.0,8672.0,1900.0,33.0,Los Angeles, CA
-1790,2018,2,NK,Spirit Air Lines,ORD,700.0,13.0,15865.0,2455.0,651.0,Chicago, IL
-1806,2018,2,OH,PSA Airlines Inc.,ATL,68.0,4.0,764.0,113.0,59.0,Atlanta, GA
-1871,2018,2,OH,PSA Airlines Inc.,ORD,164.0,12.0,3689.0,1112.0,136.0,Chicago, IL
-1907,2018,2,OO,SkyWest Airlines Inc.,ATL,1858.0,22.0,35927.0,12360.0,1851.0,Atlanta, GA
-1957,2018,2,OO,SkyWest Airlines Inc.,DEN,3424.0,63.0,60162.0,25256.0,3440.0,Denver, CO
-1958,2018,2,OO,SkyWest Airlines Inc.,DFW,468.0,14.0,11720.0,3519.0,224.0,Dallas/Fort Worth, TX
-2014,2018,2,OO,SkyWest Airlines Inc.,LAX,2704.0,37.0,35235.0,14777.0,958.0,Los Angeles, CA
-2053,2018,2,OO,SkyWest Airlines Inc.,ORD,5462.0,397.0,128357.0,34470.0,10138.0,Chicago, IL
-2118,2018,2,UA,United Air Lines Inc.,ATL,386.0,0.0,2672.0,691.0,141.0,Atlanta, GA
-2139,2018,2,UA,United Air Lines Inc.,DEN,4257.0,3.0,31099.0,9212.0,1600.0,Denver, CO
-1733,2018,2,MQ,Envoy Air,ORD,4249.0,352.0,62841.0,14530.0,5312.0,Chicago, IL
-2526,2018,2,9E,Endeavor Air Inc.,DEN,4.0,0.0,24.0,0.0,0.0,Denver, CO
-2497,2018,2,9E,Endeavor Air Inc.,ATL,1889.0,19.0,29744.0,12005.0,1170.0,Atlanta, GA
-2473,2018,2,YX,Republic Airline,ORD,1406.0,44.0,17528.0,2940.0,84.0,Chicago, IL
-2440,2018,2,YX,Republic Airline,DFW,250.0,5.0,4012.0,1220.0,228.0,Dallas/Fort Worth, TX
-2439,2018,2,YX,Republic Airline,DEN,289.0,5.0,3354.0,1368.0,86.0,Denver, CO
-2164,2018,2,UA,United Air Lines Inc.,LAX,1915.0,5.0,14668.0,5306.0,1094.0,Los Angeles, CA
-2352,2018,2,YV,Mesa Airlines Inc.,DFW,2354.0,103.0,48139.0,14375.0,3854.0,Dallas/Fort Worth, TX
-2326,2018,2,YV,Mesa Airlines Inc.,ATL,194.0,2.0,2177.0,1036.0,154.0,Atlanta, GA
-2420,2018,2,YX,Republic Airline,ATL,416.0,5.0,3432.0,440.0,184.0,Atlanta, GA
-2259,2018,2,WN,Southwest Airlines Co.,DEN,4857.0,42.0,43091.0,13957.0,857.0,Denver, CO
-2241,2018,2,WN,Southwest Airlines Co.,ATL,3123.0,46.0,19017.0,5810.0,326.0,Atlanta, GA
-2230,2018,2,VX,Virgin America,ORD,56.0,0.0,875.0,255.0,0.0,Chicago, IL
-2226,2018,2,VX,Virgin America,LAX,1104.0,4.0,8263.0,2298.0,0.0,Los Angeles, CA
-2217,2018,2,VX,Virgin America,DEN,52.0,0.0,605.0,444.0,0.0,Denver, CO
-2182,2018,2,UA,United Air Lines Inc.,ORD,4816.0,71.0,48817.0,6156.0,2814.0,Chicago, IL
-2278,2018,2,WN,Southwest Airlines Co.,LAX,3173.0,62.0,38992.0,12183.0,287.0,Los Angeles, CA
-4476,2018,3,OO,SkyWest Airlines Inc.,LAX,3053.0,28.0,45553.0,10347.0,669.0,Los Angeles, CA
-4419,2018,3,OO,SkyWest Airlines Inc.,DFW,552.0,8.0,7001.0,2881.0,469.0,Dallas/Fort Worth, TX
-4368,2018,3,OO,SkyWest Airlines Inc.,ATL,2147.0,5.0,31722.0,11894.0,1195.0,Atlanta, GA
-4333,2018,3,OH,PSA Airlines Inc.,ORD,181.0,12.0,1689.0,791.0,7.0,Chicago, IL
-4268,2018,3,OH,PSA Airlines Inc.,ATL,79.0,0.0,907.0,369.0,1.0,Atlanta, GA
-4251,2018,3,NK,Spirit Air Lines,ORD,800.0,3.0,6559.0,1318.0,183.0,Chicago, IL
-4109,2018,3,MQ,Envoy Air,ATL,61.0,1.0,689.0,151.0,96.0,Atlanta, GA
-4235,2018,3,NK,Spirit Air Lines,DFW,608.0,5.0,6194.0,1022.0,138.0,Dallas/Fort Worth, TX
-4234,2018,3,NK,Spirit Air Lines,DEN,258.0,0.0,2102.0,328.0,632.0,Denver, CO
-4226,2018,3,NK,Spirit Air Lines,ATL,633.0,3.0,4391.0,787.0,7.0,Atlanta, GA
-4194,2018,3,MQ,Envoy Air,ORD,4786.0,119.0,33279.0,12728.0,1194.0,Chicago, IL
-4137,2018,3,MQ,Envoy Air,DFW,4644.0,103.0,33763.0,11019.0,3454.0,Dallas/Fort Worth, TX
-4517,2018,3,OO,SkyWest Airlines Inc.,ORD,6085.0,83.0,63825.0,24492.0,3471.0,Chicago, IL
-4242,2018,3,NK,Spirit Air Lines,LAX,680.0,5.0,6838.0,1370.0,52.0,Los Angeles, CA
-4583,2018,3,UA,United Air Lines Inc.,ATL,444.0,18.0,2700.0,856.0,215.0,Atlanta, GA
-4724,2018,3,WN,Southwest Airlines Co.,DEN,5765.0,54.0,59960.0,17049.0,2494.0,Denver, CO
-4605,2018,3,UA,United Air Lines Inc.,DFW,560.0,8.0,3609.0,1059.0,240.0,Dallas/Fort Worth, TX
-4629,2018,3,UA,United Air Lines Inc.,LAX,2267.0,18.0,22298.0,6444.0,1937.0,Los Angeles, CA
-4648,2018,3,UA,United Air Lines Inc.,ORD,5657.0,101.0,35059.0,10923.0,708.0,Chicago, IL
-4682,2018,3,VX,Virgin America,DEN,60.0,0.0,740.0,170.0,0.0,Denver, CO
-4691,2018,3,VX,Virgin America,LAX,1335.0,52.0,15993.0,3981.0,28.0,Los Angeles, CA
-4695,2018,3,VX,Virgin America,ORD,83.0,0.0,942.0,469.0,0.0,Chicago, IL
-4706,2018,3,WN,Southwest Airlines Co.,ATL,3631.0,56.0,23235.0,7958.0,368.0,Atlanta, GA
-4743,2018,3,WN,Southwest Airlines Co.,LAX,3648.0,84.0,66877.0,15554.0,809.0,Los Angeles, CA
-4791,2018,3,YV,Mesa Airlines Inc.,ATL,158.0,2.0,827.0,549.0,0.0,Atlanta, GA
-4817,2018,3,YV,Mesa Airlines Inc.,DFW,2672.0,56.0,21076.0,6710.0,2084.0,Dallas/Fort Worth, TX
-4883,2018,3,YX,Republic Airline,ATL,505.0,24.0,2580.0,893.0,5.0,Atlanta, GA
-4905,2018,3,YX,Republic Airline,DEN,332.0,2.0,2557.0,429.0,0.0,Denver, CO
-4906,2018,3,YX,Republic Airline,DFW,306.0,20.0,3395.0,1554.0,0.0,Dallas/Fort Worth, TX
-4939,2018,3,YX,Republic Airline,ORD,1723.0,76.0,11635.0,1857.0,1477.0,Chicago, IL
-4604,2018,3,UA,United Air Lines Inc.,DEN,5115.0,46.0,35107.0,8968.0,1185.0,Denver, CO
-4090,2018,3,HA,Hawaiian Airlines Inc.,LAX,176.0,0.0,1678.0,872.0,0.0,Los Angeles, CA
-4418,2018,3,OO,SkyWest Airlines Inc.,DEN,3767.0,58.0,41192.0,15476.0,793.0,Denver, CO
-3991,2018,3,G4,Allegiant Air,DEN,9.0,0.0,27.0,0.0,0.0,Denver, CO
-3581,2018,3,B6,JetBlue Airways,ATL,265.0,18.0,3011.0,1762.0,190.0,Atlanta, GA
-3555,2018,3,AS,Alaska Airlines Inc.,ORD,154.0,0.0,757.0,223.0,0.0,Chicago, IL
-3543,2018,3,AS,Alaska Airlines Inc.,LAX,563.0,1.0,2649.0,328.0,11.0,Los Angeles, CA
-3528,2018,3,AS,Alaska Airlines Inc.,DFW,114.0,0.0,669.0,251.0,0.0,Dallas/Fort Worth, TX
-3527,2018,3,AS,Alaska Airlines Inc.,DEN,136.0,0.0,1254.0,273.0,0.0,Denver, CO
-3514,2018,3,AS,Alaska Airlines Inc.,ATL,52.0,0.0,112.0,63.0,0.0,Atlanta, GA
-3596,2018,3,B6,JetBlue Airways,DEN,88.0,5.0,740.0,463.0,0.0,Denver, CO
-3476,2018,3,AA,American Airlines Inc.,ORD,5206.0,126.0,35276.0,12838.0,959.0,Chicago, IL
-3434,2018,3,AA,American Airlines Inc.,DFW,12040.0,225.0,96433.0,36620.0,2876.0,Dallas/Fort Worth, TX
-3433,2018,3,AA,American Airlines Inc.,DEN,909.0,8.0,8019.0,3456.0,206.0,Denver, CO
-3417,2018,3,AA,American Airlines Inc.,ATL,965.0,24.0,7131.0,2618.0,358.0,Atlanta, GA
-3390,2018,3,9E,Endeavor Air Inc.,ORD,224.0,13.0,2196.0,502.0,129.0,Chicago, IL
-3316,2018,3,9E,Endeavor Air Inc.,ATL,2294.0,15.0,24057.0,7703.0,685.0,Atlanta, GA
-4021,2018,3,G4,Allegiant Air,LAX,117.0,0.0,1863.0,698.0,18.0,Los Angeles, CA
-3457,2018,3,AA,American Airlines Inc.,LAX,3332.0,64.0,24902.0,8607.0,1339.0,Los Angeles, CA
-3597,2018,3,B6,JetBlue Airways,DFW,53.0,3.0,613.0,240.0,40.0,Dallas/Fort Worth, TX
-3345,2018,3,9E,Endeavor Air Inc.,DFW,311.0,8.0,2441.0,643.0,126.0,Dallas/Fort Worth, TX
-3613,2018,3,B6,JetBlue Airways,ORD,177.0,9.0,3797.0,1765.0,0.0,Chicago, IL
-3607,2018,3,B6,JetBlue Airways,LAX,551.0,21.0,7278.0,2996.0,173.0,Los Angeles, CA
-3945,2018,3,F9,Frontier Airlines Inc.,ORD,205.0,1.0,2628.0,569.0,0.0,Chicago, IL
-3920,2018,3,F9,Frontier Airlines Inc.,DFW,36.0,0.0,542.0,81.0,0.0,Dallas/Fort Worth, TX
-3919,2018,3,F9,Frontier Airlines Inc.,DEN,1564.0,4.0,17331.0,4166.0,29.0,Denver, CO
-3906,2018,3,F9,Frontier Airlines Inc.,ATL,252.0,4.0,3850.0,1282.0,0.0,Atlanta, GA
-3878,2018,3,EV,ExpressJet Airlines Inc.,ORD,835.0,18.0,9778.0,2288.0,356.0,Chicago, IL
-3824,2018,3,EV,ExpressJet Airlines Inc.,DFW,934.0,11.0,8749.0,4929.0,0.0,Dallas/Fort Worth, TX
-3931,2018,3,F9,Frontier Airlines Inc.,LAX,124.0,0.0,1858.0,775.0,0.0,Los Angeles, CA
-3747,2018,3,DL,Delta Air Lines Inc.,ORD,617.0,0.0,3564.0,1580.0,111.0,Chicago, IL
-3720,2018,3,DL,Delta Air Lines Inc.,LAX,2739.0,11.0,33323.0,13431.0,997.0,Los Angeles, CA
-3682,2018,3,DL,Delta Air Lines Inc.,DFW,436.0,1.0,2342.0,942.0,39.0,Dallas/Fort Worth, TX
-3681,2018,3,DL,Delta Air Lines Inc.,DEN,1128.0,7.0,11562.0,4162.0,1147.0,Denver, CO
-3648,2018,3,DL,Delta Air Lines Inc.,ATL,21208.0,122.0,117864.0,48114.0,8608.0,Atlanta, GA
-3795,2018,3,EV,ExpressJet Airlines Inc.,ATL,1001.0,21.0,14688.0,6365.0,0.0,Atlanta, GA
-6046,2018,4,OO,SkyWest Airlines Inc.,ATL,1932.0,1.0,19001.0,4817.0,842.0,Atlanta, GA
-6009,2018,4,OH,PSA Airlines Inc.,ORD,170.0,0.0,2172.0,509.0,29.0,Chicago, IL
-5944,2018,4,OH,PSA Airlines Inc.,ATL,109.0,2.0,1142.0,531.0,0.0,Atlanta, GA
-5927,2018,4,NK,Spirit Air Lines,ORD,814.0,1.0,8835.0,323.0,0.0,Chicago, IL
-5918,2018,4,NK,Spirit Air Lines,LAX,681.0,3.0,5882.0,173.0,0.0,Los Angeles, CA
-5901,2018,4,NK,Spirit Air Lines,ATL,668.0,5.0,8462.0,163.0,0.0,Atlanta, GA
-5910,2018,4,NK,Spirit Air Lines,DEN,290.0,3.0,2920.0,29.0,0.0,Denver, CO
-5867,2018,4,MQ,Envoy Air,ORD,4344.0,78.0,38273.0,12313.0,2156.0,Chicago, IL
-5807,2018,4,MQ,Envoy Air,DFW,4736.0,83.0,42126.0,10400.0,6623.0,Dallas/Fort Worth, TX
-6098,2018,4,OO,SkyWest Airlines Inc.,DEN,3838.0,29.0,35420.0,13178.0,2603.0,Denver, CO
-5776,2018,4,MQ,Envoy Air,ATL,27.0,0.0,28.0,0.0,0.0,Atlanta, GA
-5756,2018,4,HA,Hawaiian Airlines Inc.,LAX,180.0,1.0,2205.0,1352.0,81.0,Los Angeles, CA
-5911,2018,4,NK,Spirit Air Lines,DFW,735.0,6.0,12150.0,308.0,0.0,Dallas/Fort Worth, TX
-6099,2018,4,OO,SkyWest Airlines Inc.,DFW,438.0,6.0,5203.0,904.0,1313.0,Dallas/Fort Worth, TX
-6368,2018,4,WN,Southwest Airlines Co.,ATL,3509.0,34.0,30196.0,9754.0,910.0,Atlanta, GA
-6198,2018,4,OO,SkyWest Airlines Inc.,ORD,6391.0,76.0,78242.0,28221.0,1512.0,Chicago, IL
-6267,2018,4,UA,United Air Lines Inc.,ATL,405.0,1.0,4057.0,1107.0,72.0,Atlanta, GA
-6288,2018,4,UA,United Air Lines Inc.,DEN,4930.0,11.0,32696.0,10785.0,1287.0,Denver, CO
-6289,2018,4,UA,United Air Lines Inc.,DFW,540.0,0.0,6382.0,1023.0,269.0,Dallas/Fort Worth, TX
-6314,2018,4,UA,United Air Lines Inc.,LAX,2438.0,4.0,21344.0,5413.0,1610.0,Los Angeles, CA
-6334,2018,4,UA,United Air Lines Inc.,ORD,5932.0,9.0,47925.0,14073.0,1798.0,Chicago, IL
-6386,2018,4,WN,Southwest Airlines Co.,DEN,5636.0,22.0,54499.0,15875.0,866.0,Denver, CO
-6405,2018,4,WN,Southwest Airlines Co.,LAX,3575.0,82.0,54937.0,17035.0,327.0,Los Angeles, CA
-6454,2018,4,YV,Mesa Airlines Inc.,ATL,178.0,1.0,1624.0,1024.0,0.0,Atlanta, GA
-6480,2018,4,YV,Mesa Airlines Inc.,DFW,2722.0,55.0,27738.0,10985.0,3005.0,Dallas/Fort Worth, TX
-6554,2018,4,YX,Republic Airline,ATL,385.0,8.0,2799.0,1035.0,32.0,Atlanta, GA
-6577,2018,4,YX,Republic Airline,DEN,316.0,5.0,2946.0,789.0,200.0,Denver, CO
-5686,2018,4,G4,Allegiant Air,LAX,97.0,0.0,2105.0,653.0,0.0,Los Angeles, CA
-6610,2018,4,YX,Republic Airline,ORD,1570.0,26.0,15146.0,2977.0,1080.0,Chicago, IL
-6157,2018,4,OO,SkyWest Airlines Inc.,LAX,2550.0,12.0,26345.0,8808.0,424.0,Los Angeles, CA
-5656,2018,4,G4,Allegiant Air,DEN,9.0,0.0,38.0,0.0,0.0,Denver, CO
-6578,2018,4,YX,Republic Airline,DFW,305.0,4.0,4310.0,1109.0,243.0,Dallas/Fort Worth, TX
-5594,2018,4,F9,Frontier Airlines Inc.,LAX,97.0,1.0,1218.0,173.0,0.0,Los Angeles, CA
-4965,2018,4,9E,Endeavor Air Inc.,ATL,2494.0,10.0,24866.0,6670.0,914.0,Atlanta, GA
-4994,2018,4,9E,Endeavor Air Inc.,DEN,4.0,0.0,141.0,133.0,0.0,Denver, CO
-4995,2018,4,9E,Endeavor Air Inc.,DFW,218.0,2.0,2879.0,613.0,151.0,Dallas/Fort Worth, TX
-5040,2018,4,9E,Endeavor Air Inc.,ORD,267.0,6.0,4457.0,1035.0,186.0,Chicago, IL
-5067,2018,4,AA,American Airlines Inc.,ATL,930.0,5.0,7636.0,3265.0,215.0,Atlanta, GA
-5084,2018,4,AA,American Airlines Inc.,DEN,823.0,3.0,6819.0,2539.0,342.0,Denver, CO
-5085,2018,4,AA,American Airlines Inc.,DFW,11360.0,90.0,108201.0,35892.0,4949.0,Dallas/Fort Worth, TX
-5108,2018,4,AA,American Airlines Inc.,LAX,3298.0,8.0,24917.0,8293.0,1259.0,Los Angeles, CA
-5129,2018,4,AA,American Airlines Inc.,ORD,4941.0,23.0,36527.0,13431.0,1753.0,Chicago, IL
-5167,2018,4,AS,Alaska Airlines Inc.,ATL,60.0,0.0,26.0,0.0,0.0,Atlanta, GA
-5181,2018,4,AS,Alaska Airlines Inc.,DEN,193.0,2.0,1164.0,268.0,0.0,Denver, CO
-5182,2018,4,AS,Alaska Airlines Inc.,DFW,120.0,0.0,434.0,255.0,0.0,Dallas/Fort Worth, TX
-5197,2018,4,AS,Alaska Airlines Inc.,LAX,1850.0,17.0,18280.0,4869.0,737.0,Los Angeles, CA
-5209,2018,4,AS,Alaska Airlines Inc.,ORD,231.0,1.0,889.0,417.0,0.0,Chicago, IL
-5235,2018,4,B6,JetBlue Airways,ATL,292.0,1.0,6932.0,3163.0,114.0,Atlanta, GA
-5608,2018,4,F9,Frontier Airlines Inc.,ORD,204.0,2.0,4678.0,1214.0,14.0,Chicago, IL
-5251,2018,4,B6,JetBlue Airways,DFW,51.0,0.0,645.0,257.0,0.0,Dallas/Fort Worth, TX
-5250,2018,4,B6,JetBlue Airways,DEN,86.0,0.0,963.0,415.0,0.0,Denver, CO
-5580,2018,4,F9,Frontier Airlines Inc.,DFW,50.0,0.0,959.0,95.0,0.0,Dallas/Fort Worth, TX
-5579,2018,4,F9,Frontier Airlines Inc.,DEN,1799.0,14.0,29672.0,8376.0,160.0,Denver, CO
-5564,2018,4,F9,Frontier Airlines Inc.,ATL,293.0,2.0,6644.0,1448.0,6.0,Atlanta, GA
-5481,2018,4,EV,ExpressJet Airlines Inc.,DFW,723.0,4.0,7889.0,4809.0,0.0,Dallas/Fort Worth, TX
-5451,2018,4,EV,ExpressJet Airlines Inc.,ATL,791.0,3.0,13742.0,6728.0,0.0,Atlanta, GA
-5536,2018,4,EV,ExpressJet Airlines Inc.,ORD,705.0,1.0,8631.0,3352.0,18.0,Chicago, IL
-5375,2018,4,DL,Delta Air Lines Inc.,LAX,2985.0,5.0,34110.0,13199.0,1204.0,Los Angeles, CA
-5336,2018,4,DL,Delta Air Lines Inc.,DFW,558.0,1.0,3989.0,1171.0,264.0,Dallas/Fort Worth, TX
-5335,2018,4,DL,Delta Air Lines Inc.,DEN,1018.0,3.0,6594.0,2465.0,230.0,Denver, CO
-5302,2018,4,DL,Delta Air Lines Inc.,ATL,20637.0,22.0,133813.0,56581.0,9765.0,Atlanta, GA
-5267,2018,4,B6,JetBlue Airways,ORD,171.0,2.0,4691.0,1920.0,47.0,Chicago, IL
-5261,2018,4,B6,JetBlue Airways,LAX,529.0,3.0,6473.0,2812.0,494.0,Los Angeles, CA
-5402,2018,4,DL,Delta Air Lines Inc.,ORD,696.0,1.0,3964.0,1620.0,334.0,Chicago, IL
-7565,2018,5,NK,Spirit Air Lines,LAX,724.0,1.0,8822.0,1914.0,231.0,Los Angeles, CA
-7689,2018,5,OO,SkyWest Airlines Inc.,ATL,1985.0,0.0,23992.0,6145.0,3225.0,Atlanta, GA
-7651,2018,5,OH,PSA Airlines Inc.,ORD,189.0,9.0,2759.0,771.0,7.0,Chicago, IL
-7590,2018,5,OH,PSA Airlines Inc.,ATL,107.0,3.0,1521.0,315.0,188.0,Atlanta, GA
-7574,2018,5,NK,Spirit Air Lines,ORD,850.0,16.0,21535.0,1423.0,515.0,Chicago, IL
-7558,2018,5,NK,Spirit Air Lines,DFW,898.0,7.0,17129.0,2527.0,1018.0,Dallas/Fort Worth, TX
-7340,2018,5,G4,Allegiant Air,LAX,99.0,0.0,1066.0,384.0,0.0,Los Angeles, CA
-7548,2018,5,NK,Spirit Air Lines,ATL,683.0,6.0,7799.0,1612.0,308.0,Atlanta, GA
-7515,2018,5,MQ,Envoy Air,ORD,4783.0,233.0,86745.0,14757.0,10510.0,Chicago, IL
-7460,2018,5,MQ,Envoy Air,DFW,4578.0,95.0,43921.0,12601.0,5017.0,Dallas/Fort Worth, TX
-7429,2018,5,MQ,Envoy Air,ATL,51.0,0.0,839.0,77.0,3.0,Atlanta, GA
-7409,2018,5,HA,Hawaiian Airlines Inc.,LAX,186.0,0.0,2091.0,1511.0,0.0,Los Angeles, CA
-7739,2018,5,OO,SkyWest Airlines Inc.,DEN,3944.0,4.0,44907.0,18737.0,3044.0,Denver, CO
-7557,2018,5,NK,Spirit Air Lines,DEN,309.0,2.0,3577.0,468.0,312.0,Denver, CO
-7740,2018,5,OO,SkyWest Airlines Inc.,DFW,523.0,4.0,6582.0,817.0,1380.0,Dallas/Fort Worth, TX
-7968,2018,5,UA,United Air Lines Inc.,ORD,6426.0,84.0,112216.0,20237.0,4423.0,Chicago, IL
-7834,2018,5,OO,SkyWest Airlines Inc.,ORD,6481.0,210.0,160302.0,38630.0,15205.0,Chicago, IL
-7905,2018,5,UA,United Air Lines Inc.,ATL,440.0,1.0,6244.0,1661.0,184.0,Atlanta, GA
-7926,2018,5,UA,United Air Lines Inc.,DEN,5171.0,11.0,43589.0,12733.0,3761.0,Denver, CO
-7927,2018,5,UA,United Air Lines Inc.,DFW,565.0,5.0,9353.0,1834.0,592.0,Dallas/Fort Worth, TX
-7950,2018,5,UA,United Air Lines Inc.,LAX,2632.0,9.0,27412.0,4657.0,2634.0,Los Angeles, CA
-8003,2018,5,WN,Southwest Airlines Co.,ATL,3593.0,27.0,43042.0,10086.0,2031.0,Atlanta, GA
-8021,2018,5,WN,Southwest Airlines Co.,DEN,5846.0,64.0,67710.0,19874.0,1705.0,Denver, CO
-8040,2018,5,WN,Southwest Airlines Co.,LAX,3667.0,80.0,49958.0,15790.0,436.0,Los Angeles, CA
-8088,2018,5,YV,Mesa Airlines Inc.,ATL,191.0,6.0,1704.0,566.0,328.0,Atlanta, GA
-8111,2018,5,YV,Mesa Airlines Inc.,DFW,2845.0,89.0,33031.0,8768.0,2580.0,Dallas/Fort Worth, TX
-8179,2018,5,YX,Republic Airline,ATL,372.0,13.0,4744.0,913.0,993.0,Atlanta, GA
-8202,2018,5,YX,Republic Airline,DEN,294.0,1.0,2001.0,934.0,223.0,Denver, CO
-8203,2018,5,YX,Republic Airline,DFW,305.0,3.0,2968.0,1217.0,61.0,Dallas/Fort Worth, TX
-7310,2018,5,G4,Allegiant Air,DEN,18.0,0.0,313.0,8.0,0.0,Denver, CO
-7797,2018,5,OO,SkyWest Airlines Inc.,LAX,2594.0,9.0,26066.0,5681.0,547.0,Los Angeles, CA
-8237,2018,5,YX,Republic Airline,ORD,1716.0,59.0,26540.0,4359.0,1379.0,Chicago, IL
-7261,2018,5,F9,Frontier Airlines Inc.,ORD,235.0,6.0,8516.0,2383.0,0.0,Chicago, IL
-7229,2018,5,F9,Frontier Airlines Inc.,DFW,65.0,0.0,1548.0,313.0,0.0,Dallas/Fort Worth, TX
-7245,2018,5,F9,Frontier Airlines Inc.,LAX,93.0,1.0,1432.0,378.0,0.0,Los Angeles, CA
-6636,2018,5,9E,Endeavor Air Inc.,ATL,2507.0,4.0,21647.0,7059.0,1510.0,Atlanta, GA
-6665,2018,5,9E,Endeavor Air Inc.,DEN,4.0,0.0,0.0,0.0,0.0,Denver, CO
-6666,2018,5,9E,Endeavor Air Inc.,DFW,198.0,0.0,2058.0,985.0,125.0,Dallas/Fort Worth, TX
-6706,2018,5,9E,Endeavor Air Inc.,ORD,284.0,4.0,8429.0,1429.0,328.0,Chicago, IL
-6733,2018,5,AA,American Airlines Inc.,ATL,1008.0,19.0,14605.0,3717.0,1090.0,Atlanta, GA
-6750,2018,5,AA,American Airlines Inc.,DEN,933.0,13.0,12637.0,4774.0,496.0,Denver, CO
-6751,2018,5,AA,American Airlines Inc.,DFW,12065.0,160.0,163006.0,55014.0,9371.0,Dallas/Fort Worth, TX
-6789,2018,5,AA,American Airlines Inc.,ORD,5458.0,121.0,91053.0,16812.0,4844.0,Chicago, IL
-6829,2018,5,AS,Alaska Airlines Inc.,ATL,62.0,0.0,92.0,0.0,0.0,Atlanta, GA
-6843,2018,5,AS,Alaska Airlines Inc.,DEN,208.0,1.0,1740.0,600.0,0.0,Denver, CO
-6844,2018,5,AS,Alaska Airlines Inc.,DFW,124.0,0.0,644.0,83.0,0.0,Dallas/Fort Worth, TX
-6859,2018,5,AS,Alaska Airlines Inc.,LAX,1954.0,21.0,20143.0,6233.0,173.0,Los Angeles, CA
-6871,2018,5,AS,Alaska Airlines Inc.,ORD,292.0,0.0,3388.0,655.0,0.0,Chicago, IL
-6770,2018,5,AA,American Airlines Inc.,LAX,3450.0,23.0,35821.0,13884.0,1900.0,Los Angeles, CA
-6914,2018,5,B6,JetBlue Airways,DEN,89.0,0.0,2131.0,868.0,0.0,Denver, CO
-6899,2018,5,B6,JetBlue Airways,ATL,298.0,1.0,6331.0,3136.0,433.0,Atlanta, GA
-7212,2018,5,F9,Frontier Airlines Inc.,ATL,324.0,5.0,4975.0,1069.0,117.0,Atlanta, GA
-7185,2018,5,EV,ExpressJet Airlines Inc.,ORD,615.0,16.0,12366.0,1877.0,861.0,Chicago, IL
-7140,2018,5,EV,ExpressJet Airlines Inc.,DFW,965.0,9.0,14876.0,9659.0,0.0,Dallas/Fort Worth, TX
-7114,2018,5,EV,ExpressJet Airlines Inc.,ATL,830.0,3.0,12418.0,6316.0,0.0,Atlanta, GA
-7066,2018,5,DL,Delta Air Lines Inc.,ORD,772.0,0.0,15560.0,2414.0,2430.0,Chicago, IL
-7041,2018,5,DL,Delta Air Lines Inc.,LAX,3107.0,2.0,25258.0,8978.0,1154.0,Los Angeles, CA
-7228,2018,5,F9,Frontier Airlines Inc.,DEN,1998.0,16.0,40382.0,8241.0,247.0,Denver, CO
-7002,2018,5,DL,Delta Air Lines Inc.,DEN,1021.0,0.0,6825.0,3478.0,387.0,Denver, CO
-6969,2018,5,DL,Delta Air Lines Inc.,ATL,21384.0,3.0,186765.0,72239.0,9337.0,Atlanta, GA
-6934,2018,5,B6,JetBlue Airways,ORD,242.0,3.0,7317.0,1827.0,422.0,Chicago, IL
-6926,2018,5,B6,JetBlue Airways,LAX,551.0,0.0,7330.0,3855.0,0.0,Los Angeles, CA
-6915,2018,5,B6,JetBlue Airways,DFW,58.0,0.0,731.0,567.0,0.0,Dallas/Fort Worth, TX
-7003,2018,5,DL,Delta Air Lines Inc.,DFW,560.0,0.0,4711.0,1803.0,107.0,Dallas/Fort Worth, TX
-9432,2018,6,OO,SkyWest Airlines Inc.,DEN,4530.0,27.0,68949.0,19919.0,3530.0,Denver, CO
-9376,2018,6,OO,SkyWest Airlines Inc.,ATL,2295.0,13.0,56782.0,12366.0,8479.0,Atlanta, GA
-9338,2018,6,OH,PSA Airlines Inc.,ORD,193.0,35.0,3335.0,819.0,183.0,Chicago, IL
-9275,2018,6,OH,PSA Airlines Inc.,ATL,104.0,19.0,2313.0,930.0,270.0,Atlanta, GA
-9259,2018,6,NK,Spirit Air Lines,ORD,870.0,15.0,20994.0,878.0,1510.0,Chicago, IL
-9250,2018,6,NK,Spirit Air Lines,LAX,768.0,2.0,6283.0,656.0,197.0,Los Angeles, CA
-9199,2018,6,MQ,Envoy Air,ORD,5015.0,428.0,114315.0,21690.0,7849.0,Chicago, IL
-9242,2018,6,NK,Spirit Air Lines,DEN,330.0,2.0,5207.0,279.0,95.0,Denver, CO
-9233,2018,6,NK,Spirit Air Lines,ATL,737.0,7.0,12118.0,1075.0,285.0,Atlanta, GA
-9140,2018,6,MQ,Envoy Air,DFW,4417.0,63.0,49353.0,13658.0,4809.0,Dallas/Fort Worth, TX
-9104,2018,6,MQ,Envoy Air,ATL,78.0,7.0,2179.0,303.0,173.0,Atlanta, GA
-9084,2018,6,HA,Hawaiian Airlines Inc.,LAX,184.0,1.0,2113.0,1995.0,0.0,Los Angeles, CA
-9243,2018,6,NK,Spirit Air Lines,DFW,1004.0,7.0,15477.0,2130.0,505.0,Dallas/Fort Worth, TX
-9433,2018,6,OO,SkyWest Airlines Inc.,DFW,421.0,3.0,9387.0,3452.0,725.0,Dallas/Fort Worth, TX
-9015,2018,6,G4,Allegiant Air,LAX,216.0,5.0,4114.0,1490.0,39.0,Los Angeles, CA
-9535,2018,6,OO,SkyWest Airlines Inc.,ORD,6437.0,283.0,200841.0,50251.0,11031.0,Chicago, IL
-9610,2018,6,UA,United Air Lines Inc.,ATL,441.0,0.0,7514.0,1806.0,371.0,Atlanta, GA
-9633,2018,6,UA,United Air Lines Inc.,DEN,5650.0,18.0,67105.0,15768.0,3885.0,Denver, CO
-9634,2018,6,UA,United Air Lines Inc.,DFW,706.0,4.0,14851.0,3601.0,1116.0,Dallas/Fort Worth, TX
-9660,2018,6,UA,United Air Lines Inc.,LAX,2690.0,8.0,33606.0,9924.0,2976.0,Los Angeles, CA
-9681,2018,6,UA,United Air Lines Inc.,ORD,6913.0,95.0,160776.0,23581.0,9147.0,Chicago, IL
-9719,2018,6,WN,Southwest Airlines Co.,ATL,3488.0,28.0,52626.0,12100.0,3472.0,Atlanta, GA
-9737,2018,6,WN,Southwest Airlines Co.,DEN,6014.0,41.0,65516.0,16993.0,2714.0,Denver, CO
-9805,2018,6,YV,Mesa Airlines Inc.,ATL,201.0,3.0,3518.0,909.0,52.0,Atlanta, GA
-9830,2018,6,YV,Mesa Airlines Inc.,DFW,3063.0,136.0,43557.0,14751.0,3666.0,Dallas/Fort Worth, TX
-9904,2018,6,YX,Republic Airline,ATL,319.0,13.0,3316.0,671.0,727.0,Atlanta, GA
-9927,2018,6,YX,Republic Airline,DEN,438.0,5.0,6771.0,1185.0,237.0,Denver, CO
-9928,2018,6,YX,Republic Airline,DFW,265.0,2.0,3073.0,1900.0,0.0,Dallas/Fort Worth, TX
-9966,2018,6,YX,Republic Airline,ORD,1647.0,71.0,33641.0,6523.0,953.0,Chicago, IL
-9494,2018,6,OO,SkyWest Airlines Inc.,LAX,2648.0,5.0,27919.0,9229.0,1922.0,Los Angeles, CA
-8985,2018,6,G4,Allegiant Air,DEN,29.0,0.0,362.0,51.0,0.0,Denver, CO
-9756,2018,6,WN,Southwest Airlines Co.,LAX,3565.0,57.0,34903.0,10319.0,963.0,Los Angeles, CA
-8919,2018,6,F9,Frontier Airlines Inc.,LAX,90.0,3.0,1749.0,723.0,0.0,Los Angeles, CA
-8295,2018,6,9E,Endeavor Air Inc.,DEN,5.0,0.0,0.0,0.0,0.0,Denver, CO
-8296,2018,6,9E,Endeavor Air Inc.,DFW,111.0,0.0,438.0,40.0,98.0,Dallas/Fort Worth, TX
-8343,2018,6,9E,Endeavor Air Inc.,ORD,166.0,1.0,3725.0,1034.0,1.0,Chicago, IL
-8375,2018,6,AA,American Airlines Inc.,ATL,964.0,23.0,15251.0,4519.0,1207.0,Atlanta, GA
-8393,2018,6,AA,American Airlines Inc.,DEN,934.0,13.0,17400.0,5482.0,1266.0,Denver, CO
-8935,2018,6,F9,Frontier Airlines Inc.,ORD,240.0,7.0,9817.0,2266.0,286.0,Chicago, IL
-8394,2018,6,AA,American Airlines Inc.,DFW,12657.0,295.0,200339.0,61464.0,13153.0,Dallas/Fort Worth, TX
-8416,2018,6,AA,American Airlines Inc.,LAX,3463.0,33.0,44309.0,19207.0,3523.0,Los Angeles, CA
-8437,2018,6,AA,American Airlines Inc.,ORD,5565.0,161.0,123661.0,26383.0,8199.0,Chicago, IL
-8477,2018,6,AS,Alaska Airlines Inc.,ATL,85.0,0.0,318.0,19.0,0.0,Atlanta, GA
-8490,2018,6,AS,Alaska Airlines Inc.,DEN,188.0,0.0,1412.0,701.0,0.0,Denver, CO
-8491,2018,6,AS,Alaska Airlines Inc.,DFW,149.0,0.0,513.0,51.0,0.0,Dallas/Fort Worth, TX
-8508,2018,6,AS,Alaska Airlines Inc.,LAX,1965.0,34.0,16132.0,5935.0,129.0,Los Angeles, CA
-8520,2018,6,AS,Alaska Airlines Inc.,ORD,324.0,5.0,4640.0,1172.0,0.0,Chicago, IL
-8548,2018,6,B6,JetBlue Airways,ATL,288.0,0.0,4755.0,1726.0,434.0,Atlanta, GA
-8264,2018,6,9E,Endeavor Air Inc.,ATL,2312.0,24.0,51054.0,10254.0,4496.0,Atlanta, GA
-8564,2018,6,B6,JetBlue Airways,DFW,55.0,0.0,131.0,76.0,0.0,Dallas/Fort Worth, TX
-8902,2018,6,F9,Frontier Airlines Inc.,DFW,59.0,2.0,2257.0,378.0,0.0,Dallas/Fort Worth, TX
-8901,2018,6,F9,Frontier Airlines Inc.,DEN,1942.0,68.0,52729.0,9092.0,505.0,Denver, CO
-8884,2018,6,F9,Frontier Airlines Inc.,ATL,312.0,6.0,8299.0,2485.0,101.0,Atlanta, GA
-8851,2018,6,EV,ExpressJet Airlines Inc.,ORD,622.0,13.0,23472.0,5282.0,1352.0,Chicago, IL
-8563,2018,6,B6,JetBlue Airways,DEN,102.0,0.0,1504.0,469.0,0.0,Denver, CO
-8766,2018,6,EV,ExpressJet Airlines Inc.,ATL,1204.0,6.0,24920.0,11483.0,0.0,Atlanta, GA
-8796,2018,6,EV,ExpressJet Airlines Inc.,DFW,949.0,14.0,17367.0,10532.0,0.0,Dallas/Fort Worth, TX
-8691,2018,6,DL,Delta Air Lines Inc.,LAX,3272.0,3.0,33905.0,17666.0,1411.0,Los Angeles, CA
-8652,2018,6,DL,Delta Air Lines Inc.,DFW,723.0,0.0,9730.0,3784.0,1395.0,Dallas/Fort Worth, TX
-8651,2018,6,DL,Delta Air Lines Inc.,DEN,1043.0,0.0,8621.0,3953.0,714.0,Denver, CO
-8617,2018,6,DL,Delta Air Lines Inc.,ATL,21029.0,62.0,370937.0,108068.0,19018.0,Atlanta, GA
-8583,2018,6,B6,JetBlue Airways,ORD,245.0,5.0,7417.0,1439.0,70.0,Chicago, IL
-8575,2018,6,B6,JetBlue Airways,LAX,516.0,0.0,5254.0,2009.0,584.0,Los Angeles, CA
-8716,2018,6,DL,Delta Air Lines Inc.,ORD,932.0,2.0,28454.0,5080.0,879.0,Chicago, IL
-11083,2018,7,OO,SkyWest Airlines Inc.,ATL,2269.0,18.0,33935.0,9224.0,6077.0,Atlanta, GA
-11045,2018,7,OH,PSA Airlines Inc.,ORD,197.0,7.0,1736.0,629.0,3.0,Chicago, IL
-10982,2018,7,OH,PSA Airlines Inc.,ATL,112.0,3.0,1680.0,487.0,408.0,Atlanta, GA
-10966,2018,7,NK,Spirit Air Lines,ORD,899.0,4.0,17720.0,3031.0,772.0,Chicago, IL
-10957,2018,7,NK,Spirit Air Lines,LAX,792.0,2.0,10539.0,1841.0,271.0,Los Angeles, CA
-10797,2018,7,HA,Hawaiian Airlines Inc.,LAX,200.0,1.0,2087.0,1563.0,0.0,Los Angeles, CA
-10949,2018,7,NK,Spirit Air Lines,DEN,341.0,1.0,6240.0,664.0,107.0,Denver, CO
-10940,2018,7,NK,Spirit Air Lines,ATL,762.0,6.0,14269.0,2356.0,922.0,Atlanta, GA
-10907,2018,7,MQ,Envoy Air,ORD,5131.0,103.0,62932.0,16638.0,2464.0,Chicago, IL
-10851,2018,7,MQ,Envoy Air,DFW,4173.0,115.0,53374.0,12376.0,4891.0,Dallas/Fort Worth, TX
-10817,2018,7,MQ,Envoy Air,ATL,53.0,2.0,534.0,143.0,0.0,Atlanta, GA
-11134,2018,7,OO,SkyWest Airlines Inc.,DEN,4772.0,79.0,64476.0,21033.0,4580.0,Denver, CO
-10950,2018,7,NK,Spirit Air Lines,DFW,1036.0,8.0,22970.0,4009.0,1632.0,Dallas/Fort Worth, TX
-11135,2018,7,OO,SkyWest Airlines Inc.,DFW,540.0,14.0,11022.0,4517.0,1163.0,Dallas/Fort Worth, TX
-11416,2018,7,WN,Southwest Airlines Co.,ATL,3588.0,61.0,52388.0,13415.0,2305.0,Atlanta, GA
-11236,2018,7,OO,SkyWest Airlines Inc.,ORD,6615.0,110.0,132859.0,44746.0,6305.0,Chicago, IL
-11309,2018,7,UA,United Air Lines Inc.,ATL,430.0,6.0,8788.0,2356.0,291.0,Atlanta, GA
-11332,2018,7,UA,United Air Lines Inc.,DEN,5840.0,27.0,82593.0,24995.0,4429.0,Denver, CO
-11333,2018,7,UA,United Air Lines Inc.,DFW,695.0,3.0,13199.0,2601.0,465.0,Dallas/Fort Worth, TX
-11358,2018,7,UA,United Air Lines Inc.,LAX,2773.0,14.0,34378.0,9265.0,2855.0,Los Angeles, CA
-11379,2018,7,UA,United Air Lines Inc.,ORD,7247.0,50.0,128911.0,29356.0,9001.0,Chicago, IL
-11434,2018,7,WN,Southwest Airlines Co.,DEN,6258.0,109.0,79180.0,20756.0,4562.0,Denver, CO
-11452,2018,7,WN,Southwest Airlines Co.,LAX,3672.0,86.0,38732.0,12146.0,1011.0,Los Angeles, CA
-11501,2018,7,YV,Mesa Airlines Inc.,ATL,233.0,2.0,5777.0,1891.0,596.0,Atlanta, GA
-11526,2018,7,YV,Mesa Airlines Inc.,DFW,3144.0,98.0,60980.0,15751.0,5717.0,Dallas/Fort Worth, TX
-11597,2018,7,YX,Republic Airline,ATL,297.0,10.0,4119.0,607.0,814.0,Atlanta, GA
-11614,2018,7,YX,Republic Airline,DEN,473.0,7.0,4321.0,921.0,362.0,Denver, CO
-11615,2018,7,YX,Republic Airline,DFW,357.0,19.0,7219.0,2453.0,68.0,Dallas/Fort Worth, TX
-10728,2018,7,G4,Allegiant Air,LAX,239.0,1.0,3567.0,1088.0,77.0,Los Angeles, CA
-11195,2018,7,OO,SkyWest Airlines Inc.,LAX,2745.0,37.0,33352.0,11205.0,1567.0,Los Angeles, CA
-10698,2018,7,G4,Allegiant Air,DEN,31.0,0.0,547.0,181.0,0.0,Denver, CO
-11654,2018,7,YX,Republic Airline,ORD,1572.0,36.0,19677.0,1975.0,1314.0,Chicago, IL
-10628,2018,7,F9,Frontier Airlines Inc.,LAX,93.0,1.0,1932.0,467.0,54.0,Los Angeles, CA
-9993,2018,7,9E,Endeavor Air Inc.,ATL,2466.0,10.0,31302.0,6624.0,3222.0,Atlanta, GA
-10022,2018,7,9E,Endeavor Air Inc.,DEN,4.0,0.0,147.0,112.0,0.0,Denver, CO
-10023,2018,7,9E,Endeavor Air Inc.,DFW,131.0,1.0,1622.0,658.0,74.0,Dallas/Fort Worth, TX
-10067,2018,7,9E,Endeavor Air Inc.,ORD,110.0,3.0,2110.0,406.0,0.0,Chicago, IL
-10097,2018,7,AA,American Airlines Inc.,ATL,1014.0,24.0,20483.0,6527.0,2067.0,Atlanta, GA
-10115,2018,7,AA,American Airlines Inc.,DEN,953.0,16.0,20537.0,5854.0,1196.0,Denver, CO
-10116,2018,7,AA,American Airlines Inc.,DFW,13034.0,223.0,225174.0,63489.0,14886.0,Dallas/Fort Worth, TX
-10138,2018,7,AA,American Airlines Inc.,LAX,3587.0,59.0,50366.0,16834.0,4230.0,Los Angeles, CA
-10159,2018,7,AA,American Airlines Inc.,ORD,5738.0,128.0,90530.0,28161.0,6671.0,Chicago, IL
-10199,2018,7,AS,Alaska Airlines Inc.,ATL,88.0,0.0,190.0,173.0,0.0,Atlanta, GA
-10212,2018,7,AS,Alaska Airlines Inc.,DEN,186.0,7.0,1222.0,584.0,9.0,Denver, CO
-10213,2018,7,AS,Alaska Airlines Inc.,DFW,155.0,0.0,432.0,200.0,0.0,Dallas/Fort Worth, TX
-10230,2018,7,AS,Alaska Airlines Inc.,LAX,1973.0,30.0,18536.0,8591.0,376.0,Los Angeles, CA
-10242,2018,7,AS,Alaska Airlines Inc.,ORD,350.0,2.0,3795.0,1229.0,27.0,Chicago, IL
-10271,2018,7,B6,JetBlue Airways,ATL,302.0,4.0,6381.0,2515.0,408.0,Atlanta, GA
-10645,2018,7,F9,Frontier Airlines Inc.,ORD,248.0,3.0,7771.0,1728.0,122.0,Chicago, IL
-10287,2018,7,B6,JetBlue Airways,DFW,58.0,0.0,638.0,165.0,77.0,Dallas/Fort Worth, TX
-10286,2018,7,B6,JetBlue Airways,DEN,120.0,2.0,2195.0,800.0,342.0,Denver, CO
-10611,2018,7,F9,Frontier Airlines Inc.,DFW,59.0,4.0,1821.0,317.0,51.0,Dallas/Fort Worth, TX
-10610,2018,7,F9,Frontier Airlines Inc.,DEN,2061.0,96.0,49658.0,10937.0,187.0,Denver, CO
-10593,2018,7,F9,Frontier Airlines Inc.,ATL,324.0,4.0,8788.0,2185.0,273.0,Atlanta, GA
-10513,2018,7,EV,ExpressJet Airlines Inc.,DFW,1189.0,19.0,25200.0,10999.0,0.0,Dallas/Fort Worth, TX
-10487,2018,7,EV,ExpressJet Airlines Inc.,ATL,1107.0,2.0,15313.0,6905.0,0.0,Atlanta, GA
-10563,2018,7,EV,ExpressJet Airlines Inc.,ORD,665.0,5.0,12263.0,2141.0,772.0,Chicago, IL
-10413,2018,7,DL,Delta Air Lines Inc.,LAX,3405.0,2.0,29915.0,14246.0,2556.0,Los Angeles, CA
-10374,2018,7,DL,Delta Air Lines Inc.,DFW,656.0,0.0,10800.0,2659.0,1398.0,Dallas/Fort Worth, TX
-10373,2018,7,DL,Delta Air Lines Inc.,DEN,1105.0,1.0,9913.0,3731.0,965.0,Denver, CO
-10340,2018,7,DL,Delta Air Lines Inc.,ATL,21688.0,33.0,262779.0,66972.0,15538.0,Atlanta, GA
-10306,2018,7,B6,JetBlue Airways,ORD,275.0,6.0,6996.0,2151.0,122.0,Chicago, IL
-10298,2018,7,B6,JetBlue Airways,LAX,553.0,2.0,8668.0,2399.0,633.0,Los Angeles, CA
-10439,2018,7,DL,Delta Air Lines Inc.,ORD,948.0,2.0,12293.0,2686.0,660.0,Chicago, IL
-12653,2018,8,DL,Delta Air Lines Inc.,DFW,677.0,2.0,8865.0,3750.0,573.0,Dallas/Fort Worth, TX
-12795,2018,8,EV,ExpressJet Airlines Inc.,DFW,1261.0,50.0,28702.0,12500.0,0.0,Dallas/Fort Worth, TX
-12766,2018,8,EV,ExpressJet Airlines Inc.,ATL,1147.0,3.0,16061.0,6334.0,0.0,Atlanta, GA
-12718,2018,8,DL,Delta Air Lines Inc.,ORD,1033.0,4.0,18685.0,2973.0,1503.0,Chicago, IL
-12692,2018,8,DL,Delta Air Lines Inc.,LAX,3378.0,5.0,30735.0,11450.0,1640.0,Los Angeles, CA
-12652,2018,8,DL,Delta Air Lines Inc.,DEN,1105.0,4.0,11259.0,4169.0,1127.0,Denver, CO
-12520,2018,8,AS,Alaska Airlines Inc.,ORD,351.0,0.0,5931.0,1704.0,0.0,Chicago, IL
-12584,2018,8,B6,JetBlue Airways,ORD,258.0,10.0,7087.0,2730.0,43.0,Chicago, IL
-12576,2018,8,B6,JetBlue Airways,LAX,547.0,1.0,9197.0,2189.0,768.0,Los Angeles, CA
-12565,2018,8,B6,JetBlue Airways,DFW,58.0,2.0,779.0,442.0,0.0,Dallas/Fort Worth, TX
-12564,2018,8,B6,JetBlue Airways,DEN,120.0,1.0,2274.0,714.0,194.0,Denver, CO
-12549,2018,8,B6,JetBlue Airways,ATL,302.0,4.0,6705.0,2676.0,273.0,Atlanta, GA
-12848,2018,8,EV,ExpressJet Airlines Inc.,ORD,666.0,12.0,15225.0,1897.0,64.0,Chicago, IL
-12618,2018,8,DL,Delta Air Lines Inc.,ATL,21931.0,32.0,213951.0,68859.0,13357.0,Atlanta, GA
-12878,2018,8,F9,Frontier Airlines Inc.,ATL,303.0,10.0,7587.0,2364.0,6.0,Atlanta, GA
-13085,2018,8,HA,Hawaiian Airlines Inc.,LAX,214.0,0.0,2901.0,1752.0,0.0,Los Angeles, CA
-12896,2018,8,F9,Frontier Airlines Inc.,DFW,54.0,2.0,1650.0,422.0,0.0,Dallas/Fort Worth, TX
-12914,2018,8,F9,Frontier Airlines Inc.,LAX,104.0,2.0,2026.0,843.0,0.0,Los Angeles, CA
-12931,2018,8,F9,Frontier Airlines Inc.,ORD,268.0,6.0,7158.0,1766.0,66.0,Chicago, IL
-12986,2018,8,G4,Allegiant Air,DEN,25.0,0.0,294.0,34.0,138.0,Denver, CO
-13016,2018,8,G4,Allegiant Air,LAX,177.0,0.0,1174.0,265.0,36.0,Los Angeles, CA
-13105,2018,8,MQ,Envoy Air,ATL,58.0,1.0,763.0,28.0,2.0,Atlanta, GA
-13141,2018,8,MQ,Envoy Air,DFW,4147.0,32.0,44860.0,9907.0,6418.0,Dallas/Fort Worth, TX
-13200,2018,8,MQ,Envoy Air,ORD,5346.0,226.0,83834.0,14420.0,7004.0,Chicago, IL
-13215,2018,8,YV,Mesa Airlines Inc.,ATL,226.0,4.0,2920.0,951.0,395.0,Atlanta, GA
-13242,2018,8,YV,Mesa Airlines Inc.,DFW,3365.0,128.0,57541.0,16613.0,3030.0,Dallas/Fort Worth, TX
-13320,2018,8,YX,Republic Airline,ATL,382.0,22.0,3497.0,481.0,507.0,Atlanta, GA
-13341,2018,8,YX,Republic Airline,DEN,469.0,2.0,3925.0,988.0,180.0,Denver, CO
-13342,2018,8,YX,Republic Airline,DFW,406.0,28.0,7298.0,2579.0,177.0,Dallas/Fort Worth, TX
-12508,2018,8,AS,Alaska Airlines Inc.,LAX,1905.0,33.0,23181.0,10132.0,328.0,Los Angeles, CA
-12895,2018,8,F9,Frontier Airlines Inc.,DEN,2104.0,55.0,50664.0,12146.0,373.0,Denver, CO
-13383,2018,8,YX,Republic Airline,ORD,1476.0,45.0,29156.0,3661.0,983.0,Chicago, IL
-12491,2018,8,AS,Alaska Airlines Inc.,DFW,148.0,0.0,895.0,261.0,17.0,Dallas/Fort Worth, TX
-12477,2018,8,AS,Alaska Airlines Inc.,ATL,63.0,0.0,299.0,60.0,0.0,Atlanta, GA
-12490,2018,8,AS,Alaska Airlines Inc.,DEN,179.0,0.0,1943.0,916.0,0.0,Denver, CO
-11704,2018,8,NK,Spirit Air Lines,ATL,762.0,4.0,16282.0,4071.0,380.0,Atlanta, GA
-11713,2018,8,NK,Spirit Air Lines,DEN,341.0,2.0,6456.0,1163.0,84.0,Denver, CO
-11714,2018,8,NK,Spirit Air Lines,DFW,1037.0,11.0,23321.0,5366.0,1523.0,Dallas/Fort Worth, TX
-11721,2018,8,NK,Spirit Air Lines,LAX,793.0,6.0,12001.0,3535.0,124.0,Los Angeles, CA
-11730,2018,8,NK,Spirit Air Lines,ORD,894.0,13.0,30875.0,3476.0,810.0,Chicago, IL
-11746,2018,8,OH,PSA Airlines Inc.,ATL,112.0,2.0,3058.0,1228.0,332.0,Atlanta, GA
-11809,2018,8,OH,PSA Airlines Inc.,ORD,205.0,8.0,4278.0,535.0,17.0,Chicago, IL
-11902,2018,8,OO,SkyWest Airlines Inc.,DEN,4689.0,24.0,65080.0,26667.0,2533.0,Denver, CO
-11903,2018,8,OO,SkyWest Airlines Inc.,DFW,594.0,6.0,15072.0,8031.0,895.0,Dallas/Fort Worth, TX
-11962,2018,8,OO,SkyWest Airlines Inc.,LAX,2773.0,22.0,35317.0,12313.0,1753.0,Los Angeles, CA
-12003,2018,8,OO,SkyWest Airlines Inc.,ORD,6427.0,257.0,201199.0,56344.0,9918.0,Chicago, IL
-12078,2018,8,UA,United Air Lines Inc.,ATL,427.0,10.0,8280.0,2514.0,748.0,Atlanta, GA
-12101,2018,8,UA,United Air Lines Inc.,DEN,5876.0,48.0,75139.0,23036.0,6603.0,Denver, CO
-11848,2018,8,OO,SkyWest Airlines Inc.,ATL,2227.0,8.0,36153.0,9433.0,6016.0,Atlanta, GA
-12127,2018,8,UA,United Air Lines Inc.,LAX,2664.0,12.0,39997.0,12191.0,2467.0,Los Angeles, CA
-12102,2018,8,UA,United Air Lines Inc.,DFW,640.0,4.0,13193.0,2598.0,1322.0,Dallas/Fort Worth, TX
-12417,2018,8,AA,American Airlines Inc.,LAX,3567.0,31.0,45886.0,16129.0,4018.0,Los Angeles, CA
-12394,2018,8,AA,American Airlines Inc.,DFW,12760.0,218.0,212420.0,57910.0,13174.0,Dallas/Fort Worth, TX
-12393,2018,8,AA,American Airlines Inc.,DEN,943.0,11.0,17344.0,5502.0,1866.0,Denver, CO
-12375,2018,8,AA,American Airlines Inc.,ATL,1002.0,19.0,18130.0,5984.0,771.0,Atlanta, GA
-12342,2018,8,9E,Endeavor Air Inc.,ORD,171.0,12.0,3935.0,370.0,137.0,Chicago, IL
-12299,2018,8,9E,Endeavor Air Inc.,DFW,140.0,1.0,1730.0,313.0,170.0,Dallas/Fort Worth, TX
-12437,2018,8,AA,American Airlines Inc.,ORD,5793.0,93.0,106854.0,28598.0,5011.0,Chicago, IL
-12268,2018,8,9E,Endeavor Air Inc.,ATL,2532.0,2.0,34222.0,6018.0,4409.0,Atlanta, GA
-12221,2018,8,WN,Southwest Airlines Co.,LAX,3757.0,94.0,37282.0,12849.0,944.0,Los Angeles, CA
-12203,2018,8,WN,Southwest Airlines Co.,DEN,6036.0,56.0,64759.0,19006.0,2049.0,Denver, CO
-12185,2018,8,WN,Southwest Airlines Co.,ATL,3643.0,81.0,44650.0,13460.0,3101.0,Atlanta, GA
-12148,2018,8,UA,United Air Lines Inc.,ORD,7484.0,102.0,165022.0,30648.0,10803.0,Chicago, IL
-12298,2018,8,9E,Endeavor Air Inc.,DEN,4.0,0.0,0.0,0.0,0.0,Denver, CO
-15061,2018,9,YX,Republic Airline,ORD,1180.0,20.0,16695.0,1114.0,314.0,Chicago, IL
-14600,2018,9,DL,Delta Air Lines Inc.,ATL,20071.0,51.0,133589.0,46948.0,9406.0,Atlanta, GA
-14566,2018,9,B6,JetBlue Airways,ORD,239.0,2.0,5160.0,1176.0,5.0,Chicago, IL
-14557,2018,9,B6,JetBlue Airways,LAX,492.0,0.0,4591.0,1296.0,476.0,Los Angeles, CA
-14546,2018,9,B6,JetBlue Airways,DFW,55.0,1.0,913.0,480.0,0.0,Dallas/Fort Worth, TX
-14545,2018,9,B6,JetBlue Airways,DEN,115.0,0.0,1207.0,647.0,0.0,Denver, CO
-14473,2018,9,AS,Alaska Airlines Inc.,DFW,115.0,0.0,689.0,18.0,0.0,Dallas/Fort Worth, TX
-14500,2018,9,AS,Alaska Airlines Inc.,ORD,321.0,0.0,2407.0,512.0,7.0,Chicago, IL
-14488,2018,9,AS,Alaska Airlines Inc.,LAX,1712.0,22.0,11322.0,3924.0,14.0,Los Angeles, CA
-14472,2018,9,AS,Alaska Airlines Inc.,DEN,144.0,0.0,252.0,162.0,0.0,Denver, CO
-14459,2018,9,AS,Alaska Airlines Inc.,ATL,51.0,0.0,17.0,0.0,0.0,Atlanta, GA
-14422,2018,9,AA,American Airlines Inc.,ORD,5310.0,76.0,78233.0,22524.0,4407.0,Chicago, IL
-14530,2018,9,B6,JetBlue Airways,ATL,290.0,1.0,2869.0,1051.0,224.0,Atlanta, GA
-14633,2018,9,DL,Delta Air Lines Inc.,DFW,627.0,0.0,5630.0,1468.0,529.0,Dallas/Fort Worth, TX
-14403,2018,9,AA,American Airlines Inc.,LAX,3403.0,35.0,35223.0,12342.0,2564.0,Los Angeles, CA
-14697,2018,9,DL,Delta Air Lines Inc.,ORD,845.0,0.0,12243.0,2589.0,365.0,Chicago, IL
-14743,2018,9,EV,ExpressJet Airlines Inc.,ATL,732.0,0.0,6040.0,2469.0,0.0,Atlanta, GA
-14771,2018,9,EV,ExpressJet Airlines Inc.,DFW,1031.0,26.0,22146.0,11695.0,0.0,Dallas/Fort Worth, TX
-14819,2018,9,EV,ExpressJet Airlines Inc.,ORD,697.0,8.0,15962.0,2519.0,388.0,Chicago, IL
-14846,2018,9,F9,Frontier Airlines Inc.,ATL,283.0,4.0,5849.0,1700.0,0.0,Atlanta, GA
-14864,2018,9,F9,Frontier Airlines Inc.,DEN,2126.0,51.0,42958.0,10756.0,317.0,Denver, CO
-14865,2018,9,F9,Frontier Airlines Inc.,DFW,45.0,2.0,455.0,220.0,0.0,Dallas/Fort Worth, TX
-14883,2018,9,F9,Frontier Airlines Inc.,LAX,107.0,2.0,1143.0,367.0,0.0,Los Angeles, CA
-14900,2018,9,F9,Frontier Airlines Inc.,ORD,235.0,6.0,6865.0,1362.0,112.0,Chicago, IL
-14905,2018,9,YV,Mesa Airlines Inc.,ATL,191.0,3.0,2972.0,887.0,592.0,Atlanta, GA
-14931,2018,9,YV,Mesa Airlines Inc.,DFW,3187.0,209.0,74092.0,19339.0,5727.0,Dallas/Fort Worth, TX
-15003,2018,9,YX,Republic Airline,ATL,487.0,7.0,3904.0,867.0,363.0,Atlanta, GA
-15023,2018,9,YX,Republic Airline,DEN,331.0,1.0,1108.0,525.0,45.0,Denver, CO
-15024,2018,9,YX,Republic Airline,DFW,274.0,3.0,3604.0,1147.0,20.0,Dallas/Fort Worth, TX
-14671,2018,9,DL,Delta Air Lines Inc.,LAX,2875.0,0.0,17073.0,9494.0,595.0,Los Angeles, CA
-14380,2018,9,AA,American Airlines Inc.,DFW,11701.0,355.0,160964.0,42816.0,11311.0,Dallas/Fort Worth, TX
-14632,2018,9,DL,Delta Air Lines Inc.,DEN,1004.0,0.0,3192.0,1254.0,225.0,Denver, CO
-14361,2018,9,AA,American Airlines Inc.,ATL,963.0,17.0,12035.0,4534.0,667.0,Atlanta, GA
-13461,2018,9,G4,Allegiant Air,DEN,10.0,0.0,331.0,298.0,0.0,Denver, CO
-13491,2018,9,G4,Allegiant Air,LAX,97.0,0.0,970.0,711.0,0.0,Los Angeles, CA
-13558,2018,9,HA,Hawaiian Airlines Inc.,LAX,180.0,4.0,1797.0,1104.0,0.0,Los Angeles, CA
-13578,2018,9,MQ,Envoy Air,ATL,55.0,2.0,575.0,44.0,53.0,Atlanta, GA
-13612,2018,9,MQ,Envoy Air,DFW,3668.0,104.0,44638.0,8159.0,4620.0,Dallas/Fort Worth, TX
-13667,2018,9,MQ,Envoy Air,ORD,5408.0,167.0,56983.0,13754.0,5450.0,Chicago, IL
-13703,2018,9,NK,Spirit Air Lines,ATL,693.0,2.0,7633.0,2472.0,191.0,Atlanta, GA
-13713,2018,9,NK,Spirit Air Lines,DEN,287.0,0.0,2590.0,671.0,459.0,Denver, CO
-13714,2018,9,NK,Spirit Air Lines,DFW,688.0,2.0,10373.0,2514.0,196.0,Dallas/Fort Worth, TX
-13722,2018,9,NK,Spirit Air Lines,LAX,654.0,1.0,4426.0,691.0,280.0,Los Angeles, CA
-13731,2018,9,NK,Spirit Air Lines,ORD,737.0,13.0,13370.0,942.0,283.0,Chicago, IL
-13747,2018,9,OH,PSA Airlines Inc.,ATL,102.0,3.0,2149.0,1105.0,364.0,Atlanta, GA
-13808,2018,9,OH,PSA Airlines Inc.,ORD,197.0,5.0,2246.0,698.0,38.0,Chicago, IL
-13846,2018,9,OO,SkyWest Airlines Inc.,ATL,1832.0,39.0,22936.0,7527.0,1736.0,Atlanta, GA
-14379,2018,9,AA,American Airlines Inc.,DEN,844.0,12.0,11949.0,4179.0,707.0,Denver, CO
-13896,2018,9,OO,SkyWest Airlines Inc.,DFW,646.0,11.0,13422.0,6095.0,392.0,Dallas/Fort Worth, TX
-14328,2018,9,9E,Endeavor Air Inc.,ORD,36.0,0.0,897.0,0.0,0.0,Chicago, IL
-14288,2018,9,9E,Endeavor Air Inc.,DFW,202.0,0.0,2427.0,555.0,110.0,Dallas/Fort Worth, TX
-14259,2018,9,9E,Endeavor Air Inc.,ATL,2032.0,23.0,17490.0,3348.0,1570.0,Atlanta, GA
-14209,2018,9,WN,Southwest Airlines Co.,LAX,3537.0,56.0,23053.0,7069.0,516.0,Los Angeles, CA
-13895,2018,9,OO,SkyWest Airlines Inc.,DEN,4037.0,7.0,31041.0,17634.0,1063.0,Denver, CO
-14173,2018,9,WN,Southwest Airlines Co.,ATL,3362.0,33.0,23437.0,6803.0,1450.0,Atlanta, GA
-14191,2018,9,WN,Southwest Airlines Co.,DEN,5521.0,38.0,36949.0,11706.0,1176.0,Denver, CO
-14118,2018,9,UA,United Air Lines Inc.,LAX,2225.0,3.0,18758.0,7416.0,2345.0,Los Angeles, CA
-14094,2018,9,UA,United Air Lines Inc.,DFW,556.0,3.0,11122.0,1449.0,265.0,Dallas/Fort Worth, TX
-14093,2018,9,UA,United Air Lines Inc.,DEN,5388.0,12.0,41874.0,14954.0,2345.0,Denver, CO
-14070,2018,9,UA,United Air Lines Inc.,ATL,377.0,0.0,3540.0,899.0,3.0,Atlanta, GA
-13997,2018,9,OO,SkyWest Airlines Inc.,ORD,5919.0,124.0,110534.0,35826.0,8503.0,Chicago, IL
-13955,2018,9,OO,SkyWest Airlines Inc.,LAX,2591.0,5.0,19112.0,8321.0,747.0,Los Angeles, CA
-14139,2018,9,UA,United Air Lines Inc.,ORD,7126.0,40.0,94911.0,15799.0,7673.0,Chicago, IL
-16237,2018,10,OO,SkyWest Airlines Inc.,DEN,4205.0,23.0,62084.0,29466.0,831.0,Denver, CO
-16186,2018,10,OO,SkyWest Airlines Inc.,ATL,1869.0,8.0,15321.0,3150.0,1056.0,Atlanta, GA
-16148,2018,10,OH,PSA Airlines Inc.,ORD,204.0,2.0,2057.0,675.0,0.0,Chicago, IL
-16087,2018,10,OH,PSA Airlines Inc.,ATL,111.0,2.0,716.0,417.0,0.0,Atlanta, GA
-16071,2018,10,NK,Spirit Air Lines,ORD,709.0,3.0,5478.0,820.0,34.0,Chicago, IL
-15918,2018,10,MQ,Envoy Air,ATL,57.0,1.0,453.0,49.0,0.0,Atlanta, GA
-16054,2018,10,NK,Spirit Air Lines,DFW,645.0,3.0,7439.0,965.0,555.0,Dallas/Fort Worth, TX
-16053,2018,10,NK,Spirit Air Lines,DEN,280.0,2.0,2385.0,179.0,32.0,Denver, CO
-16044,2018,10,NK,Spirit Air Lines,ATL,693.0,2.0,3536.0,966.0,46.0,Atlanta, GA
-16009,2018,10,MQ,Envoy Air,ORD,5745.0,85.0,49635.0,9913.0,2455.0,Chicago, IL
-15953,2018,10,MQ,Envoy Air,DFW,4003.0,92.0,58423.0,10160.0,8227.0,Dallas/Fort Worth, TX
-16238,2018,10,OO,SkyWest Airlines Inc.,DFW,837.0,20.0,16374.0,3576.0,1412.0,Dallas/Fort Worth, TX
-16062,2018,10,NK,Spirit Air Lines,LAX,658.0,1.0,4401.0,755.0,34.0,Los Angeles, CA
-16300,2018,10,OO,SkyWest Airlines Inc.,LAX,2730.0,5.0,31573.0,10672.0,775.0,Los Angeles, CA
-16539,2018,10,WN,Southwest Airlines Co.,DEN,5960.0,9.0,36016.0,11242.0,447.0,Denver, CO
-16416,2018,10,UA,United Air Lines Inc.,ATL,347.0,1.0,2539.0,565.0,16.0,Atlanta, GA
-16438,2018,10,UA,United Air Lines Inc.,DEN,5675.0,9.0,43487.0,14581.0,1064.0,Denver, CO
-16439,2018,10,UA,United Air Lines Inc.,DFW,502.0,2.0,8687.0,1651.0,132.0,Dallas/Fort Worth, TX
-16463,2018,10,UA,United Air Lines Inc.,LAX,2332.0,2.0,24726.0,7523.0,1821.0,Los Angeles, CA
-16484,2018,10,UA,United Air Lines Inc.,ORD,7419.0,8.0,69774.0,19209.0,1149.0,Chicago, IL
-16521,2018,10,WN,Southwest Airlines Co.,ATL,3585.0,11.0,20946.0,7263.0,58.0,Atlanta, GA
-16557,2018,10,WN,Southwest Airlines Co.,LAX,3732.0,55.0,32232.0,10393.0,352.0,Los Angeles, CA
-16605,2018,10,YV,Mesa Airlines Inc.,ATL,192.0,0.0,4943.0,2345.0,196.0,Atlanta, GA
-16629,2018,10,YV,Mesa Airlines Inc.,DFW,3148.0,196.0,77106.0,20581.0,6533.0,Dallas/Fort Worth, TX
-16705,2018,10,YX,Republic Airline,ATL,513.0,3.0,2791.0,574.0,64.0,Atlanta, GA
-16726,2018,10,YX,Republic Airline,DEN,206.0,0.0,2140.0,497.0,56.0,Denver, CO
-16727,2018,10,YX,Republic Airline,DFW,261.0,1.0,4790.0,981.0,46.0,Dallas/Fort Worth, TX
-16766,2018,10,YX,Republic Airline,ORD,1202.0,3.0,11430.0,3046.0,272.0,Chicago, IL
-15898,2018,10,HA,Hawaiian Airlines Inc.,LAX,186.0,0.0,2630.0,1984.0,0.0,Los Angeles, CA
-16341,2018,10,OO,SkyWest Airlines Inc.,ORD,6087.0,45.0,99531.0,34528.0,3014.0,Chicago, IL
-15829,2018,10,G4,Allegiant Air,LAX,93.0,0.0,2617.0,1119.0,102.0,Los Angeles, CA
-15799,2018,10,G4,Allegiant Air,DEN,8.0,0.0,0.0,0.0,0.0,Denver, CO
-15745,2018,10,F9,Frontier Airlines Inc.,ORD,235.0,2.0,5092.0,2143.0,0.0,Chicago, IL
-15118,2018,10,9E,Endeavor Air Inc.,DFW,169.0,0.0,2352.0,804.0,0.0,Dallas/Fort Worth, TX
-15160,2018,10,9E,Endeavor Air Inc.,ORD,104.0,0.0,2563.0,571.0,0.0,Chicago, IL
-15194,2018,10,AA,American Airlines Inc.,ATL,1032.0,6.0,12882.0,3801.0,899.0,Atlanta, GA
-15212,2018,10,AA,American Airlines Inc.,DEN,851.0,3.0,10680.0,3369.0,921.0,Denver, CO
-15213,2018,10,AA,American Airlines Inc.,DFW,12145.0,171.0,211203.0,59035.0,7880.0,Dallas/Fort Worth, TX
-15236,2018,10,AA,American Airlines Inc.,LAX,3507.0,21.0,46784.0,18833.0,2202.0,Los Angeles, CA
-15256,2018,10,AA,American Airlines Inc.,ORD,5582.0,27.0,52051.0,16811.0,1681.0,Chicago, IL
-15294,2018,10,AS,Alaska Airlines Inc.,ATL,53.0,0.0,234.0,69.0,0.0,Atlanta, GA
-15307,2018,10,AS,Alaska Airlines Inc.,DEN,119.0,0.0,1401.0,253.0,0.0,Denver, CO
-15308,2018,10,AS,Alaska Airlines Inc.,DFW,120.0,0.0,935.0,107.0,7.0,Dallas/Fort Worth, TX
-15323,2018,10,AS,Alaska Airlines Inc.,LAX,1794.0,19.0,15660.0,4356.0,198.0,Los Angeles, CA
-15335,2018,10,AS,Alaska Airlines Inc.,ORD,326.0,1.0,2633.0,724.0,31.0,Chicago, IL
-15364,2018,10,B6,JetBlue Airways,ATL,292.0,0.0,3261.0,1566.0,0.0,Atlanta, GA
-15379,2018,10,B6,JetBlue Airways,DEN,109.0,0.0,1243.0,437.0,0.0,Denver, CO
-15090,2018,10,9E,Endeavor Air Inc.,ATL,2382.0,13.0,19940.0,6450.0,230.0,Atlanta, GA
-15390,2018,10,B6,JetBlue Airways,LAX,491.0,0.0,7159.0,2756.0,31.0,Los Angeles, CA
-15727,2018,10,F9,Frontier Airlines Inc.,LAX,93.0,0.0,1871.0,411.0,2.0,Los Angeles, CA
-15708,2018,10,F9,Frontier Airlines Inc.,DFW,52.0,0.0,1113.0,470.0,0.0,Dallas/Fort Worth, TX
-15707,2018,10,F9,Frontier Airlines Inc.,DEN,2198.0,37.0,41488.0,9905.0,135.0,Denver, CO
-15689,2018,10,F9,Frontier Airlines Inc.,ATL,279.0,5.0,4035.0,1212.0,0.0,Atlanta, GA
-15380,2018,10,B6,JetBlue Airways,DFW,57.0,1.0,971.0,172.0,0.0,Dallas/Fort Worth, TX
-15611,2018,10,EV,ExpressJet Airlines Inc.,DFW,938.0,53.0,25251.0,11615.0,0.0,Dallas/Fort Worth, TX
-15663,2018,10,EV,ExpressJet Airlines Inc.,ORD,877.0,6.0,14594.0,4126.0,29.0,Chicago, IL
-15531,2018,10,DL,Delta Air Lines Inc.,ORD,899.0,0.0,6483.0,2113.0,116.0,Chicago, IL
-15505,2018,10,DL,Delta Air Lines Inc.,LAX,2959.0,1.0,17862.0,8709.0,508.0,Los Angeles, CA
-15468,2018,10,DL,Delta Air Lines Inc.,DFW,663.0,0.0,5499.0,1498.0,184.0,Dallas/Fort Worth, TX
-15467,2018,10,DL,Delta Air Lines Inc.,DEN,1003.0,0.0,3877.0,1641.0,219.0,Denver, CO
-15434,2018,10,DL,Delta Air Lines Inc.,ATL,21187.0,39.0,116097.0,45378.0,4800.0,Atlanta, GA
-15399,2018,10,B6,JetBlue Airways,ORD,229.0,0.0,4152.0,1341.0,0.0,Chicago, IL
-15579,2018,10,EV,ExpressJet Airlines Inc.,ATL,560.0,8.0,6974.0,2971.0,0.0,Atlanta, GA
-17958,2018,11,OO,SkyWest Airlines Inc.,DEN,3522.0,55.0,45724.0,19357.0,1194.0,Denver, CO
-17906,2018,11,OO,SkyWest Airlines Inc.,ATL,1850.0,3.0,39550.0,8047.0,5104.0,Atlanta, GA
-17869,2018,11,OH,PSA Airlines Inc.,ORD,191.0,10.0,3165.0,997.0,15.0,Chicago, IL
-17807,2018,11,OH,PSA Airlines Inc.,ATL,103.0,3.0,1344.0,434.0,54.0,Atlanta, GA
-17790,2018,11,NK,Spirit Air Lines,ORD,679.0,14.0,10135.0,2093.0,98.0,Chicago, IL
-17629,2018,11,MQ,Envoy Air,ATL,55.0,2.0,479.0,12.0,83.0,Atlanta, GA
-17773,2018,11,NK,Spirit Air Lines,DFW,598.0,1.0,6169.0,683.0,210.0,Dallas/Fort Worth, TX
-17772,2018,11,NK,Spirit Air Lines,DEN,232.0,1.0,2907.0,385.0,5.0,Denver, CO
-17763,2018,11,NK,Spirit Air Lines,ATL,689.0,1.0,9510.0,1751.0,45.0,Atlanta, GA
-17726,2018,11,MQ,Envoy Air,ORD,5370.0,283.0,71570.0,13753.0,9103.0,Chicago, IL
-17665,2018,11,MQ,Envoy Air,DFW,3933.0,35.0,34079.0,9576.0,2845.0,Dallas/Fort Worth, TX
-17959,2018,11,OO,SkyWest Airlines Inc.,DFW,1128.0,14.0,16584.0,5836.0,1294.0,Dallas/Fort Worth, TX
-17781,2018,11,NK,Spirit Air Lines,LAX,651.0,1.0,6426.0,2424.0,84.0,Los Angeles, CA
-18479,2018,11,YX,Republic Airline,ORD,1216.0,43.0,14689.0,1582.0,731.0,Chicago, IL
-18232,2018,11,WN,Southwest Airlines Co.,ATL,3474.0,20.0,35692.0,10478.0,938.0,Atlanta, GA
-18059,2018,11,OO,SkyWest Airlines Inc.,ORD,5077.0,238.0,95783.0,28250.0,5623.0,Chicago, IL
-18131,2018,11,UA,United Air Lines Inc.,ATL,358.0,5.0,5062.0,1059.0,240.0,Atlanta, GA
-18152,2018,11,UA,United Air Lines Inc.,DEN,5329.0,16.0,46869.0,15425.0,1817.0,Denver, CO
-18153,2018,11,UA,United Air Lines Inc.,DFW,406.0,9.0,6743.0,998.0,389.0,Dallas/Fort Worth, TX
-18175,2018,11,UA,United Air Lines Inc.,LAX,2292.0,10.0,27010.0,7207.0,799.0,Los Angeles, CA
-18195,2018,11,UA,United Air Lines Inc.,ORD,6775.0,164.0,123705.0,21941.0,24442.0,Chicago, IL
-18250,2018,11,WN,Southwest Airlines Co.,DEN,5802.0,23.0,42269.0,13309.0,1339.0,Denver, CO
-18268,2018,11,WN,Southwest Airlines Co.,LAX,3503.0,46.0,29401.0,9890.0,368.0,Los Angeles, CA
-18316,2018,11,YV,Mesa Airlines Inc.,ATL,172.0,1.0,3385.0,974.0,715.0,Atlanta, GA
-18342,2018,11,YV,Mesa Airlines Inc.,DFW,3150.0,69.0,44707.0,14068.0,2454.0,Dallas/Fort Worth, TX
-18416,2018,11,YX,Republic Airline,ATL,480.0,11.0,4472.0,860.0,150.0,Atlanta, GA
-18438,2018,11,YX,Republic Airline,DEN,387.0,3.0,5012.0,859.0,241.0,Denver, CO
-18439,2018,11,YX,Republic Airline,DFW,253.0,2.0,4103.0,1228.0,248.0,Dallas/Fort Worth, TX
-17609,2018,11,HA,Hawaiian Airlines Inc.,LAX,180.0,2.0,968.0,660.0,0.0,Los Angeles, CA
-18019,2018,11,OO,SkyWest Airlines Inc.,LAX,2542.0,6.0,32390.0,13126.0,805.0,Los Angeles, CA
-17539,2018,11,G4,Allegiant Air,LAX,109.0,0.0,3099.0,1426.0,0.0,Los Angeles, CA
-17088,2018,11,B6,JetBlue Airways,DFW,51.0,0.0,974.0,419.0,0.0,Dallas/Fort Worth, TX
-17453,2018,11,F9,Frontier Airlines Inc.,ORD,225.0,7.0,5680.0,1785.0,0.0,Chicago, IL
-16795,2018,11,9E,Endeavor Air Inc.,ATL,2541.0,7.0,48247.0,10446.0,2266.0,Atlanta, GA
-16825,2018,11,9E,Endeavor Air Inc.,DFW,182.0,1.0,1727.0,475.0,76.0,Dallas/Fort Worth, TX
-16870,2018,11,9E,Endeavor Air Inc.,ORD,117.0,6.0,1616.0,443.0,63.0,Chicago, IL
-16903,2018,11,AA,American Airlines Inc.,ATL,1001.0,5.0,12535.0,4909.0,345.0,Atlanta, GA
-16921,2018,11,AA,American Airlines Inc.,DEN,795.0,4.0,7666.0,2492.0,302.0,Denver, CO
-16922,2018,11,AA,American Airlines Inc.,DFW,11557.0,38.0,131864.0,48695.0,5253.0,Dallas/Fort Worth, TX
-16944,2018,11,AA,American Airlines Inc.,LAX,3381.0,10.0,29239.0,11316.0,2341.0,Los Angeles, CA
-16964,2018,11,AA,American Airlines Inc.,ORD,5223.0,152.0,71021.0,14449.0,4941.0,Chicago, IL
-17509,2018,11,G4,Allegiant Air,DEN,10.0,0.0,272.0,137.0,0.0,Denver, CO
-17016,2018,11,AS,Alaska Airlines Inc.,DEN,115.0,0.0,861.0,206.0,288.0,Denver, CO
-17017,2018,11,AS,Alaska Airlines Inc.,DFW,118.0,2.0,505.0,330.0,0.0,Dallas/Fort Worth, TX
-17032,2018,11,AS,Alaska Airlines Inc.,LAX,1675.0,39.0,14173.0,2949.0,1328.0,Los Angeles, CA
-17044,2018,11,AS,Alaska Airlines Inc.,ORD,270.0,6.0,3644.0,701.0,360.0,Chicago, IL
-17072,2018,11,B6,JetBlue Airways,ATL,268.0,0.0,5676.0,2158.0,404.0,Atlanta, GA
-17002,2018,11,AS,Alaska Airlines Inc.,ATL,51.0,0.0,537.0,85.0,205.0,Atlanta, GA
-17098,2018,11,B6,JetBlue Airways,LAX,505.0,0.0,6520.0,2915.0,312.0,Los Angeles, CA
-17087,2018,11,B6,JetBlue Airways,DEN,89.0,0.0,1487.0,927.0,0.0,Denver, CO
-17414,2018,11,F9,Frontier Airlines Inc.,DFW,36.0,0.0,620.0,184.0,0.0,Dallas/Fort Worth, TX
-17413,2018,11,F9,Frontier Airlines Inc.,DEN,1856.0,14.0,32944.0,9046.0,214.0,Denver, CO
-17395,2018,11,F9,Frontier Airlines Inc.,ATL,254.0,1.0,4501.0,1445.0,0.0,Atlanta, GA
-17367,2018,11,EV,ExpressJet Airlines Inc.,ORD,1199.0,63.0,40011.0,8232.0,531.0,Chicago, IL
-17316,2018,11,EV,ExpressJet Airlines Inc.,DFW,528.0,5.0,11634.0,6546.0,0.0,Dallas/Fort Worth, TX
-17435,2018,11,F9,Frontier Airlines Inc.,LAX,71.0,0.0,908.0,509.0,41.0,Los Angeles, CA
-17238,2018,11,DL,Delta Air Lines Inc.,ORD,816.0,16.0,16713.0,1706.0,1986.0,Chicago, IL
-17212,2018,11,DL,Delta Air Lines Inc.,LAX,2704.0,1.0,24486.0,11846.0,1166.0,Los Angeles, CA
-17175,2018,11,DL,Delta Air Lines Inc.,DFW,580.0,0.0,4770.0,2240.0,160.0,Dallas/Fort Worth, TX
-17174,2018,11,DL,Delta Air Lines Inc.,DEN,911.0,1.0,4742.0,1774.0,753.0,Denver, CO
-17141,2018,11,DL,Delta Air Lines Inc.,ATL,19820.0,13.0,204446.0,57420.0,11334.0,Atlanta, GA
-17106,2018,11,B6,JetBlue Airways,ORD,200.0,6.0,6582.0,1615.0,204.0,Chicago, IL
-17288,2018,11,EV,ExpressJet Airlines Inc.,ATL,150.0,9.0,7990.0,5666.0,0.0,Atlanta, GA
-19624,2018,12,OO,SkyWest Airlines Inc.,ATL,2182.0,11.0,40625.0,10682.0,7745.0,Atlanta, GA
-19591,2018,12,OH,PSA Airlines Inc.,ORD,178.0,6.0,1378.0,250.0,22.0,Chicago, IL
-19528,2018,12,OH,PSA Airlines Inc.,ATL,109.0,6.0,1420.0,262.0,74.0,Atlanta, GA
-19510,2018,12,NK,Spirit Air Lines,ORD,704.0,2.0,4322.0,760.0,358.0,Chicago, IL
-19501,2018,12,NK,Spirit Air Lines,LAX,679.0,0.0,4724.0,1145.0,325.0,Los Angeles, CA
-19445,2018,12,MQ,Envoy Air,ORD,5747.0,95.0,67109.0,14828.0,3581.0,Chicago, IL
-19491,2018,12,NK,Spirit Air Lines,DEN,238.0,2.0,1829.0,552.0,86.0,Denver, CO
-19482,2018,12,NK,Spirit Air Lines,ATL,690.0,3.0,5367.0,1045.0,39.0,Atlanta, GA
-19383,2018,12,MQ,Envoy Air,DFW,4059.0,120.0,48940.0,14717.0,6702.0,Dallas/Fort Worth, TX
-19349,2018,12,MQ,Envoy Air,ATL,56.0,0.0,649.0,73.0,201.0,Atlanta, GA
-19329,2018,12,HA,Hawaiian Airlines Inc.,LAX,186.0,0.0,2796.0,2416.0,0.0,Los Angeles, CA
-19492,2018,12,NK,Spirit Air Lines,DFW,597.0,3.0,8589.0,2248.0,111.0,Dallas/Fort Worth, TX
-19675,2018,12,OO,SkyWest Airlines Inc.,DEN,3497.0,48.0,54821.0,19634.0,2606.0,Denver, CO
-20165,2018,12,YX,Republic Airline,DEN,505.0,1.0,5248.0,1386.0,493.0,Denver, CO
-19737,2018,12,OO,SkyWest Airlines Inc.,LAX,2771.0,32.0,43488.0,13155.0,2887.0,Los Angeles, CA
-19781,2018,12,OO,SkyWest Airlines Inc.,ORD,5467.0,82.0,112703.0,42652.0,3675.0,Chicago, IL
-19854,2018,12,UA,United Air Lines Inc.,ATL,337.0,0.0,2702.0,661.0,1.0,Atlanta, GA
-19874,2018,12,UA,United Air Lines Inc.,DEN,5281.0,8.0,39098.0,14013.0,1450.0,Denver, CO
-19875,2018,12,UA,United Air Lines Inc.,DFW,339.0,1.0,4429.0,1074.0,39.0,Dallas/Fort Worth, TX
-19901,2018,12,UA,United Air Lines Inc.,LAX,2418.0,0.0,28050.0,9908.0,521.0,Los Angeles, CA
-19921,2018,12,UA,United Air Lines Inc.,ORD,6303.0,8.0,57088.0,18440.0,1233.0,Chicago, IL
-19957,2018,12,WN,Southwest Airlines Co.,ATL,3465.0,38.0,33444.0,10344.0,842.0,Atlanta, GA
-19975,2018,12,WN,Southwest Airlines Co.,DEN,5762.0,19.0,41597.0,17172.0,762.0,Denver, CO
-19993,2018,12,WN,Southwest Airlines Co.,LAX,3421.0,59.0,34559.0,11413.0,533.0,Los Angeles, CA
-20042,2018,12,YV,Mesa Airlines Inc.,ATL,190.0,2.0,4702.0,2983.0,377.0,Atlanta, GA
-20069,2018,12,YV,Mesa Airlines Inc.,DFW,3185.0,143.0,66175.0,18073.0,6337.0,Dallas/Fort Worth, TX
-20143,2018,12,YX,Republic Airline,ATL,477.0,1.0,4203.0,1014.0,113.0,Atlanta, GA
-19258,2018,12,G4,Allegiant Air,LAX,123.0,1.0,1680.0,512.0,45.0,Los Angeles, CA
-19676,2018,12,OO,SkyWest Airlines Inc.,DFW,1268.0,41.0,26220.0,8789.0,1263.0,Dallas/Fort Worth, TX
-19228,2018,12,G4,Allegiant Air,DEN,9.0,0.0,46.0,0.0,0.0,Denver, CO
-18814,2018,12,B6,JetBlue Airways,DEN,88.0,0.0,1200.0,503.0,0.0,Denver, CO
-19153,2018,12,F9,Frontier Airlines Inc.,LAX,55.0,1.0,361.0,200.0,0.0,Los Angeles, CA
-20166,2018,12,YX,Republic Airline,DFW,320.0,0.0,3860.0,980.0,329.0,Dallas/Fort Worth, TX
-18508,2018,12,9E,Endeavor Air Inc.,ATL,3144.0,23.0,52771.0,12709.0,3309.0,Atlanta, GA
-18539,2018,12,9E,Endeavor Air Inc.,DEN,3.0,0.0,0.0,0.0,0.0,Denver, CO
-18540,2018,12,9E,Endeavor Air Inc.,DFW,155.0,1.0,864.0,586.0,0.0,Dallas/Fort Worth, TX
-18594,2018,12,9E,Endeavor Air Inc.,ORD,94.0,0.0,1270.0,438.0,0.0,Chicago, IL
-18626,2018,12,AA,American Airlines Inc.,ATL,1029.0,14.0,10847.0,4444.0,812.0,Atlanta, GA
-18644,2018,12,AA,American Airlines Inc.,DEN,810.0,17.0,6113.0,2443.0,500.0,Denver, CO
-18645,2018,12,AA,American Airlines Inc.,DFW,11864.0,333.0,149112.0,41965.0,7275.0,Dallas/Fort Worth, TX
-18670,2018,12,AA,American Airlines Inc.,LAX,3594.0,22.0,30724.0,12072.0,869.0,Los Angeles, CA
-18691,2018,12,AA,American Airlines Inc.,ORD,5243.0,40.0,45321.0,17444.0,911.0,Chicago, IL
-18730,2018,12,AS,Alaska Airlines Inc.,ATL,52.0,0.0,287.0,124.0,0.0,Atlanta, GA
-18743,2018,12,AS,Alaska Airlines Inc.,DEN,118.0,0.0,703.0,320.0,0.0,Denver, CO
-18744,2018,12,AS,Alaska Airlines Inc.,DFW,121.0,0.0,684.0,186.0,0.0,Dallas/Fort Worth, TX
-18759,2018,12,AS,Alaska Airlines Inc.,LAX,1712.0,23.0,13270.0,2336.0,57.0,Los Angeles, CA
-18771,2018,12,AS,Alaska Airlines Inc.,ORD,273.0,0.0,1690.0,411.0,0.0,Chicago, IL
-18798,2018,12,B6,JetBlue Airways,ATL,245.0,0.0,4791.0,2728.0,57.0,Atlanta, GA
-18815,2018,12,B6,JetBlue Airways,DFW,43.0,0.0,457.0,73.0,0.0,Dallas/Fort Worth, TX
-18826,2018,12,B6,JetBlue Airways,LAX,543.0,0.0,5998.0,2750.0,0.0,Los Angeles, CA
-18834,2018,12,B6,JetBlue Airways,ORD,194.0,0.0,2660.0,1189.0,0.0,Chicago, IL
-18869,2018,12,DL,Delta Air Lines Inc.,ATL,19224.0,22.0,114809.0,46184.0,9818.0,Atlanta, GA
-18901,2018,12,DL,Delta Air Lines Inc.,DEN,970.0,0.0,2928.0,1766.0,235.0,Denver, CO
-18902,2018,12,DL,Delta Air Lines Inc.,DFW,495.0,0.0,2663.0,949.0,78.0,Dallas/Fort Worth, TX
-18940,2018,12,DL,Delta Air Lines Inc.,LAX,2858.0,0.0,24625.0,8715.0,1630.0,Los Angeles, CA
-18967,2018,12,DL,Delta Air Lines Inc.,ORD,757.0,0.0,3474.0,1120.0,100.0,Chicago, IL
-19040,2018,12,EV,ExpressJet Airlines Inc.,DFW,454.0,60.0,8905.0,3967.0,0.0,Dallas/Fort Worth, TX
-19089,2018,12,EV,ExpressJet Airlines Inc.,ORD,1241.0,49.0,26986.0,5494.0,1595.0,Chicago, IL
-19116,2018,12,F9,Frontier Airlines Inc.,ATL,248.0,0.0,3760.0,1229.0,0.0,Atlanta, GA
-19131,2018,12,F9,Frontier Airlines Inc.,DEN,1646.0,9.0,21900.0,7395.0,19.0,Denver, CO
-19132,2018,12,F9,Frontier Airlines Inc.,DFW,31.0,0.0,559.0,266.0,0.0,Dallas/Fort Worth, TX
-19169,2018,12,F9,Frontier Airlines Inc.,ORD,253.0,1.0,2663.0,1097.0,0.0,Chicago, IL
-20207,2018,12,YX,Republic Airline,ORD,1186.0,6.0,8864.0,2072.0,420.0,Chicago, IL
+,year,month,carrier,carrier_name,airport,arr_flights,arr_cancelled, arr_delay, carrier_delay,weather_delay,City,city,State
+23,2018,1,MQ,Envoy Air,DFW,4491.0,152.0,48316.0,11983.0,7471.0,"Dallas/Fort Worth, TX",Dallas, TX
+993,2018,1,AA,American Airlines Inc.,DEN,881.0,5.0,6502.0,2164.0,219.0,"Denver, CO",Denver, CO
+994,2018,1,AA,American Airlines Inc.,DFW,11495.0,126.0,98510.0,37673.0,6868.0,"Dallas/Fort Worth, TX",Dallas, TX
+1017,2018,1,AA,American Airlines Inc.,LAX,3153.0,41.0,25934.0,13320.0,1494.0,"Los Angeles, CA",Los Angeles, CA
+1036,2018,1,AA,American Airlines Inc.,ORD,5203.0,85.0,44973.0,15678.0,1447.0,"Chicago, IL",Chicago, IL
+1074,2018,1,AS,Alaska Airlines Inc.,ATL,36.0,0.0,39.0,0.0,0.0,"Atlanta, GA",Atlanta, GA
+1087,2018,1,AS,Alaska Airlines Inc.,DEN,124.0,0.0,1004.0,338.0,0.0,"Denver, CO",Denver, CO
+1088,2018,1,AS,Alaska Airlines Inc.,DFW,100.0,0.0,133.0,60.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+1103,2018,1,AS,Alaska Airlines Inc.,LAX,702.0,2.0,2480.0,1042.0,95.0,"Los Angeles, CA",Los Angeles, CA
+1114,2018,1,AS,Alaska Airlines Inc.,ORD,156.0,1.0,620.0,167.0,0.0,"Chicago, IL",Chicago, IL
+1140,2018,1,B6,JetBlue Airways,ATL,147.0,8.0,2381.0,1283.0,85.0,"Atlanta, GA",Atlanta, GA
+1155,2018,1,B6,JetBlue Airways,DEN,89.0,6.0,932.0,247.0,28.0,"Denver, CO",Denver, CO
+1156,2018,1,B6,JetBlue Airways,DFW,51.0,4.0,1144.0,544.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+1166,2018,1,B6,JetBlue Airways,LAX,529.0,16.0,6923.0,3281.0,536.0,"Los Angeles, CA",Los Angeles, CA
+1207,2018,1,DL,Delta Air Lines Inc.,ATL,19038.0,462.0,240743.0,65783.0,28294.0,"Atlanta, GA",Atlanta, GA
+977,2018,1,AA,American Airlines Inc.,ATL,956.0,28.0,8794.0,3851.0,396.0,"Atlanta, GA",Atlanta, GA
+1240,2018,1,DL,Delta Air Lines Inc.,DEN,778.0,9.0,6856.0,1614.0,1340.0,"Denver, CO",Denver, CO
+1279,2018,1,DL,Delta Air Lines Inc.,LAX,2455.0,22.0,21413.0,8147.0,4363.0,"Los Angeles, CA",Los Angeles, CA
+1306,2018,1,DL,Delta Air Lines Inc.,ORD,547.0,9.0,5124.0,1018.0,969.0,"Chicago, IL",Chicago, IL
+1354,2018,1,EV,ExpressJet Airlines Inc.,ATL,905.0,39.0,17115.0,5573.0,0.0,"Atlanta, GA",Atlanta, GA
+1386,2018,1,EV,ExpressJet Airlines Inc.,DFW,930.0,31.0,11875.0,7143.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+1443,2018,1,EV,ExpressJet Airlines Inc.,ORD,912.0,19.0,18107.0,4344.0,1395.0,"Chicago, IL",Chicago, IL
+1474,2018,1,F9,Frontier Airlines Inc.,ATL,272.0,5.0,4155.0,1445.0,30.0,"Atlanta, GA",Atlanta, GA
+1485,2018,1,F9,Frontier Airlines Inc.,DEN,1607.0,30.0,22245.0,7102.0,146.0,"Denver, CO",Denver, CO
+1486,2018,1,F9,Frontier Airlines Inc.,DFW,40.0,2.0,389.0,151.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+1495,2018,1,F9,Frontier Airlines Inc.,LAX,124.0,1.0,1512.0,371.0,44.0,"Los Angeles, CA",Los Angeles, CA
+1508,2018,1,F9,Frontier Airlines Inc.,ORD,217.0,3.0,4181.0,537.0,0.0,"Chicago, IL",Chicago, IL
+1555,2018,1,G4,Allegiant Air,DEN,8.0,0.0,178.0,0.0,141.0,"Denver, CO",Denver, CO
+1585,2018,1,G4,Allegiant Air,LAX,109.0,2.0,1968.0,170.0,87.0,"Los Angeles, CA",Los Angeles, CA
+1654,2018,1,HA,Hawaiian Airlines Inc.,LAX,162.0,0.0,2373.0,2135.0,0.0,"Los Angeles, CA",Los Angeles, CA
+1673,2018,1,MQ,Envoy Air,ATL,56.0,4.0,224.0,36.0,35.0,"Atlanta, GA",Atlanta, GA
+1241,2018,1,DL,Delta Air Lines Inc.,DFW,510.0,7.0,3723.0,966.0,779.0,"Dallas/Fort Worth, TX",Dallas, TX
+947,2018,1,9E,Endeavor Air Inc.,ORD,167.0,11.0,1412.0,601.0,0.0,"Chicago, IL",Chicago, IL
+1172,2018,1,B6,JetBlue Airways,ORD,171.0,10.0,4477.0,1953.0,287.0,"Chicago, IL",Chicago, IL
+893,2018,1,9E,Endeavor Air Inc.,DEN,3.0,0.0,0.0,0.0,0.0,"Denver, CO",Denver, CO
+466,2018,1,UA,United Air Lines Inc.,ATL,434.0,13.0,3962.0,1221.0,372.0,"Atlanta, GA",Atlanta, GA
+400,2018,1,OO,SkyWest Airlines Inc.,ORD,5925.0,208.0,167233.0,48990.0,4837.0,"Chicago, IL",Chicago, IL
+363,2018,1,OO,SkyWest Airlines Inc.,LAX,2946.0,37.0,34504.0,11110.0,332.0,"Los Angeles, CA",Los Angeles, CA
+307,2018,1,OO,SkyWest Airlines Inc.,DFW,463.0,12.0,6542.0,2410.0,190.0,"Dallas/Fort Worth, TX",Dallas, TX
+306,2018,1,OO,SkyWest Airlines Inc.,DEN,3890.0,71.0,56616.0,21319.0,3096.0,"Denver, CO",Denver, CO
+255,2018,1,OO,SkyWest Airlines Inc.,ATL,2115.0,63.0,62234.0,17773.0,4214.0,"Atlanta, GA",Atlanta, GA
+487,2018,1,UA,United Air Lines Inc.,DEN,4695.0,37.0,30186.0,7974.0,2873.0,"Denver, CO",Denver, CO
+219,2018,1,OH,PSA Airlines Inc.,ORD,181.0,5.0,4522.0,1498.0,33.0,"Chicago, IL",Chicago, IL
+138,2018,1,NK,Spirit Air Lines,ORD,774.0,10.0,6505.0,964.0,123.0,"Chicago, IL",Chicago, IL
+129,2018,1,NK,Spirit Air Lines,LAX,682.0,7.0,4683.0,1920.0,84.0,"Los Angeles, CA",Los Angeles, CA
+122,2018,1,NK,Spirit Air Lines,DFW,608.0,6.0,5490.0,2085.0,15.0,"Dallas/Fort Worth, TX",Dallas, TX
+121,2018,1,NK,Spirit Air Lines,DEN,258.0,2.0,3064.0,441.0,120.0,"Denver, CO",Denver, CO
+114,2018,1,NK,Spirit Air Lines,ATL,629.0,10.0,6276.0,2009.0,135.0,"Atlanta, GA",Atlanta, GA
+894,2018,1,9E,Endeavor Air Inc.,DFW,225.0,5.0,1751.0,854.0,32.0,"Dallas/Fort Worth, TX",Dallas, TX
+154,2018,1,OH,PSA Airlines Inc.,ATL,68.0,3.0,470.0,228.0,0.0,"Atlanta, GA",Atlanta, GA
+488,2018,1,UA,United Air Lines Inc.,DFW,502.0,8.0,4467.0,1331.0,465.0,"Dallas/Fort Worth, TX",Dallas, TX
+81,2018,1,MQ,Envoy Air,ORD,4704.0,166.0,69063.0,18761.0,5530.0,"Chicago, IL",Chicago, IL
+778,2018,1,YX,Republic Airline,ATL,409.0,25.0,2989.0,677.0,44.0,"Atlanta, GA",Atlanta, GA
+862,2018,1,9E,Endeavor Air Inc.,ATL,1834.0,66.0,35797.0,11229.0,3408.0,"Atlanta, GA",Atlanta, GA
+835,2018,1,YX,Republic Airline,ORD,1484.0,55.0,19131.0,4486.0,1274.0,"Chicago, IL",Chicago, IL
+801,2018,1,YX,Republic Airline,DFW,330.0,13.0,2805.0,847.0,343.0,"Dallas/Fort Worth, TX",Dallas, TX
+800,2018,1,YX,Republic Airline,DEN,321.0,2.0,3732.0,1555.0,272.0,"Denver, CO",Denver, CO
+512,2018,1,UA,United Air Lines Inc.,LAX,2126.0,15.0,16865.0,6376.0,2035.0,"Los Angeles, CA",Los Angeles, CA
+701,2018,1,YV,Mesa Airlines Inc.,DFW,2612.0,193.0,25908.0,10445.0,2259.0,"Dallas/Fort Worth, TX",Dallas, TX
+675,2018,1,YV,Mesa Airlines Inc.,ATL,191.0,17.0,2053.0,441.0,4.0,"Atlanta, GA",Atlanta, GA
+608,2018,1,WN,Southwest Airlines Co.,DEN,5515.0,73.0,32473.0,11621.0,1088.0,"Denver, CO",Denver, CO
+590,2018,1,WN,Southwest Airlines Co.,ATL,3529.0,152.0,20436.0,6997.0,293.0,"Atlanta, GA",Atlanta, GA
+579,2018,1,VX,Virgin America,ORD,69.0,1.0,415.0,157.0,0.0,"Chicago, IL",Chicago, IL
+575,2018,1,VX,Virgin America,LAX,1201.0,24.0,6633.0,2348.0,243.0,"Los Angeles, CA",Los Angeles, CA
+566,2018,1,VX,Virgin America,DEN,59.0,1.0,402.0,70.0,0.0,"Denver, CO",Denver, CO
+531,2018,1,UA,United Air Lines Inc.,ORD,5162.0,57.0,41708.0,11456.0,2909.0,"Chicago, IL",Chicago, IL
+627,2018,1,WN,Southwest Airlines Co.,LAX,3604.0,61.0,28183.0,9239.0,165.0,"Los Angeles, CA",Los Angeles, CA
+2758,2018,2,B6,JetBlue Airways,ATL,132.0,2.0,995.0,607.0,0.0,"Atlanta, GA",Atlanta, GA
+2773,2018,2,B6,JetBlue Airways,DEN,80.0,0.0,1150.0,364.0,0.0,"Denver, CO",Denver, CO
+2612,2018,2,AA,American Airlines Inc.,DEN,786.0,6.0,8207.0,3303.0,492.0,"Denver, CO",Denver, CO
+2784,2018,2,B6,JetBlue Airways,LAX,482.0,1.0,6643.0,2176.0,0.0,"Los Angeles, CA",Los Angeles, CA
+2790,2018,2,B6,JetBlue Airways,ORD,148.0,8.0,3609.0,1269.0,51.0,"Chicago, IL",Chicago, IL
+2774,2018,2,B6,JetBlue Airways,DFW,48.0,1.0,893.0,277.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+2732,2018,2,AS,Alaska Airlines Inc.,ORD,114.0,0.0,1592.0,70.0,25.0,"Chicago, IL",Chicago, IL
+2613,2018,2,AA,American Airlines Inc.,DFW,10664.0,189.0,156506.0,45868.0,6101.0,"Dallas/Fort Worth, TX",Dallas, TX
+2706,2018,2,AS,Alaska Airlines Inc.,DFW,84.0,0.0,771.0,48.0,24.0,"Dallas/Fort Worth, TX",Dallas, TX
+2705,2018,2,AS,Alaska Airlines Inc.,DEN,112.0,0.0,708.0,330.0,0.0,"Denver, CO",Denver, CO
+2692,2018,2,AS,Alaska Airlines Inc.,ATL,28.0,0.0,225.0,160.0,0.0,"Atlanta, GA",Atlanta, GA
+2655,2018,2,AA,American Airlines Inc.,ORD,4644.0,170.0,51969.0,13380.0,2411.0,"Chicago, IL",Chicago, IL
+2636,2018,2,AA,American Airlines Inc.,LAX,2885.0,11.0,21567.0,8766.0,1000.0,"Los Angeles, CA",Los Angeles, CA
+2825,2018,2,DL,Delta Air Lines Inc.,ATL,17790.0,9.0,143740.0,56123.0,10031.0,"Atlanta, GA",Atlanta, GA
+2721,2018,2,AS,Alaska Airlines Inc.,LAX,605.0,0.0,1986.0,1001.0,96.0,"Los Angeles, CA",Los Angeles, CA
+2858,2018,2,DL,Delta Air Lines Inc.,DEN,717.0,0.0,8361.0,4095.0,914.0,"Denver, CO",Denver, CO
+3096,2018,2,F9,Frontier Airlines Inc.,DEN,1438.0,18.0,24796.0,6548.0,251.0,"Denver, CO",Denver, CO
+2897,2018,2,DL,Delta Air Lines Inc.,LAX,2256.0,2.0,20716.0,7567.0,1988.0,"Los Angeles, CA",Los Angeles, CA
+2924,2018,2,DL,Delta Air Lines Inc.,ORD,496.0,2.0,8471.0,1453.0,693.0,"Chicago, IL",Chicago, IL
+2970,2018,2,EV,ExpressJet Airlines Inc.,ATL,518.0,3.0,5450.0,1226.0,0.0,"Atlanta, GA",Atlanta, GA
+3000,2018,2,EV,ExpressJet Airlines Inc.,DFW,841.0,20.0,23538.0,11051.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+3055,2018,2,EV,ExpressJet Airlines Inc.,ORD,766.0,48.0,19031.0,3768.0,1107.0,"Chicago, IL",Chicago, IL
+3084,2018,2,F9,Frontier Airlines Inc.,ATL,243.0,2.0,4541.0,1256.0,0.0,"Atlanta, GA",Atlanta, GA
+3097,2018,2,F9,Frontier Airlines Inc.,DFW,34.0,0.0,710.0,87.0,28.0,"Dallas/Fort Worth, TX",Dallas, TX
+3107,2018,2,F9,Frontier Airlines Inc.,LAX,112.0,0.0,2621.0,868.0,13.0,"Los Angeles, CA",Los Angeles, CA
+3120,2018,2,F9,Frontier Airlines Inc.,ORD,197.0,4.0,3783.0,506.0,75.0,"Chicago, IL",Chicago, IL
+3165,2018,2,G4,Allegiant Air,DEN,8.0,0.0,196.0,47.0,15.0,"Denver, CO",Denver, CO
+3195,2018,2,G4,Allegiant Air,LAX,100.0,3.0,2310.0,585.0,212.0,"Los Angeles, CA",Los Angeles, CA
+3264,2018,2,HA,Hawaiian Airlines Inc.,LAX,140.0,0.0,1445.0,1151.0,12.0,"Los Angeles, CA",Los Angeles, CA
+3283,2018,2,MQ,Envoy Air,ATL,53.0,6.0,560.0,78.0,0.0,"Atlanta, GA",Atlanta, GA
+3309,2018,2,MQ,Envoy Air,DFW,4022.0,213.0,63801.0,9410.0,10678.0,"Dallas/Fort Worth, TX",Dallas, TX
+2859,2018,2,DL,Delta Air Lines Inc.,DFW,447.0,0.0,4128.0,913.0,420.0,"Dallas/Fort Worth, TX",Dallas, TX
+2595,2018,2,AA,American Airlines Inc.,ATL,858.0,6.0,7903.0,2753.0,241.0,"Atlanta, GA",Atlanta, GA
+2140,2018,2,UA,United Air Lines Inc.,DFW,487.0,4.0,7652.0,1026.0,1899.0,"Dallas/Fort Worth, TX",Dallas, TX
+2527,2018,2,9E,Endeavor Air Inc.,DFW,220.0,4.0,5951.0,1844.0,1004.0,"Dallas/Fort Worth, TX",Dallas, TX
+2566,2018,2,9E,Endeavor Air Inc.,ORD,138.0,3.0,3076.0,532.0,0.0,"Chicago, IL",Chicago, IL
+1765,2018,2,NK,Spirit Air Lines,ATL,570.0,8.0,6351.0,1447.0,109.0,"Atlanta, GA",Atlanta, GA
+1773,2018,2,NK,Spirit Air Lines,DEN,224.0,2.0,1692.0,326.0,95.0,"Denver, CO",Denver, CO
+1774,2018,2,NK,Spirit Air Lines,DFW,546.0,5.0,12114.0,2094.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+1781,2018,2,NK,Spirit Air Lines,LAX,616.0,6.0,8672.0,1900.0,33.0,"Los Angeles, CA",Los Angeles, CA
+1790,2018,2,NK,Spirit Air Lines,ORD,700.0,13.0,15865.0,2455.0,651.0,"Chicago, IL",Chicago, IL
+1806,2018,2,OH,PSA Airlines Inc.,ATL,68.0,4.0,764.0,113.0,59.0,"Atlanta, GA",Atlanta, GA
+1871,2018,2,OH,PSA Airlines Inc.,ORD,164.0,12.0,3689.0,1112.0,136.0,"Chicago, IL",Chicago, IL
+1907,2018,2,OO,SkyWest Airlines Inc.,ATL,1858.0,22.0,35927.0,12360.0,1851.0,"Atlanta, GA",Atlanta, GA
+1957,2018,2,OO,SkyWest Airlines Inc.,DEN,3424.0,63.0,60162.0,25256.0,3440.0,"Denver, CO",Denver, CO
+1958,2018,2,OO,SkyWest Airlines Inc.,DFW,468.0,14.0,11720.0,3519.0,224.0,"Dallas/Fort Worth, TX",Dallas, TX
+2014,2018,2,OO,SkyWest Airlines Inc.,LAX,2704.0,37.0,35235.0,14777.0,958.0,"Los Angeles, CA",Los Angeles, CA
+2053,2018,2,OO,SkyWest Airlines Inc.,ORD,5462.0,397.0,128357.0,34470.0,10138.0,"Chicago, IL",Chicago, IL
+2118,2018,2,UA,United Air Lines Inc.,ATL,386.0,0.0,2672.0,691.0,141.0,"Atlanta, GA",Atlanta, GA
+2139,2018,2,UA,United Air Lines Inc.,DEN,4257.0,3.0,31099.0,9212.0,1600.0,"Denver, CO",Denver, CO
+1733,2018,2,MQ,Envoy Air,ORD,4249.0,352.0,62841.0,14530.0,5312.0,"Chicago, IL",Chicago, IL
+2526,2018,2,9E,Endeavor Air Inc.,DEN,4.0,0.0,24.0,0.0,0.0,"Denver, CO",Denver, CO
+2497,2018,2,9E,Endeavor Air Inc.,ATL,1889.0,19.0,29744.0,12005.0,1170.0,"Atlanta, GA",Atlanta, GA
+2473,2018,2,YX,Republic Airline,ORD,1406.0,44.0,17528.0,2940.0,84.0,"Chicago, IL",Chicago, IL
+2440,2018,2,YX,Republic Airline,DFW,250.0,5.0,4012.0,1220.0,228.0,"Dallas/Fort Worth, TX",Dallas, TX
+2439,2018,2,YX,Republic Airline,DEN,289.0,5.0,3354.0,1368.0,86.0,"Denver, CO",Denver, CO
+2164,2018,2,UA,United Air Lines Inc.,LAX,1915.0,5.0,14668.0,5306.0,1094.0,"Los Angeles, CA",Los Angeles, CA
+2352,2018,2,YV,Mesa Airlines Inc.,DFW,2354.0,103.0,48139.0,14375.0,3854.0,"Dallas/Fort Worth, TX",Dallas, TX
+2326,2018,2,YV,Mesa Airlines Inc.,ATL,194.0,2.0,2177.0,1036.0,154.0,"Atlanta, GA",Atlanta, GA
+2420,2018,2,YX,Republic Airline,ATL,416.0,5.0,3432.0,440.0,184.0,"Atlanta, GA",Atlanta, GA
+2259,2018,2,WN,Southwest Airlines Co.,DEN,4857.0,42.0,43091.0,13957.0,857.0,"Denver, CO",Denver, CO
+2241,2018,2,WN,Southwest Airlines Co.,ATL,3123.0,46.0,19017.0,5810.0,326.0,"Atlanta, GA",Atlanta, GA
+2230,2018,2,VX,Virgin America,ORD,56.0,0.0,875.0,255.0,0.0,"Chicago, IL",Chicago, IL
+2226,2018,2,VX,Virgin America,LAX,1104.0,4.0,8263.0,2298.0,0.0,"Los Angeles, CA",Los Angeles, CA
+2217,2018,2,VX,Virgin America,DEN,52.0,0.0,605.0,444.0,0.0,"Denver, CO",Denver, CO
+2182,2018,2,UA,United Air Lines Inc.,ORD,4816.0,71.0,48817.0,6156.0,2814.0,"Chicago, IL",Chicago, IL
+2278,2018,2,WN,Southwest Airlines Co.,LAX,3173.0,62.0,38992.0,12183.0,287.0,"Los Angeles, CA",Los Angeles, CA
+4476,2018,3,OO,SkyWest Airlines Inc.,LAX,3053.0,28.0,45553.0,10347.0,669.0,"Los Angeles, CA",Los Angeles, CA
+4419,2018,3,OO,SkyWest Airlines Inc.,DFW,552.0,8.0,7001.0,2881.0,469.0,"Dallas/Fort Worth, TX",Dallas, TX
+4368,2018,3,OO,SkyWest Airlines Inc.,ATL,2147.0,5.0,31722.0,11894.0,1195.0,"Atlanta, GA",Atlanta, GA
+4333,2018,3,OH,PSA Airlines Inc.,ORD,181.0,12.0,1689.0,791.0,7.0,"Chicago, IL",Chicago, IL
+4268,2018,3,OH,PSA Airlines Inc.,ATL,79.0,0.0,907.0,369.0,1.0,"Atlanta, GA",Atlanta, GA
+4251,2018,3,NK,Spirit Air Lines,ORD,800.0,3.0,6559.0,1318.0,183.0,"Chicago, IL",Chicago, IL
+4109,2018,3,MQ,Envoy Air,ATL,61.0,1.0,689.0,151.0,96.0,"Atlanta, GA",Atlanta, GA
+4235,2018,3,NK,Spirit Air Lines,DFW,608.0,5.0,6194.0,1022.0,138.0,"Dallas/Fort Worth, TX",Dallas, TX
+4234,2018,3,NK,Spirit Air Lines,DEN,258.0,0.0,2102.0,328.0,632.0,"Denver, CO",Denver, CO
+4226,2018,3,NK,Spirit Air Lines,ATL,633.0,3.0,4391.0,787.0,7.0,"Atlanta, GA",Atlanta, GA
+4194,2018,3,MQ,Envoy Air,ORD,4786.0,119.0,33279.0,12728.0,1194.0,"Chicago, IL",Chicago, IL
+4137,2018,3,MQ,Envoy Air,DFW,4644.0,103.0,33763.0,11019.0,3454.0,"Dallas/Fort Worth, TX",Dallas, TX
+4517,2018,3,OO,SkyWest Airlines Inc.,ORD,6085.0,83.0,63825.0,24492.0,3471.0,"Chicago, IL",Chicago, IL
+4242,2018,3,NK,Spirit Air Lines,LAX,680.0,5.0,6838.0,1370.0,52.0,"Los Angeles, CA",Los Angeles, CA
+4583,2018,3,UA,United Air Lines Inc.,ATL,444.0,18.0,2700.0,856.0,215.0,"Atlanta, GA",Atlanta, GA
+4724,2018,3,WN,Southwest Airlines Co.,DEN,5765.0,54.0,59960.0,17049.0,2494.0,"Denver, CO",Denver, CO
+4605,2018,3,UA,United Air Lines Inc.,DFW,560.0,8.0,3609.0,1059.0,240.0,"Dallas/Fort Worth, TX",Dallas, TX
+4629,2018,3,UA,United Air Lines Inc.,LAX,2267.0,18.0,22298.0,6444.0,1937.0,"Los Angeles, CA",Los Angeles, CA
+4648,2018,3,UA,United Air Lines Inc.,ORD,5657.0,101.0,35059.0,10923.0,708.0,"Chicago, IL",Chicago, IL
+4682,2018,3,VX,Virgin America,DEN,60.0,0.0,740.0,170.0,0.0,"Denver, CO",Denver, CO
+4691,2018,3,VX,Virgin America,LAX,1335.0,52.0,15993.0,3981.0,28.0,"Los Angeles, CA",Los Angeles, CA
+4695,2018,3,VX,Virgin America,ORD,83.0,0.0,942.0,469.0,0.0,"Chicago, IL",Chicago, IL
+4706,2018,3,WN,Southwest Airlines Co.,ATL,3631.0,56.0,23235.0,7958.0,368.0,"Atlanta, GA",Atlanta, GA
+4743,2018,3,WN,Southwest Airlines Co.,LAX,3648.0,84.0,66877.0,15554.0,809.0,"Los Angeles, CA",Los Angeles, CA
+4791,2018,3,YV,Mesa Airlines Inc.,ATL,158.0,2.0,827.0,549.0,0.0,"Atlanta, GA",Atlanta, GA
+4817,2018,3,YV,Mesa Airlines Inc.,DFW,2672.0,56.0,21076.0,6710.0,2084.0,"Dallas/Fort Worth, TX",Dallas, TX
+4883,2018,3,YX,Republic Airline,ATL,505.0,24.0,2580.0,893.0,5.0,"Atlanta, GA",Atlanta, GA
+4905,2018,3,YX,Republic Airline,DEN,332.0,2.0,2557.0,429.0,0.0,"Denver, CO",Denver, CO
+4906,2018,3,YX,Republic Airline,DFW,306.0,20.0,3395.0,1554.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+4939,2018,3,YX,Republic Airline,ORD,1723.0,76.0,11635.0,1857.0,1477.0,"Chicago, IL",Chicago, IL
+4604,2018,3,UA,United Air Lines Inc.,DEN,5115.0,46.0,35107.0,8968.0,1185.0,"Denver, CO",Denver, CO
+4090,2018,3,HA,Hawaiian Airlines Inc.,LAX,176.0,0.0,1678.0,872.0,0.0,"Los Angeles, CA",Los Angeles, CA
+4418,2018,3,OO,SkyWest Airlines Inc.,DEN,3767.0,58.0,41192.0,15476.0,793.0,"Denver, CO",Denver, CO
+3991,2018,3,G4,Allegiant Air,DEN,9.0,0.0,27.0,0.0,0.0,"Denver, CO",Denver, CO
+3581,2018,3,B6,JetBlue Airways,ATL,265.0,18.0,3011.0,1762.0,190.0,"Atlanta, GA",Atlanta, GA
+3555,2018,3,AS,Alaska Airlines Inc.,ORD,154.0,0.0,757.0,223.0,0.0,"Chicago, IL",Chicago, IL
+3543,2018,3,AS,Alaska Airlines Inc.,LAX,563.0,1.0,2649.0,328.0,11.0,"Los Angeles, CA",Los Angeles, CA
+3528,2018,3,AS,Alaska Airlines Inc.,DFW,114.0,0.0,669.0,251.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+3527,2018,3,AS,Alaska Airlines Inc.,DEN,136.0,0.0,1254.0,273.0,0.0,"Denver, CO",Denver, CO
+3514,2018,3,AS,Alaska Airlines Inc.,ATL,52.0,0.0,112.0,63.0,0.0,"Atlanta, GA",Atlanta, GA
+3596,2018,3,B6,JetBlue Airways,DEN,88.0,5.0,740.0,463.0,0.0,"Denver, CO",Denver, CO
+3476,2018,3,AA,American Airlines Inc.,ORD,5206.0,126.0,35276.0,12838.0,959.0,"Chicago, IL",Chicago, IL
+3434,2018,3,AA,American Airlines Inc.,DFW,12040.0,225.0,96433.0,36620.0,2876.0,"Dallas/Fort Worth, TX",Dallas, TX
+3433,2018,3,AA,American Airlines Inc.,DEN,909.0,8.0,8019.0,3456.0,206.0,"Denver, CO",Denver, CO
+3417,2018,3,AA,American Airlines Inc.,ATL,965.0,24.0,7131.0,2618.0,358.0,"Atlanta, GA",Atlanta, GA
+3390,2018,3,9E,Endeavor Air Inc.,ORD,224.0,13.0,2196.0,502.0,129.0,"Chicago, IL",Chicago, IL
+3316,2018,3,9E,Endeavor Air Inc.,ATL,2294.0,15.0,24057.0,7703.0,685.0,"Atlanta, GA",Atlanta, GA
+4021,2018,3,G4,Allegiant Air,LAX,117.0,0.0,1863.0,698.0,18.0,"Los Angeles, CA",Los Angeles, CA
+3457,2018,3,AA,American Airlines Inc.,LAX,3332.0,64.0,24902.0,8607.0,1339.0,"Los Angeles, CA",Los Angeles, CA
+3597,2018,3,B6,JetBlue Airways,DFW,53.0,3.0,613.0,240.0,40.0,"Dallas/Fort Worth, TX",Dallas, TX
+3345,2018,3,9E,Endeavor Air Inc.,DFW,311.0,8.0,2441.0,643.0,126.0,"Dallas/Fort Worth, TX",Dallas, TX
+3613,2018,3,B6,JetBlue Airways,ORD,177.0,9.0,3797.0,1765.0,0.0,"Chicago, IL",Chicago, IL
+3607,2018,3,B6,JetBlue Airways,LAX,551.0,21.0,7278.0,2996.0,173.0,"Los Angeles, CA",Los Angeles, CA
+3945,2018,3,F9,Frontier Airlines Inc.,ORD,205.0,1.0,2628.0,569.0,0.0,"Chicago, IL",Chicago, IL
+3920,2018,3,F9,Frontier Airlines Inc.,DFW,36.0,0.0,542.0,81.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+3919,2018,3,F9,Frontier Airlines Inc.,DEN,1564.0,4.0,17331.0,4166.0,29.0,"Denver, CO",Denver, CO
+3906,2018,3,F9,Frontier Airlines Inc.,ATL,252.0,4.0,3850.0,1282.0,0.0,"Atlanta, GA",Atlanta, GA
+3878,2018,3,EV,ExpressJet Airlines Inc.,ORD,835.0,18.0,9778.0,2288.0,356.0,"Chicago, IL",Chicago, IL
+3824,2018,3,EV,ExpressJet Airlines Inc.,DFW,934.0,11.0,8749.0,4929.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+3931,2018,3,F9,Frontier Airlines Inc.,LAX,124.0,0.0,1858.0,775.0,0.0,"Los Angeles, CA",Los Angeles, CA
+3747,2018,3,DL,Delta Air Lines Inc.,ORD,617.0,0.0,3564.0,1580.0,111.0,"Chicago, IL",Chicago, IL
+3720,2018,3,DL,Delta Air Lines Inc.,LAX,2739.0,11.0,33323.0,13431.0,997.0,"Los Angeles, CA",Los Angeles, CA
+3682,2018,3,DL,Delta Air Lines Inc.,DFW,436.0,1.0,2342.0,942.0,39.0,"Dallas/Fort Worth, TX",Dallas, TX
+3681,2018,3,DL,Delta Air Lines Inc.,DEN,1128.0,7.0,11562.0,4162.0,1147.0,"Denver, CO",Denver, CO
+3648,2018,3,DL,Delta Air Lines Inc.,ATL,21208.0,122.0,117864.0,48114.0,8608.0,"Atlanta, GA",Atlanta, GA
+3795,2018,3,EV,ExpressJet Airlines Inc.,ATL,1001.0,21.0,14688.0,6365.0,0.0,"Atlanta, GA",Atlanta, GA
+6046,2018,4,OO,SkyWest Airlines Inc.,ATL,1932.0,1.0,19001.0,4817.0,842.0,"Atlanta, GA",Atlanta, GA
+6009,2018,4,OH,PSA Airlines Inc.,ORD,170.0,0.0,2172.0,509.0,29.0,"Chicago, IL",Chicago, IL
+5944,2018,4,OH,PSA Airlines Inc.,ATL,109.0,2.0,1142.0,531.0,0.0,"Atlanta, GA",Atlanta, GA
+5927,2018,4,NK,Spirit Air Lines,ORD,814.0,1.0,8835.0,323.0,0.0,"Chicago, IL",Chicago, IL
+5918,2018,4,NK,Spirit Air Lines,LAX,681.0,3.0,5882.0,173.0,0.0,"Los Angeles, CA",Los Angeles, CA
+5901,2018,4,NK,Spirit Air Lines,ATL,668.0,5.0,8462.0,163.0,0.0,"Atlanta, GA",Atlanta, GA
+5910,2018,4,NK,Spirit Air Lines,DEN,290.0,3.0,2920.0,29.0,0.0,"Denver, CO",Denver, CO
+5867,2018,4,MQ,Envoy Air,ORD,4344.0,78.0,38273.0,12313.0,2156.0,"Chicago, IL",Chicago, IL
+5807,2018,4,MQ,Envoy Air,DFW,4736.0,83.0,42126.0,10400.0,6623.0,"Dallas/Fort Worth, TX",Dallas, TX
+6098,2018,4,OO,SkyWest Airlines Inc.,DEN,3838.0,29.0,35420.0,13178.0,2603.0,"Denver, CO",Denver, CO
+5776,2018,4,MQ,Envoy Air,ATL,27.0,0.0,28.0,0.0,0.0,"Atlanta, GA",Atlanta, GA
+5756,2018,4,HA,Hawaiian Airlines Inc.,LAX,180.0,1.0,2205.0,1352.0,81.0,"Los Angeles, CA",Los Angeles, CA
+5911,2018,4,NK,Spirit Air Lines,DFW,735.0,6.0,12150.0,308.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+6099,2018,4,OO,SkyWest Airlines Inc.,DFW,438.0,6.0,5203.0,904.0,1313.0,"Dallas/Fort Worth, TX",Dallas, TX
+6368,2018,4,WN,Southwest Airlines Co.,ATL,3509.0,34.0,30196.0,9754.0,910.0,"Atlanta, GA",Atlanta, GA
+6198,2018,4,OO,SkyWest Airlines Inc.,ORD,6391.0,76.0,78242.0,28221.0,1512.0,"Chicago, IL",Chicago, IL
+6267,2018,4,UA,United Air Lines Inc.,ATL,405.0,1.0,4057.0,1107.0,72.0,"Atlanta, GA",Atlanta, GA
+6288,2018,4,UA,United Air Lines Inc.,DEN,4930.0,11.0,32696.0,10785.0,1287.0,"Denver, CO",Denver, CO
+6289,2018,4,UA,United Air Lines Inc.,DFW,540.0,0.0,6382.0,1023.0,269.0,"Dallas/Fort Worth, TX",Dallas, TX
+6314,2018,4,UA,United Air Lines Inc.,LAX,2438.0,4.0,21344.0,5413.0,1610.0,"Los Angeles, CA",Los Angeles, CA
+6334,2018,4,UA,United Air Lines Inc.,ORD,5932.0,9.0,47925.0,14073.0,1798.0,"Chicago, IL",Chicago, IL
+6386,2018,4,WN,Southwest Airlines Co.,DEN,5636.0,22.0,54499.0,15875.0,866.0,"Denver, CO",Denver, CO
+6405,2018,4,WN,Southwest Airlines Co.,LAX,3575.0,82.0,54937.0,17035.0,327.0,"Los Angeles, CA",Los Angeles, CA
+6454,2018,4,YV,Mesa Airlines Inc.,ATL,178.0,1.0,1624.0,1024.0,0.0,"Atlanta, GA",Atlanta, GA
+6480,2018,4,YV,Mesa Airlines Inc.,DFW,2722.0,55.0,27738.0,10985.0,3005.0,"Dallas/Fort Worth, TX",Dallas, TX
+6554,2018,4,YX,Republic Airline,ATL,385.0,8.0,2799.0,1035.0,32.0,"Atlanta, GA",Atlanta, GA
+6577,2018,4,YX,Republic Airline,DEN,316.0,5.0,2946.0,789.0,200.0,"Denver, CO",Denver, CO
+5686,2018,4,G4,Allegiant Air,LAX,97.0,0.0,2105.0,653.0,0.0,"Los Angeles, CA",Los Angeles, CA
+6610,2018,4,YX,Republic Airline,ORD,1570.0,26.0,15146.0,2977.0,1080.0,"Chicago, IL",Chicago, IL
+6157,2018,4,OO,SkyWest Airlines Inc.,LAX,2550.0,12.0,26345.0,8808.0,424.0,"Los Angeles, CA",Los Angeles, CA
+5656,2018,4,G4,Allegiant Air,DEN,9.0,0.0,38.0,0.0,0.0,"Denver, CO",Denver, CO
+6578,2018,4,YX,Republic Airline,DFW,305.0,4.0,4310.0,1109.0,243.0,"Dallas/Fort Worth, TX",Dallas, TX
+5594,2018,4,F9,Frontier Airlines Inc.,LAX,97.0,1.0,1218.0,173.0,0.0,"Los Angeles, CA",Los Angeles, CA
+4965,2018,4,9E,Endeavor Air Inc.,ATL,2494.0,10.0,24866.0,6670.0,914.0,"Atlanta, GA",Atlanta, GA
+4994,2018,4,9E,Endeavor Air Inc.,DEN,4.0,0.0,141.0,133.0,0.0,"Denver, CO",Denver, CO
+4995,2018,4,9E,Endeavor Air Inc.,DFW,218.0,2.0,2879.0,613.0,151.0,"Dallas/Fort Worth, TX",Dallas, TX
+5040,2018,4,9E,Endeavor Air Inc.,ORD,267.0,6.0,4457.0,1035.0,186.0,"Chicago, IL",Chicago, IL
+5067,2018,4,AA,American Airlines Inc.,ATL,930.0,5.0,7636.0,3265.0,215.0,"Atlanta, GA",Atlanta, GA
+5084,2018,4,AA,American Airlines Inc.,DEN,823.0,3.0,6819.0,2539.0,342.0,"Denver, CO",Denver, CO
+5085,2018,4,AA,American Airlines Inc.,DFW,11360.0,90.0,108201.0,35892.0,4949.0,"Dallas/Fort Worth, TX",Dallas, TX
+5108,2018,4,AA,American Airlines Inc.,LAX,3298.0,8.0,24917.0,8293.0,1259.0,"Los Angeles, CA",Los Angeles, CA
+5129,2018,4,AA,American Airlines Inc.,ORD,4941.0,23.0,36527.0,13431.0,1753.0,"Chicago, IL",Chicago, IL
+5167,2018,4,AS,Alaska Airlines Inc.,ATL,60.0,0.0,26.0,0.0,0.0,"Atlanta, GA",Atlanta, GA
+5181,2018,4,AS,Alaska Airlines Inc.,DEN,193.0,2.0,1164.0,268.0,0.0,"Denver, CO",Denver, CO
+5182,2018,4,AS,Alaska Airlines Inc.,DFW,120.0,0.0,434.0,255.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+5197,2018,4,AS,Alaska Airlines Inc.,LAX,1850.0,17.0,18280.0,4869.0,737.0,"Los Angeles, CA",Los Angeles, CA
+5209,2018,4,AS,Alaska Airlines Inc.,ORD,231.0,1.0,889.0,417.0,0.0,"Chicago, IL",Chicago, IL
+5235,2018,4,B6,JetBlue Airways,ATL,292.0,1.0,6932.0,3163.0,114.0,"Atlanta, GA",Atlanta, GA
+5608,2018,4,F9,Frontier Airlines Inc.,ORD,204.0,2.0,4678.0,1214.0,14.0,"Chicago, IL",Chicago, IL
+5251,2018,4,B6,JetBlue Airways,DFW,51.0,0.0,645.0,257.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+5250,2018,4,B6,JetBlue Airways,DEN,86.0,0.0,963.0,415.0,0.0,"Denver, CO",Denver, CO
+5580,2018,4,F9,Frontier Airlines Inc.,DFW,50.0,0.0,959.0,95.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+5579,2018,4,F9,Frontier Airlines Inc.,DEN,1799.0,14.0,29672.0,8376.0,160.0,"Denver, CO",Denver, CO
+5564,2018,4,F9,Frontier Airlines Inc.,ATL,293.0,2.0,6644.0,1448.0,6.0,"Atlanta, GA",Atlanta, GA
+5481,2018,4,EV,ExpressJet Airlines Inc.,DFW,723.0,4.0,7889.0,4809.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+5451,2018,4,EV,ExpressJet Airlines Inc.,ATL,791.0,3.0,13742.0,6728.0,0.0,"Atlanta, GA",Atlanta, GA
+5536,2018,4,EV,ExpressJet Airlines Inc.,ORD,705.0,1.0,8631.0,3352.0,18.0,"Chicago, IL",Chicago, IL
+5375,2018,4,DL,Delta Air Lines Inc.,LAX,2985.0,5.0,34110.0,13199.0,1204.0,"Los Angeles, CA",Los Angeles, CA
+5336,2018,4,DL,Delta Air Lines Inc.,DFW,558.0,1.0,3989.0,1171.0,264.0,"Dallas/Fort Worth, TX",Dallas, TX
+5335,2018,4,DL,Delta Air Lines Inc.,DEN,1018.0,3.0,6594.0,2465.0,230.0,"Denver, CO",Denver, CO
+5302,2018,4,DL,Delta Air Lines Inc.,ATL,20637.0,22.0,133813.0,56581.0,9765.0,"Atlanta, GA",Atlanta, GA
+5267,2018,4,B6,JetBlue Airways,ORD,171.0,2.0,4691.0,1920.0,47.0,"Chicago, IL",Chicago, IL
+5261,2018,4,B6,JetBlue Airways,LAX,529.0,3.0,6473.0,2812.0,494.0,"Los Angeles, CA",Los Angeles, CA
+5402,2018,4,DL,Delta Air Lines Inc.,ORD,696.0,1.0,3964.0,1620.0,334.0,"Chicago, IL",Chicago, IL
+7565,2018,5,NK,Spirit Air Lines,LAX,724.0,1.0,8822.0,1914.0,231.0,"Los Angeles, CA",Los Angeles, CA
+7689,2018,5,OO,SkyWest Airlines Inc.,ATL,1985.0,0.0,23992.0,6145.0,3225.0,"Atlanta, GA",Atlanta, GA
+7651,2018,5,OH,PSA Airlines Inc.,ORD,189.0,9.0,2759.0,771.0,7.0,"Chicago, IL",Chicago, IL
+7590,2018,5,OH,PSA Airlines Inc.,ATL,107.0,3.0,1521.0,315.0,188.0,"Atlanta, GA",Atlanta, GA
+7574,2018,5,NK,Spirit Air Lines,ORD,850.0,16.0,21535.0,1423.0,515.0,"Chicago, IL",Chicago, IL
+7558,2018,5,NK,Spirit Air Lines,DFW,898.0,7.0,17129.0,2527.0,1018.0,"Dallas/Fort Worth, TX",Dallas, TX
+7340,2018,5,G4,Allegiant Air,LAX,99.0,0.0,1066.0,384.0,0.0,"Los Angeles, CA",Los Angeles, CA
+7548,2018,5,NK,Spirit Air Lines,ATL,683.0,6.0,7799.0,1612.0,308.0,"Atlanta, GA",Atlanta, GA
+7515,2018,5,MQ,Envoy Air,ORD,4783.0,233.0,86745.0,14757.0,10510.0,"Chicago, IL",Chicago, IL
+7460,2018,5,MQ,Envoy Air,DFW,4578.0,95.0,43921.0,12601.0,5017.0,"Dallas/Fort Worth, TX",Dallas, TX
+7429,2018,5,MQ,Envoy Air,ATL,51.0,0.0,839.0,77.0,3.0,"Atlanta, GA",Atlanta, GA
+7409,2018,5,HA,Hawaiian Airlines Inc.,LAX,186.0,0.0,2091.0,1511.0,0.0,"Los Angeles, CA",Los Angeles, CA
+7739,2018,5,OO,SkyWest Airlines Inc.,DEN,3944.0,4.0,44907.0,18737.0,3044.0,"Denver, CO",Denver, CO
+7557,2018,5,NK,Spirit Air Lines,DEN,309.0,2.0,3577.0,468.0,312.0,"Denver, CO",Denver, CO
+7740,2018,5,OO,SkyWest Airlines Inc.,DFW,523.0,4.0,6582.0,817.0,1380.0,"Dallas/Fort Worth, TX",Dallas, TX
+7968,2018,5,UA,United Air Lines Inc.,ORD,6426.0,84.0,112216.0,20237.0,4423.0,"Chicago, IL",Chicago, IL
+7834,2018,5,OO,SkyWest Airlines Inc.,ORD,6481.0,210.0,160302.0,38630.0,15205.0,"Chicago, IL",Chicago, IL
+7905,2018,5,UA,United Air Lines Inc.,ATL,440.0,1.0,6244.0,1661.0,184.0,"Atlanta, GA",Atlanta, GA
+7926,2018,5,UA,United Air Lines Inc.,DEN,5171.0,11.0,43589.0,12733.0,3761.0,"Denver, CO",Denver, CO
+7927,2018,5,UA,United Air Lines Inc.,DFW,565.0,5.0,9353.0,1834.0,592.0,"Dallas/Fort Worth, TX",Dallas, TX
+7950,2018,5,UA,United Air Lines Inc.,LAX,2632.0,9.0,27412.0,4657.0,2634.0,"Los Angeles, CA",Los Angeles, CA
+8003,2018,5,WN,Southwest Airlines Co.,ATL,3593.0,27.0,43042.0,10086.0,2031.0,"Atlanta, GA",Atlanta, GA
+8021,2018,5,WN,Southwest Airlines Co.,DEN,5846.0,64.0,67710.0,19874.0,1705.0,"Denver, CO",Denver, CO
+8040,2018,5,WN,Southwest Airlines Co.,LAX,3667.0,80.0,49958.0,15790.0,436.0,"Los Angeles, CA",Los Angeles, CA
+8088,2018,5,YV,Mesa Airlines Inc.,ATL,191.0,6.0,1704.0,566.0,328.0,"Atlanta, GA",Atlanta, GA
+8111,2018,5,YV,Mesa Airlines Inc.,DFW,2845.0,89.0,33031.0,8768.0,2580.0,"Dallas/Fort Worth, TX",Dallas, TX
+8179,2018,5,YX,Republic Airline,ATL,372.0,13.0,4744.0,913.0,993.0,"Atlanta, GA",Atlanta, GA
+8202,2018,5,YX,Republic Airline,DEN,294.0,1.0,2001.0,934.0,223.0,"Denver, CO",Denver, CO
+8203,2018,5,YX,Republic Airline,DFW,305.0,3.0,2968.0,1217.0,61.0,"Dallas/Fort Worth, TX",Dallas, TX
+7310,2018,5,G4,Allegiant Air,DEN,18.0,0.0,313.0,8.0,0.0,"Denver, CO",Denver, CO
+7797,2018,5,OO,SkyWest Airlines Inc.,LAX,2594.0,9.0,26066.0,5681.0,547.0,"Los Angeles, CA",Los Angeles, CA
+8237,2018,5,YX,Republic Airline,ORD,1716.0,59.0,26540.0,4359.0,1379.0,"Chicago, IL",Chicago, IL
+7261,2018,5,F9,Frontier Airlines Inc.,ORD,235.0,6.0,8516.0,2383.0,0.0,"Chicago, IL",Chicago, IL
+7229,2018,5,F9,Frontier Airlines Inc.,DFW,65.0,0.0,1548.0,313.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+7245,2018,5,F9,Frontier Airlines Inc.,LAX,93.0,1.0,1432.0,378.0,0.0,"Los Angeles, CA",Los Angeles, CA
+6636,2018,5,9E,Endeavor Air Inc.,ATL,2507.0,4.0,21647.0,7059.0,1510.0,"Atlanta, GA",Atlanta, GA
+6665,2018,5,9E,Endeavor Air Inc.,DEN,4.0,0.0,0.0,0.0,0.0,"Denver, CO",Denver, CO
+6666,2018,5,9E,Endeavor Air Inc.,DFW,198.0,0.0,2058.0,985.0,125.0,"Dallas/Fort Worth, TX",Dallas, TX
+6706,2018,5,9E,Endeavor Air Inc.,ORD,284.0,4.0,8429.0,1429.0,328.0,"Chicago, IL",Chicago, IL
+6733,2018,5,AA,American Airlines Inc.,ATL,1008.0,19.0,14605.0,3717.0,1090.0,"Atlanta, GA",Atlanta, GA
+6750,2018,5,AA,American Airlines Inc.,DEN,933.0,13.0,12637.0,4774.0,496.0,"Denver, CO",Denver, CO
+6751,2018,5,AA,American Airlines Inc.,DFW,12065.0,160.0,163006.0,55014.0,9371.0,"Dallas/Fort Worth, TX",Dallas, TX
+6789,2018,5,AA,American Airlines Inc.,ORD,5458.0,121.0,91053.0,16812.0,4844.0,"Chicago, IL",Chicago, IL
+6829,2018,5,AS,Alaska Airlines Inc.,ATL,62.0,0.0,92.0,0.0,0.0,"Atlanta, GA",Atlanta, GA
+6843,2018,5,AS,Alaska Airlines Inc.,DEN,208.0,1.0,1740.0,600.0,0.0,"Denver, CO",Denver, CO
+6844,2018,5,AS,Alaska Airlines Inc.,DFW,124.0,0.0,644.0,83.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+6859,2018,5,AS,Alaska Airlines Inc.,LAX,1954.0,21.0,20143.0,6233.0,173.0,"Los Angeles, CA",Los Angeles, CA
+6871,2018,5,AS,Alaska Airlines Inc.,ORD,292.0,0.0,3388.0,655.0,0.0,"Chicago, IL",Chicago, IL
+6770,2018,5,AA,American Airlines Inc.,LAX,3450.0,23.0,35821.0,13884.0,1900.0,"Los Angeles, CA",Los Angeles, CA
+6914,2018,5,B6,JetBlue Airways,DEN,89.0,0.0,2131.0,868.0,0.0,"Denver, CO",Denver, CO
+6899,2018,5,B6,JetBlue Airways,ATL,298.0,1.0,6331.0,3136.0,433.0,"Atlanta, GA",Atlanta, GA
+7212,2018,5,F9,Frontier Airlines Inc.,ATL,324.0,5.0,4975.0,1069.0,117.0,"Atlanta, GA",Atlanta, GA
+7185,2018,5,EV,ExpressJet Airlines Inc.,ORD,615.0,16.0,12366.0,1877.0,861.0,"Chicago, IL",Chicago, IL
+7140,2018,5,EV,ExpressJet Airlines Inc.,DFW,965.0,9.0,14876.0,9659.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+7114,2018,5,EV,ExpressJet Airlines Inc.,ATL,830.0,3.0,12418.0,6316.0,0.0,"Atlanta, GA",Atlanta, GA
+7066,2018,5,DL,Delta Air Lines Inc.,ORD,772.0,0.0,15560.0,2414.0,2430.0,"Chicago, IL",Chicago, IL
+7041,2018,5,DL,Delta Air Lines Inc.,LAX,3107.0,2.0,25258.0,8978.0,1154.0,"Los Angeles, CA",Los Angeles, CA
+7228,2018,5,F9,Frontier Airlines Inc.,DEN,1998.0,16.0,40382.0,8241.0,247.0,"Denver, CO",Denver, CO
+7002,2018,5,DL,Delta Air Lines Inc.,DEN,1021.0,0.0,6825.0,3478.0,387.0,"Denver, CO",Denver, CO
+6969,2018,5,DL,Delta Air Lines Inc.,ATL,21384.0,3.0,186765.0,72239.0,9337.0,"Atlanta, GA",Atlanta, GA
+6934,2018,5,B6,JetBlue Airways,ORD,242.0,3.0,7317.0,1827.0,422.0,"Chicago, IL",Chicago, IL
+6926,2018,5,B6,JetBlue Airways,LAX,551.0,0.0,7330.0,3855.0,0.0,"Los Angeles, CA",Los Angeles, CA
+6915,2018,5,B6,JetBlue Airways,DFW,58.0,0.0,731.0,567.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+7003,2018,5,DL,Delta Air Lines Inc.,DFW,560.0,0.0,4711.0,1803.0,107.0,"Dallas/Fort Worth, TX",Dallas, TX
+9432,2018,6,OO,SkyWest Airlines Inc.,DEN,4530.0,27.0,68949.0,19919.0,3530.0,"Denver, CO",Denver, CO
+9376,2018,6,OO,SkyWest Airlines Inc.,ATL,2295.0,13.0,56782.0,12366.0,8479.0,"Atlanta, GA",Atlanta, GA
+9338,2018,6,OH,PSA Airlines Inc.,ORD,193.0,35.0,3335.0,819.0,183.0,"Chicago, IL",Chicago, IL
+9275,2018,6,OH,PSA Airlines Inc.,ATL,104.0,19.0,2313.0,930.0,270.0,"Atlanta, GA",Atlanta, GA
+9259,2018,6,NK,Spirit Air Lines,ORD,870.0,15.0,20994.0,878.0,1510.0,"Chicago, IL",Chicago, IL
+9250,2018,6,NK,Spirit Air Lines,LAX,768.0,2.0,6283.0,656.0,197.0,"Los Angeles, CA",Los Angeles, CA
+9199,2018,6,MQ,Envoy Air,ORD,5015.0,428.0,114315.0,21690.0,7849.0,"Chicago, IL",Chicago, IL
+9242,2018,6,NK,Spirit Air Lines,DEN,330.0,2.0,5207.0,279.0,95.0,"Denver, CO",Denver, CO
+9233,2018,6,NK,Spirit Air Lines,ATL,737.0,7.0,12118.0,1075.0,285.0,"Atlanta, GA",Atlanta, GA
+9140,2018,6,MQ,Envoy Air,DFW,4417.0,63.0,49353.0,13658.0,4809.0,"Dallas/Fort Worth, TX",Dallas, TX
+9104,2018,6,MQ,Envoy Air,ATL,78.0,7.0,2179.0,303.0,173.0,"Atlanta, GA",Atlanta, GA
+9084,2018,6,HA,Hawaiian Airlines Inc.,LAX,184.0,1.0,2113.0,1995.0,0.0,"Los Angeles, CA",Los Angeles, CA
+9243,2018,6,NK,Spirit Air Lines,DFW,1004.0,7.0,15477.0,2130.0,505.0,"Dallas/Fort Worth, TX",Dallas, TX
+9433,2018,6,OO,SkyWest Airlines Inc.,DFW,421.0,3.0,9387.0,3452.0,725.0,"Dallas/Fort Worth, TX",Dallas, TX
+9015,2018,6,G4,Allegiant Air,LAX,216.0,5.0,4114.0,1490.0,39.0,"Los Angeles, CA",Los Angeles, CA
+9535,2018,6,OO,SkyWest Airlines Inc.,ORD,6437.0,283.0,200841.0,50251.0,11031.0,"Chicago, IL",Chicago, IL
+9610,2018,6,UA,United Air Lines Inc.,ATL,441.0,0.0,7514.0,1806.0,371.0,"Atlanta, GA",Atlanta, GA
+9633,2018,6,UA,United Air Lines Inc.,DEN,5650.0,18.0,67105.0,15768.0,3885.0,"Denver, CO",Denver, CO
+9634,2018,6,UA,United Air Lines Inc.,DFW,706.0,4.0,14851.0,3601.0,1116.0,"Dallas/Fort Worth, TX",Dallas, TX
+9660,2018,6,UA,United Air Lines Inc.,LAX,2690.0,8.0,33606.0,9924.0,2976.0,"Los Angeles, CA",Los Angeles, CA
+9681,2018,6,UA,United Air Lines Inc.,ORD,6913.0,95.0,160776.0,23581.0,9147.0,"Chicago, IL",Chicago, IL
+9719,2018,6,WN,Southwest Airlines Co.,ATL,3488.0,28.0,52626.0,12100.0,3472.0,"Atlanta, GA",Atlanta, GA
+9737,2018,6,WN,Southwest Airlines Co.,DEN,6014.0,41.0,65516.0,16993.0,2714.0,"Denver, CO",Denver, CO
+9805,2018,6,YV,Mesa Airlines Inc.,ATL,201.0,3.0,3518.0,909.0,52.0,"Atlanta, GA",Atlanta, GA
+9830,2018,6,YV,Mesa Airlines Inc.,DFW,3063.0,136.0,43557.0,14751.0,3666.0,"Dallas/Fort Worth, TX",Dallas, TX
+9904,2018,6,YX,Republic Airline,ATL,319.0,13.0,3316.0,671.0,727.0,"Atlanta, GA",Atlanta, GA
+9927,2018,6,YX,Republic Airline,DEN,438.0,5.0,6771.0,1185.0,237.0,"Denver, CO",Denver, CO
+9928,2018,6,YX,Republic Airline,DFW,265.0,2.0,3073.0,1900.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+9966,2018,6,YX,Republic Airline,ORD,1647.0,71.0,33641.0,6523.0,953.0,"Chicago, IL",Chicago, IL
+9494,2018,6,OO,SkyWest Airlines Inc.,LAX,2648.0,5.0,27919.0,9229.0,1922.0,"Los Angeles, CA",Los Angeles, CA
+8985,2018,6,G4,Allegiant Air,DEN,29.0,0.0,362.0,51.0,0.0,"Denver, CO",Denver, CO
+9756,2018,6,WN,Southwest Airlines Co.,LAX,3565.0,57.0,34903.0,10319.0,963.0,"Los Angeles, CA",Los Angeles, CA
+8919,2018,6,F9,Frontier Airlines Inc.,LAX,90.0,3.0,1749.0,723.0,0.0,"Los Angeles, CA",Los Angeles, CA
+8295,2018,6,9E,Endeavor Air Inc.,DEN,5.0,0.0,0.0,0.0,0.0,"Denver, CO",Denver, CO
+8296,2018,6,9E,Endeavor Air Inc.,DFW,111.0,0.0,438.0,40.0,98.0,"Dallas/Fort Worth, TX",Dallas, TX
+8343,2018,6,9E,Endeavor Air Inc.,ORD,166.0,1.0,3725.0,1034.0,1.0,"Chicago, IL",Chicago, IL
+8375,2018,6,AA,American Airlines Inc.,ATL,964.0,23.0,15251.0,4519.0,1207.0,"Atlanta, GA",Atlanta, GA
+8393,2018,6,AA,American Airlines Inc.,DEN,934.0,13.0,17400.0,5482.0,1266.0,"Denver, CO",Denver, CO
+8935,2018,6,F9,Frontier Airlines Inc.,ORD,240.0,7.0,9817.0,2266.0,286.0,"Chicago, IL",Chicago, IL
+8394,2018,6,AA,American Airlines Inc.,DFW,12657.0,295.0,200339.0,61464.0,13153.0,"Dallas/Fort Worth, TX",Dallas, TX
+8416,2018,6,AA,American Airlines Inc.,LAX,3463.0,33.0,44309.0,19207.0,3523.0,"Los Angeles, CA",Los Angeles, CA
+8437,2018,6,AA,American Airlines Inc.,ORD,5565.0,161.0,123661.0,26383.0,8199.0,"Chicago, IL",Chicago, IL
+8477,2018,6,AS,Alaska Airlines Inc.,ATL,85.0,0.0,318.0,19.0,0.0,"Atlanta, GA",Atlanta, GA
+8490,2018,6,AS,Alaska Airlines Inc.,DEN,188.0,0.0,1412.0,701.0,0.0,"Denver, CO",Denver, CO
+8491,2018,6,AS,Alaska Airlines Inc.,DFW,149.0,0.0,513.0,51.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+8508,2018,6,AS,Alaska Airlines Inc.,LAX,1965.0,34.0,16132.0,5935.0,129.0,"Los Angeles, CA",Los Angeles, CA
+8520,2018,6,AS,Alaska Airlines Inc.,ORD,324.0,5.0,4640.0,1172.0,0.0,"Chicago, IL",Chicago, IL
+8548,2018,6,B6,JetBlue Airways,ATL,288.0,0.0,4755.0,1726.0,434.0,"Atlanta, GA",Atlanta, GA
+8264,2018,6,9E,Endeavor Air Inc.,ATL,2312.0,24.0,51054.0,10254.0,4496.0,"Atlanta, GA",Atlanta, GA
+8564,2018,6,B6,JetBlue Airways,DFW,55.0,0.0,131.0,76.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+8902,2018,6,F9,Frontier Airlines Inc.,DFW,59.0,2.0,2257.0,378.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+8901,2018,6,F9,Frontier Airlines Inc.,DEN,1942.0,68.0,52729.0,9092.0,505.0,"Denver, CO",Denver, CO
+8884,2018,6,F9,Frontier Airlines Inc.,ATL,312.0,6.0,8299.0,2485.0,101.0,"Atlanta, GA",Atlanta, GA
+8851,2018,6,EV,ExpressJet Airlines Inc.,ORD,622.0,13.0,23472.0,5282.0,1352.0,"Chicago, IL",Chicago, IL
+8563,2018,6,B6,JetBlue Airways,DEN,102.0,0.0,1504.0,469.0,0.0,"Denver, CO",Denver, CO
+8766,2018,6,EV,ExpressJet Airlines Inc.,ATL,1204.0,6.0,24920.0,11483.0,0.0,"Atlanta, GA",Atlanta, GA
+8796,2018,6,EV,ExpressJet Airlines Inc.,DFW,949.0,14.0,17367.0,10532.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+8691,2018,6,DL,Delta Air Lines Inc.,LAX,3272.0,3.0,33905.0,17666.0,1411.0,"Los Angeles, CA",Los Angeles, CA
+8652,2018,6,DL,Delta Air Lines Inc.,DFW,723.0,0.0,9730.0,3784.0,1395.0,"Dallas/Fort Worth, TX",Dallas, TX
+8651,2018,6,DL,Delta Air Lines Inc.,DEN,1043.0,0.0,8621.0,3953.0,714.0,"Denver, CO",Denver, CO
+8617,2018,6,DL,Delta Air Lines Inc.,ATL,21029.0,62.0,370937.0,108068.0,19018.0,"Atlanta, GA",Atlanta, GA
+8583,2018,6,B6,JetBlue Airways,ORD,245.0,5.0,7417.0,1439.0,70.0,"Chicago, IL",Chicago, IL
+8575,2018,6,B6,JetBlue Airways,LAX,516.0,0.0,5254.0,2009.0,584.0,"Los Angeles, CA",Los Angeles, CA
+8716,2018,6,DL,Delta Air Lines Inc.,ORD,932.0,2.0,28454.0,5080.0,879.0,"Chicago, IL",Chicago, IL
+11083,2018,7,OO,SkyWest Airlines Inc.,ATL,2269.0,18.0,33935.0,9224.0,6077.0,"Atlanta, GA",Atlanta, GA
+11045,2018,7,OH,PSA Airlines Inc.,ORD,197.0,7.0,1736.0,629.0,3.0,"Chicago, IL",Chicago, IL
+10982,2018,7,OH,PSA Airlines Inc.,ATL,112.0,3.0,1680.0,487.0,408.0,"Atlanta, GA",Atlanta, GA
+10966,2018,7,NK,Spirit Air Lines,ORD,899.0,4.0,17720.0,3031.0,772.0,"Chicago, IL",Chicago, IL
+10957,2018,7,NK,Spirit Air Lines,LAX,792.0,2.0,10539.0,1841.0,271.0,"Los Angeles, CA",Los Angeles, CA
+10797,2018,7,HA,Hawaiian Airlines Inc.,LAX,200.0,1.0,2087.0,1563.0,0.0,"Los Angeles, CA",Los Angeles, CA
+10949,2018,7,NK,Spirit Air Lines,DEN,341.0,1.0,6240.0,664.0,107.0,"Denver, CO",Denver, CO
+10940,2018,7,NK,Spirit Air Lines,ATL,762.0,6.0,14269.0,2356.0,922.0,"Atlanta, GA",Atlanta, GA
+10907,2018,7,MQ,Envoy Air,ORD,5131.0,103.0,62932.0,16638.0,2464.0,"Chicago, IL",Chicago, IL
+10851,2018,7,MQ,Envoy Air,DFW,4173.0,115.0,53374.0,12376.0,4891.0,"Dallas/Fort Worth, TX",Dallas, TX
+10817,2018,7,MQ,Envoy Air,ATL,53.0,2.0,534.0,143.0,0.0,"Atlanta, GA",Atlanta, GA
+11134,2018,7,OO,SkyWest Airlines Inc.,DEN,4772.0,79.0,64476.0,21033.0,4580.0,"Denver, CO",Denver, CO
+10950,2018,7,NK,Spirit Air Lines,DFW,1036.0,8.0,22970.0,4009.0,1632.0,"Dallas/Fort Worth, TX",Dallas, TX
+11135,2018,7,OO,SkyWest Airlines Inc.,DFW,540.0,14.0,11022.0,4517.0,1163.0,"Dallas/Fort Worth, TX",Dallas, TX
+11416,2018,7,WN,Southwest Airlines Co.,ATL,3588.0,61.0,52388.0,13415.0,2305.0,"Atlanta, GA",Atlanta, GA
+11236,2018,7,OO,SkyWest Airlines Inc.,ORD,6615.0,110.0,132859.0,44746.0,6305.0,"Chicago, IL",Chicago, IL
+11309,2018,7,UA,United Air Lines Inc.,ATL,430.0,6.0,8788.0,2356.0,291.0,"Atlanta, GA",Atlanta, GA
+11332,2018,7,UA,United Air Lines Inc.,DEN,5840.0,27.0,82593.0,24995.0,4429.0,"Denver, CO",Denver, CO
+11333,2018,7,UA,United Air Lines Inc.,DFW,695.0,3.0,13199.0,2601.0,465.0,"Dallas/Fort Worth, TX",Dallas, TX
+11358,2018,7,UA,United Air Lines Inc.,LAX,2773.0,14.0,34378.0,9265.0,2855.0,"Los Angeles, CA",Los Angeles, CA
+11379,2018,7,UA,United Air Lines Inc.,ORD,7247.0,50.0,128911.0,29356.0,9001.0,"Chicago, IL",Chicago, IL
+11434,2018,7,WN,Southwest Airlines Co.,DEN,6258.0,109.0,79180.0,20756.0,4562.0,"Denver, CO",Denver, CO
+11452,2018,7,WN,Southwest Airlines Co.,LAX,3672.0,86.0,38732.0,12146.0,1011.0,"Los Angeles, CA",Los Angeles, CA
+11501,2018,7,YV,Mesa Airlines Inc.,ATL,233.0,2.0,5777.0,1891.0,596.0,"Atlanta, GA",Atlanta, GA
+11526,2018,7,YV,Mesa Airlines Inc.,DFW,3144.0,98.0,60980.0,15751.0,5717.0,"Dallas/Fort Worth, TX",Dallas, TX
+11597,2018,7,YX,Republic Airline,ATL,297.0,10.0,4119.0,607.0,814.0,"Atlanta, GA",Atlanta, GA
+11614,2018,7,YX,Republic Airline,DEN,473.0,7.0,4321.0,921.0,362.0,"Denver, CO",Denver, CO
+11615,2018,7,YX,Republic Airline,DFW,357.0,19.0,7219.0,2453.0,68.0,"Dallas/Fort Worth, TX",Dallas, TX
+10728,2018,7,G4,Allegiant Air,LAX,239.0,1.0,3567.0,1088.0,77.0,"Los Angeles, CA",Los Angeles, CA
+11195,2018,7,OO,SkyWest Airlines Inc.,LAX,2745.0,37.0,33352.0,11205.0,1567.0,"Los Angeles, CA",Los Angeles, CA
+10698,2018,7,G4,Allegiant Air,DEN,31.0,0.0,547.0,181.0,0.0,"Denver, CO",Denver, CO
+11654,2018,7,YX,Republic Airline,ORD,1572.0,36.0,19677.0,1975.0,1314.0,"Chicago, IL",Chicago, IL
+10628,2018,7,F9,Frontier Airlines Inc.,LAX,93.0,1.0,1932.0,467.0,54.0,"Los Angeles, CA",Los Angeles, CA
+9993,2018,7,9E,Endeavor Air Inc.,ATL,2466.0,10.0,31302.0,6624.0,3222.0,"Atlanta, GA",Atlanta, GA
+10022,2018,7,9E,Endeavor Air Inc.,DEN,4.0,0.0,147.0,112.0,0.0,"Denver, CO",Denver, CO
+10023,2018,7,9E,Endeavor Air Inc.,DFW,131.0,1.0,1622.0,658.0,74.0,"Dallas/Fort Worth, TX",Dallas, TX
+10067,2018,7,9E,Endeavor Air Inc.,ORD,110.0,3.0,2110.0,406.0,0.0,"Chicago, IL",Chicago, IL
+10097,2018,7,AA,American Airlines Inc.,ATL,1014.0,24.0,20483.0,6527.0,2067.0,"Atlanta, GA",Atlanta, GA
+10115,2018,7,AA,American Airlines Inc.,DEN,953.0,16.0,20537.0,5854.0,1196.0,"Denver, CO",Denver, CO
+10116,2018,7,AA,American Airlines Inc.,DFW,13034.0,223.0,225174.0,63489.0,14886.0,"Dallas/Fort Worth, TX",Dallas, TX
+10138,2018,7,AA,American Airlines Inc.,LAX,3587.0,59.0,50366.0,16834.0,4230.0,"Los Angeles, CA",Los Angeles, CA
+10159,2018,7,AA,American Airlines Inc.,ORD,5738.0,128.0,90530.0,28161.0,6671.0,"Chicago, IL",Chicago, IL
+10199,2018,7,AS,Alaska Airlines Inc.,ATL,88.0,0.0,190.0,173.0,0.0,"Atlanta, GA",Atlanta, GA
+10212,2018,7,AS,Alaska Airlines Inc.,DEN,186.0,7.0,1222.0,584.0,9.0,"Denver, CO",Denver, CO
+10213,2018,7,AS,Alaska Airlines Inc.,DFW,155.0,0.0,432.0,200.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+10230,2018,7,AS,Alaska Airlines Inc.,LAX,1973.0,30.0,18536.0,8591.0,376.0,"Los Angeles, CA",Los Angeles, CA
+10242,2018,7,AS,Alaska Airlines Inc.,ORD,350.0,2.0,3795.0,1229.0,27.0,"Chicago, IL",Chicago, IL
+10271,2018,7,B6,JetBlue Airways,ATL,302.0,4.0,6381.0,2515.0,408.0,"Atlanta, GA",Atlanta, GA
+10645,2018,7,F9,Frontier Airlines Inc.,ORD,248.0,3.0,7771.0,1728.0,122.0,"Chicago, IL",Chicago, IL
+10287,2018,7,B6,JetBlue Airways,DFW,58.0,0.0,638.0,165.0,77.0,"Dallas/Fort Worth, TX",Dallas, TX
+10286,2018,7,B6,JetBlue Airways,DEN,120.0,2.0,2195.0,800.0,342.0,"Denver, CO",Denver, CO
+10611,2018,7,F9,Frontier Airlines Inc.,DFW,59.0,4.0,1821.0,317.0,51.0,"Dallas/Fort Worth, TX",Dallas, TX
+10610,2018,7,F9,Frontier Airlines Inc.,DEN,2061.0,96.0,49658.0,10937.0,187.0,"Denver, CO",Denver, CO
+10593,2018,7,F9,Frontier Airlines Inc.,ATL,324.0,4.0,8788.0,2185.0,273.0,"Atlanta, GA",Atlanta, GA
+10513,2018,7,EV,ExpressJet Airlines Inc.,DFW,1189.0,19.0,25200.0,10999.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+10487,2018,7,EV,ExpressJet Airlines Inc.,ATL,1107.0,2.0,15313.0,6905.0,0.0,"Atlanta, GA",Atlanta, GA
+10563,2018,7,EV,ExpressJet Airlines Inc.,ORD,665.0,5.0,12263.0,2141.0,772.0,"Chicago, IL",Chicago, IL
+10413,2018,7,DL,Delta Air Lines Inc.,LAX,3405.0,2.0,29915.0,14246.0,2556.0,"Los Angeles, CA",Los Angeles, CA
+10374,2018,7,DL,Delta Air Lines Inc.,DFW,656.0,0.0,10800.0,2659.0,1398.0,"Dallas/Fort Worth, TX",Dallas, TX
+10373,2018,7,DL,Delta Air Lines Inc.,DEN,1105.0,1.0,9913.0,3731.0,965.0,"Denver, CO",Denver, CO
+10340,2018,7,DL,Delta Air Lines Inc.,ATL,21688.0,33.0,262779.0,66972.0,15538.0,"Atlanta, GA",Atlanta, GA
+10306,2018,7,B6,JetBlue Airways,ORD,275.0,6.0,6996.0,2151.0,122.0,"Chicago, IL",Chicago, IL
+10298,2018,7,B6,JetBlue Airways,LAX,553.0,2.0,8668.0,2399.0,633.0,"Los Angeles, CA",Los Angeles, CA
+10439,2018,7,DL,Delta Air Lines Inc.,ORD,948.0,2.0,12293.0,2686.0,660.0,"Chicago, IL",Chicago, IL
+12653,2018,8,DL,Delta Air Lines Inc.,DFW,677.0,2.0,8865.0,3750.0,573.0,"Dallas/Fort Worth, TX",Dallas, TX
+12795,2018,8,EV,ExpressJet Airlines Inc.,DFW,1261.0,50.0,28702.0,12500.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+12766,2018,8,EV,ExpressJet Airlines Inc.,ATL,1147.0,3.0,16061.0,6334.0,0.0,"Atlanta, GA",Atlanta, GA
+12718,2018,8,DL,Delta Air Lines Inc.,ORD,1033.0,4.0,18685.0,2973.0,1503.0,"Chicago, IL",Chicago, IL
+12692,2018,8,DL,Delta Air Lines Inc.,LAX,3378.0,5.0,30735.0,11450.0,1640.0,"Los Angeles, CA",Los Angeles, CA
+12652,2018,8,DL,Delta Air Lines Inc.,DEN,1105.0,4.0,11259.0,4169.0,1127.0,"Denver, CO",Denver, CO
+12520,2018,8,AS,Alaska Airlines Inc.,ORD,351.0,0.0,5931.0,1704.0,0.0,"Chicago, IL",Chicago, IL
+12584,2018,8,B6,JetBlue Airways,ORD,258.0,10.0,7087.0,2730.0,43.0,"Chicago, IL",Chicago, IL
+12576,2018,8,B6,JetBlue Airways,LAX,547.0,1.0,9197.0,2189.0,768.0,"Los Angeles, CA",Los Angeles, CA
+12565,2018,8,B6,JetBlue Airways,DFW,58.0,2.0,779.0,442.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+12564,2018,8,B6,JetBlue Airways,DEN,120.0,1.0,2274.0,714.0,194.0,"Denver, CO",Denver, CO
+12549,2018,8,B6,JetBlue Airways,ATL,302.0,4.0,6705.0,2676.0,273.0,"Atlanta, GA",Atlanta, GA
+12848,2018,8,EV,ExpressJet Airlines Inc.,ORD,666.0,12.0,15225.0,1897.0,64.0,"Chicago, IL",Chicago, IL
+12618,2018,8,DL,Delta Air Lines Inc.,ATL,21931.0,32.0,213951.0,68859.0,13357.0,"Atlanta, GA",Atlanta, GA
+12878,2018,8,F9,Frontier Airlines Inc.,ATL,303.0,10.0,7587.0,2364.0,6.0,"Atlanta, GA",Atlanta, GA
+13085,2018,8,HA,Hawaiian Airlines Inc.,LAX,214.0,0.0,2901.0,1752.0,0.0,"Los Angeles, CA",Los Angeles, CA
+12896,2018,8,F9,Frontier Airlines Inc.,DFW,54.0,2.0,1650.0,422.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+12914,2018,8,F9,Frontier Airlines Inc.,LAX,104.0,2.0,2026.0,843.0,0.0,"Los Angeles, CA",Los Angeles, CA
+12931,2018,8,F9,Frontier Airlines Inc.,ORD,268.0,6.0,7158.0,1766.0,66.0,"Chicago, IL",Chicago, IL
+12986,2018,8,G4,Allegiant Air,DEN,25.0,0.0,294.0,34.0,138.0,"Denver, CO",Denver, CO
+13016,2018,8,G4,Allegiant Air,LAX,177.0,0.0,1174.0,265.0,36.0,"Los Angeles, CA",Los Angeles, CA
+13105,2018,8,MQ,Envoy Air,ATL,58.0,1.0,763.0,28.0,2.0,"Atlanta, GA",Atlanta, GA
+13141,2018,8,MQ,Envoy Air,DFW,4147.0,32.0,44860.0,9907.0,6418.0,"Dallas/Fort Worth, TX",Dallas, TX
+13200,2018,8,MQ,Envoy Air,ORD,5346.0,226.0,83834.0,14420.0,7004.0,"Chicago, IL",Chicago, IL
+13215,2018,8,YV,Mesa Airlines Inc.,ATL,226.0,4.0,2920.0,951.0,395.0,"Atlanta, GA",Atlanta, GA
+13242,2018,8,YV,Mesa Airlines Inc.,DFW,3365.0,128.0,57541.0,16613.0,3030.0,"Dallas/Fort Worth, TX",Dallas, TX
+13320,2018,8,YX,Republic Airline,ATL,382.0,22.0,3497.0,481.0,507.0,"Atlanta, GA",Atlanta, GA
+13341,2018,8,YX,Republic Airline,DEN,469.0,2.0,3925.0,988.0,180.0,"Denver, CO",Denver, CO
+13342,2018,8,YX,Republic Airline,DFW,406.0,28.0,7298.0,2579.0,177.0,"Dallas/Fort Worth, TX",Dallas, TX
+12508,2018,8,AS,Alaska Airlines Inc.,LAX,1905.0,33.0,23181.0,10132.0,328.0,"Los Angeles, CA",Los Angeles, CA
+12895,2018,8,F9,Frontier Airlines Inc.,DEN,2104.0,55.0,50664.0,12146.0,373.0,"Denver, CO",Denver, CO
+13383,2018,8,YX,Republic Airline,ORD,1476.0,45.0,29156.0,3661.0,983.0,"Chicago, IL",Chicago, IL
+12491,2018,8,AS,Alaska Airlines Inc.,DFW,148.0,0.0,895.0,261.0,17.0,"Dallas/Fort Worth, TX",Dallas, TX
+12477,2018,8,AS,Alaska Airlines Inc.,ATL,63.0,0.0,299.0,60.0,0.0,"Atlanta, GA",Atlanta, GA
+12490,2018,8,AS,Alaska Airlines Inc.,DEN,179.0,0.0,1943.0,916.0,0.0,"Denver, CO",Denver, CO
+11704,2018,8,NK,Spirit Air Lines,ATL,762.0,4.0,16282.0,4071.0,380.0,"Atlanta, GA",Atlanta, GA
+11713,2018,8,NK,Spirit Air Lines,DEN,341.0,2.0,6456.0,1163.0,84.0,"Denver, CO",Denver, CO
+11714,2018,8,NK,Spirit Air Lines,DFW,1037.0,11.0,23321.0,5366.0,1523.0,"Dallas/Fort Worth, TX",Dallas, TX
+11721,2018,8,NK,Spirit Air Lines,LAX,793.0,6.0,12001.0,3535.0,124.0,"Los Angeles, CA",Los Angeles, CA
+11730,2018,8,NK,Spirit Air Lines,ORD,894.0,13.0,30875.0,3476.0,810.0,"Chicago, IL",Chicago, IL
+11746,2018,8,OH,PSA Airlines Inc.,ATL,112.0,2.0,3058.0,1228.0,332.0,"Atlanta, GA",Atlanta, GA
+11809,2018,8,OH,PSA Airlines Inc.,ORD,205.0,8.0,4278.0,535.0,17.0,"Chicago, IL",Chicago, IL
+11902,2018,8,OO,SkyWest Airlines Inc.,DEN,4689.0,24.0,65080.0,26667.0,2533.0,"Denver, CO",Denver, CO
+11903,2018,8,OO,SkyWest Airlines Inc.,DFW,594.0,6.0,15072.0,8031.0,895.0,"Dallas/Fort Worth, TX",Dallas, TX
+11962,2018,8,OO,SkyWest Airlines Inc.,LAX,2773.0,22.0,35317.0,12313.0,1753.0,"Los Angeles, CA",Los Angeles, CA
+12003,2018,8,OO,SkyWest Airlines Inc.,ORD,6427.0,257.0,201199.0,56344.0,9918.0,"Chicago, IL",Chicago, IL
+12078,2018,8,UA,United Air Lines Inc.,ATL,427.0,10.0,8280.0,2514.0,748.0,"Atlanta, GA",Atlanta, GA
+12101,2018,8,UA,United Air Lines Inc.,DEN,5876.0,48.0,75139.0,23036.0,6603.0,"Denver, CO",Denver, CO
+11848,2018,8,OO,SkyWest Airlines Inc.,ATL,2227.0,8.0,36153.0,9433.0,6016.0,"Atlanta, GA",Atlanta, GA
+12127,2018,8,UA,United Air Lines Inc.,LAX,2664.0,12.0,39997.0,12191.0,2467.0,"Los Angeles, CA",Los Angeles, CA
+12102,2018,8,UA,United Air Lines Inc.,DFW,640.0,4.0,13193.0,2598.0,1322.0,"Dallas/Fort Worth, TX",Dallas, TX
+12417,2018,8,AA,American Airlines Inc.,LAX,3567.0,31.0,45886.0,16129.0,4018.0,"Los Angeles, CA",Los Angeles, CA
+12394,2018,8,AA,American Airlines Inc.,DFW,12760.0,218.0,212420.0,57910.0,13174.0,"Dallas/Fort Worth, TX",Dallas, TX
+12393,2018,8,AA,American Airlines Inc.,DEN,943.0,11.0,17344.0,5502.0,1866.0,"Denver, CO",Denver, CO
+12375,2018,8,AA,American Airlines Inc.,ATL,1002.0,19.0,18130.0,5984.0,771.0,"Atlanta, GA",Atlanta, GA
+12342,2018,8,9E,Endeavor Air Inc.,ORD,171.0,12.0,3935.0,370.0,137.0,"Chicago, IL",Chicago, IL
+12299,2018,8,9E,Endeavor Air Inc.,DFW,140.0,1.0,1730.0,313.0,170.0,"Dallas/Fort Worth, TX",Dallas, TX
+12437,2018,8,AA,American Airlines Inc.,ORD,5793.0,93.0,106854.0,28598.0,5011.0,"Chicago, IL",Chicago, IL
+12268,2018,8,9E,Endeavor Air Inc.,ATL,2532.0,2.0,34222.0,6018.0,4409.0,"Atlanta, GA",Atlanta, GA
+12221,2018,8,WN,Southwest Airlines Co.,LAX,3757.0,94.0,37282.0,12849.0,944.0,"Los Angeles, CA",Los Angeles, CA
+12203,2018,8,WN,Southwest Airlines Co.,DEN,6036.0,56.0,64759.0,19006.0,2049.0,"Denver, CO",Denver, CO
+12185,2018,8,WN,Southwest Airlines Co.,ATL,3643.0,81.0,44650.0,13460.0,3101.0,"Atlanta, GA",Atlanta, GA
+12148,2018,8,UA,United Air Lines Inc.,ORD,7484.0,102.0,165022.0,30648.0,10803.0,"Chicago, IL",Chicago, IL
+12298,2018,8,9E,Endeavor Air Inc.,DEN,4.0,0.0,0.0,0.0,0.0,"Denver, CO",Denver, CO
+15061,2018,9,YX,Republic Airline,ORD,1180.0,20.0,16695.0,1114.0,314.0,"Chicago, IL",Chicago, IL
+14600,2018,9,DL,Delta Air Lines Inc.,ATL,20071.0,51.0,133589.0,46948.0,9406.0,"Atlanta, GA",Atlanta, GA
+14566,2018,9,B6,JetBlue Airways,ORD,239.0,2.0,5160.0,1176.0,5.0,"Chicago, IL",Chicago, IL
+14557,2018,9,B6,JetBlue Airways,LAX,492.0,0.0,4591.0,1296.0,476.0,"Los Angeles, CA",Los Angeles, CA
+14546,2018,9,B6,JetBlue Airways,DFW,55.0,1.0,913.0,480.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+14545,2018,9,B6,JetBlue Airways,DEN,115.0,0.0,1207.0,647.0,0.0,"Denver, CO",Denver, CO
+14473,2018,9,AS,Alaska Airlines Inc.,DFW,115.0,0.0,689.0,18.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+14500,2018,9,AS,Alaska Airlines Inc.,ORD,321.0,0.0,2407.0,512.0,7.0,"Chicago, IL",Chicago, IL
+14488,2018,9,AS,Alaska Airlines Inc.,LAX,1712.0,22.0,11322.0,3924.0,14.0,"Los Angeles, CA",Los Angeles, CA
+14472,2018,9,AS,Alaska Airlines Inc.,DEN,144.0,0.0,252.0,162.0,0.0,"Denver, CO",Denver, CO
+14459,2018,9,AS,Alaska Airlines Inc.,ATL,51.0,0.0,17.0,0.0,0.0,"Atlanta, GA",Atlanta, GA
+14422,2018,9,AA,American Airlines Inc.,ORD,5310.0,76.0,78233.0,22524.0,4407.0,"Chicago, IL",Chicago, IL
+14530,2018,9,B6,JetBlue Airways,ATL,290.0,1.0,2869.0,1051.0,224.0,"Atlanta, GA",Atlanta, GA
+14633,2018,9,DL,Delta Air Lines Inc.,DFW,627.0,0.0,5630.0,1468.0,529.0,"Dallas/Fort Worth, TX",Dallas, TX
+14403,2018,9,AA,American Airlines Inc.,LAX,3403.0,35.0,35223.0,12342.0,2564.0,"Los Angeles, CA",Los Angeles, CA
+14697,2018,9,DL,Delta Air Lines Inc.,ORD,845.0,0.0,12243.0,2589.0,365.0,"Chicago, IL",Chicago, IL
+14743,2018,9,EV,ExpressJet Airlines Inc.,ATL,732.0,0.0,6040.0,2469.0,0.0,"Atlanta, GA",Atlanta, GA
+14771,2018,9,EV,ExpressJet Airlines Inc.,DFW,1031.0,26.0,22146.0,11695.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+14819,2018,9,EV,ExpressJet Airlines Inc.,ORD,697.0,8.0,15962.0,2519.0,388.0,"Chicago, IL",Chicago, IL
+14846,2018,9,F9,Frontier Airlines Inc.,ATL,283.0,4.0,5849.0,1700.0,0.0,"Atlanta, GA",Atlanta, GA
+14864,2018,9,F9,Frontier Airlines Inc.,DEN,2126.0,51.0,42958.0,10756.0,317.0,"Denver, CO",Denver, CO
+14865,2018,9,F9,Frontier Airlines Inc.,DFW,45.0,2.0,455.0,220.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+14883,2018,9,F9,Frontier Airlines Inc.,LAX,107.0,2.0,1143.0,367.0,0.0,"Los Angeles, CA",Los Angeles, CA
+14900,2018,9,F9,Frontier Airlines Inc.,ORD,235.0,6.0,6865.0,1362.0,112.0,"Chicago, IL",Chicago, IL
+14905,2018,9,YV,Mesa Airlines Inc.,ATL,191.0,3.0,2972.0,887.0,592.0,"Atlanta, GA",Atlanta, GA
+14931,2018,9,YV,Mesa Airlines Inc.,DFW,3187.0,209.0,74092.0,19339.0,5727.0,"Dallas/Fort Worth, TX",Dallas, TX
+15003,2018,9,YX,Republic Airline,ATL,487.0,7.0,3904.0,867.0,363.0,"Atlanta, GA",Atlanta, GA
+15023,2018,9,YX,Republic Airline,DEN,331.0,1.0,1108.0,525.0,45.0,"Denver, CO",Denver, CO
+15024,2018,9,YX,Republic Airline,DFW,274.0,3.0,3604.0,1147.0,20.0,"Dallas/Fort Worth, TX",Dallas, TX
+14671,2018,9,DL,Delta Air Lines Inc.,LAX,2875.0,0.0,17073.0,9494.0,595.0,"Los Angeles, CA",Los Angeles, CA
+14380,2018,9,AA,American Airlines Inc.,DFW,11701.0,355.0,160964.0,42816.0,11311.0,"Dallas/Fort Worth, TX",Dallas, TX
+14632,2018,9,DL,Delta Air Lines Inc.,DEN,1004.0,0.0,3192.0,1254.0,225.0,"Denver, CO",Denver, CO
+14361,2018,9,AA,American Airlines Inc.,ATL,963.0,17.0,12035.0,4534.0,667.0,"Atlanta, GA",Atlanta, GA
+13461,2018,9,G4,Allegiant Air,DEN,10.0,0.0,331.0,298.0,0.0,"Denver, CO",Denver, CO
+13491,2018,9,G4,Allegiant Air,LAX,97.0,0.0,970.0,711.0,0.0,"Los Angeles, CA",Los Angeles, CA
+13558,2018,9,HA,Hawaiian Airlines Inc.,LAX,180.0,4.0,1797.0,1104.0,0.0,"Los Angeles, CA",Los Angeles, CA
+13578,2018,9,MQ,Envoy Air,ATL,55.0,2.0,575.0,44.0,53.0,"Atlanta, GA",Atlanta, GA
+13612,2018,9,MQ,Envoy Air,DFW,3668.0,104.0,44638.0,8159.0,4620.0,"Dallas/Fort Worth, TX",Dallas, TX
+13667,2018,9,MQ,Envoy Air,ORD,5408.0,167.0,56983.0,13754.0,5450.0,"Chicago, IL",Chicago, IL
+13703,2018,9,NK,Spirit Air Lines,ATL,693.0,2.0,7633.0,2472.0,191.0,"Atlanta, GA",Atlanta, GA
+13713,2018,9,NK,Spirit Air Lines,DEN,287.0,0.0,2590.0,671.0,459.0,"Denver, CO",Denver, CO
+13714,2018,9,NK,Spirit Air Lines,DFW,688.0,2.0,10373.0,2514.0,196.0,"Dallas/Fort Worth, TX",Dallas, TX
+13722,2018,9,NK,Spirit Air Lines,LAX,654.0,1.0,4426.0,691.0,280.0,"Los Angeles, CA",Los Angeles, CA
+13731,2018,9,NK,Spirit Air Lines,ORD,737.0,13.0,13370.0,942.0,283.0,"Chicago, IL",Chicago, IL
+13747,2018,9,OH,PSA Airlines Inc.,ATL,102.0,3.0,2149.0,1105.0,364.0,"Atlanta, GA",Atlanta, GA
+13808,2018,9,OH,PSA Airlines Inc.,ORD,197.0,5.0,2246.0,698.0,38.0,"Chicago, IL",Chicago, IL
+13846,2018,9,OO,SkyWest Airlines Inc.,ATL,1832.0,39.0,22936.0,7527.0,1736.0,"Atlanta, GA",Atlanta, GA
+14379,2018,9,AA,American Airlines Inc.,DEN,844.0,12.0,11949.0,4179.0,707.0,"Denver, CO",Denver, CO
+13896,2018,9,OO,SkyWest Airlines Inc.,DFW,646.0,11.0,13422.0,6095.0,392.0,"Dallas/Fort Worth, TX",Dallas, TX
+14328,2018,9,9E,Endeavor Air Inc.,ORD,36.0,0.0,897.0,0.0,0.0,"Chicago, IL",Chicago, IL
+14288,2018,9,9E,Endeavor Air Inc.,DFW,202.0,0.0,2427.0,555.0,110.0,"Dallas/Fort Worth, TX",Dallas, TX
+14259,2018,9,9E,Endeavor Air Inc.,ATL,2032.0,23.0,17490.0,3348.0,1570.0,"Atlanta, GA",Atlanta, GA
+14209,2018,9,WN,Southwest Airlines Co.,LAX,3537.0,56.0,23053.0,7069.0,516.0,"Los Angeles, CA",Los Angeles, CA
+13895,2018,9,OO,SkyWest Airlines Inc.,DEN,4037.0,7.0,31041.0,17634.0,1063.0,"Denver, CO",Denver, CO
+14173,2018,9,WN,Southwest Airlines Co.,ATL,3362.0,33.0,23437.0,6803.0,1450.0,"Atlanta, GA",Atlanta, GA
+14191,2018,9,WN,Southwest Airlines Co.,DEN,5521.0,38.0,36949.0,11706.0,1176.0,"Denver, CO",Denver, CO
+14118,2018,9,UA,United Air Lines Inc.,LAX,2225.0,3.0,18758.0,7416.0,2345.0,"Los Angeles, CA",Los Angeles, CA
+14094,2018,9,UA,United Air Lines Inc.,DFW,556.0,3.0,11122.0,1449.0,265.0,"Dallas/Fort Worth, TX",Dallas, TX
+14093,2018,9,UA,United Air Lines Inc.,DEN,5388.0,12.0,41874.0,14954.0,2345.0,"Denver, CO",Denver, CO
+14070,2018,9,UA,United Air Lines Inc.,ATL,377.0,0.0,3540.0,899.0,3.0,"Atlanta, GA",Atlanta, GA
+13997,2018,9,OO,SkyWest Airlines Inc.,ORD,5919.0,124.0,110534.0,35826.0,8503.0,"Chicago, IL",Chicago, IL
+13955,2018,9,OO,SkyWest Airlines Inc.,LAX,2591.0,5.0,19112.0,8321.0,747.0,"Los Angeles, CA",Los Angeles, CA
+14139,2018,9,UA,United Air Lines Inc.,ORD,7126.0,40.0,94911.0,15799.0,7673.0,"Chicago, IL",Chicago, IL
+16237,2018,10,OO,SkyWest Airlines Inc.,DEN,4205.0,23.0,62084.0,29466.0,831.0,"Denver, CO",Denver, CO
+16186,2018,10,OO,SkyWest Airlines Inc.,ATL,1869.0,8.0,15321.0,3150.0,1056.0,"Atlanta, GA",Atlanta, GA
+16148,2018,10,OH,PSA Airlines Inc.,ORD,204.0,2.0,2057.0,675.0,0.0,"Chicago, IL",Chicago, IL
+16087,2018,10,OH,PSA Airlines Inc.,ATL,111.0,2.0,716.0,417.0,0.0,"Atlanta, GA",Atlanta, GA
+16071,2018,10,NK,Spirit Air Lines,ORD,709.0,3.0,5478.0,820.0,34.0,"Chicago, IL",Chicago, IL
+15918,2018,10,MQ,Envoy Air,ATL,57.0,1.0,453.0,49.0,0.0,"Atlanta, GA",Atlanta, GA
+16054,2018,10,NK,Spirit Air Lines,DFW,645.0,3.0,7439.0,965.0,555.0,"Dallas/Fort Worth, TX",Dallas, TX
+16053,2018,10,NK,Spirit Air Lines,DEN,280.0,2.0,2385.0,179.0,32.0,"Denver, CO",Denver, CO
+16044,2018,10,NK,Spirit Air Lines,ATL,693.0,2.0,3536.0,966.0,46.0,"Atlanta, GA",Atlanta, GA
+16009,2018,10,MQ,Envoy Air,ORD,5745.0,85.0,49635.0,9913.0,2455.0,"Chicago, IL",Chicago, IL
+15953,2018,10,MQ,Envoy Air,DFW,4003.0,92.0,58423.0,10160.0,8227.0,"Dallas/Fort Worth, TX",Dallas, TX
+16238,2018,10,OO,SkyWest Airlines Inc.,DFW,837.0,20.0,16374.0,3576.0,1412.0,"Dallas/Fort Worth, TX",Dallas, TX
+16062,2018,10,NK,Spirit Air Lines,LAX,658.0,1.0,4401.0,755.0,34.0,"Los Angeles, CA",Los Angeles, CA
+16300,2018,10,OO,SkyWest Airlines Inc.,LAX,2730.0,5.0,31573.0,10672.0,775.0,"Los Angeles, CA",Los Angeles, CA
+16539,2018,10,WN,Southwest Airlines Co.,DEN,5960.0,9.0,36016.0,11242.0,447.0,"Denver, CO",Denver, CO
+16416,2018,10,UA,United Air Lines Inc.,ATL,347.0,1.0,2539.0,565.0,16.0,"Atlanta, GA",Atlanta, GA
+16438,2018,10,UA,United Air Lines Inc.,DEN,5675.0,9.0,43487.0,14581.0,1064.0,"Denver, CO",Denver, CO
+16439,2018,10,UA,United Air Lines Inc.,DFW,502.0,2.0,8687.0,1651.0,132.0,"Dallas/Fort Worth, TX",Dallas, TX
+16463,2018,10,UA,United Air Lines Inc.,LAX,2332.0,2.0,24726.0,7523.0,1821.0,"Los Angeles, CA",Los Angeles, CA
+16484,2018,10,UA,United Air Lines Inc.,ORD,7419.0,8.0,69774.0,19209.0,1149.0,"Chicago, IL",Chicago, IL
+16521,2018,10,WN,Southwest Airlines Co.,ATL,3585.0,11.0,20946.0,7263.0,58.0,"Atlanta, GA",Atlanta, GA
+16557,2018,10,WN,Southwest Airlines Co.,LAX,3732.0,55.0,32232.0,10393.0,352.0,"Los Angeles, CA",Los Angeles, CA
+16605,2018,10,YV,Mesa Airlines Inc.,ATL,192.0,0.0,4943.0,2345.0,196.0,"Atlanta, GA",Atlanta, GA
+16629,2018,10,YV,Mesa Airlines Inc.,DFW,3148.0,196.0,77106.0,20581.0,6533.0,"Dallas/Fort Worth, TX",Dallas, TX
+16705,2018,10,YX,Republic Airline,ATL,513.0,3.0,2791.0,574.0,64.0,"Atlanta, GA",Atlanta, GA
+16726,2018,10,YX,Republic Airline,DEN,206.0,0.0,2140.0,497.0,56.0,"Denver, CO",Denver, CO
+16727,2018,10,YX,Republic Airline,DFW,261.0,1.0,4790.0,981.0,46.0,"Dallas/Fort Worth, TX",Dallas, TX
+16766,2018,10,YX,Republic Airline,ORD,1202.0,3.0,11430.0,3046.0,272.0,"Chicago, IL",Chicago, IL
+15898,2018,10,HA,Hawaiian Airlines Inc.,LAX,186.0,0.0,2630.0,1984.0,0.0,"Los Angeles, CA",Los Angeles, CA
+16341,2018,10,OO,SkyWest Airlines Inc.,ORD,6087.0,45.0,99531.0,34528.0,3014.0,"Chicago, IL",Chicago, IL
+15829,2018,10,G4,Allegiant Air,LAX,93.0,0.0,2617.0,1119.0,102.0,"Los Angeles, CA",Los Angeles, CA
+15799,2018,10,G4,Allegiant Air,DEN,8.0,0.0,0.0,0.0,0.0,"Denver, CO",Denver, CO
+15745,2018,10,F9,Frontier Airlines Inc.,ORD,235.0,2.0,5092.0,2143.0,0.0,"Chicago, IL",Chicago, IL
+15118,2018,10,9E,Endeavor Air Inc.,DFW,169.0,0.0,2352.0,804.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+15160,2018,10,9E,Endeavor Air Inc.,ORD,104.0,0.0,2563.0,571.0,0.0,"Chicago, IL",Chicago, IL
+15194,2018,10,AA,American Airlines Inc.,ATL,1032.0,6.0,12882.0,3801.0,899.0,"Atlanta, GA",Atlanta, GA
+15212,2018,10,AA,American Airlines Inc.,DEN,851.0,3.0,10680.0,3369.0,921.0,"Denver, CO",Denver, CO
+15213,2018,10,AA,American Airlines Inc.,DFW,12145.0,171.0,211203.0,59035.0,7880.0,"Dallas/Fort Worth, TX",Dallas, TX
+15236,2018,10,AA,American Airlines Inc.,LAX,3507.0,21.0,46784.0,18833.0,2202.0,"Los Angeles, CA",Los Angeles, CA
+15256,2018,10,AA,American Airlines Inc.,ORD,5582.0,27.0,52051.0,16811.0,1681.0,"Chicago, IL",Chicago, IL
+15294,2018,10,AS,Alaska Airlines Inc.,ATL,53.0,0.0,234.0,69.0,0.0,"Atlanta, GA",Atlanta, GA
+15307,2018,10,AS,Alaska Airlines Inc.,DEN,119.0,0.0,1401.0,253.0,0.0,"Denver, CO",Denver, CO
+15308,2018,10,AS,Alaska Airlines Inc.,DFW,120.0,0.0,935.0,107.0,7.0,"Dallas/Fort Worth, TX",Dallas, TX
+15323,2018,10,AS,Alaska Airlines Inc.,LAX,1794.0,19.0,15660.0,4356.0,198.0,"Los Angeles, CA",Los Angeles, CA
+15335,2018,10,AS,Alaska Airlines Inc.,ORD,326.0,1.0,2633.0,724.0,31.0,"Chicago, IL",Chicago, IL
+15364,2018,10,B6,JetBlue Airways,ATL,292.0,0.0,3261.0,1566.0,0.0,"Atlanta, GA",Atlanta, GA
+15379,2018,10,B6,JetBlue Airways,DEN,109.0,0.0,1243.0,437.0,0.0,"Denver, CO",Denver, CO
+15090,2018,10,9E,Endeavor Air Inc.,ATL,2382.0,13.0,19940.0,6450.0,230.0,"Atlanta, GA",Atlanta, GA
+15390,2018,10,B6,JetBlue Airways,LAX,491.0,0.0,7159.0,2756.0,31.0,"Los Angeles, CA",Los Angeles, CA
+15727,2018,10,F9,Frontier Airlines Inc.,LAX,93.0,0.0,1871.0,411.0,2.0,"Los Angeles, CA",Los Angeles, CA
+15708,2018,10,F9,Frontier Airlines Inc.,DFW,52.0,0.0,1113.0,470.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+15707,2018,10,F9,Frontier Airlines Inc.,DEN,2198.0,37.0,41488.0,9905.0,135.0,"Denver, CO",Denver, CO
+15689,2018,10,F9,Frontier Airlines Inc.,ATL,279.0,5.0,4035.0,1212.0,0.0,"Atlanta, GA",Atlanta, GA
+15380,2018,10,B6,JetBlue Airways,DFW,57.0,1.0,971.0,172.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+15611,2018,10,EV,ExpressJet Airlines Inc.,DFW,938.0,53.0,25251.0,11615.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+15663,2018,10,EV,ExpressJet Airlines Inc.,ORD,877.0,6.0,14594.0,4126.0,29.0,"Chicago, IL",Chicago, IL
+15531,2018,10,DL,Delta Air Lines Inc.,ORD,899.0,0.0,6483.0,2113.0,116.0,"Chicago, IL",Chicago, IL
+15505,2018,10,DL,Delta Air Lines Inc.,LAX,2959.0,1.0,17862.0,8709.0,508.0,"Los Angeles, CA",Los Angeles, CA
+15468,2018,10,DL,Delta Air Lines Inc.,DFW,663.0,0.0,5499.0,1498.0,184.0,"Dallas/Fort Worth, TX",Dallas, TX
+15467,2018,10,DL,Delta Air Lines Inc.,DEN,1003.0,0.0,3877.0,1641.0,219.0,"Denver, CO",Denver, CO
+15434,2018,10,DL,Delta Air Lines Inc.,ATL,21187.0,39.0,116097.0,45378.0,4800.0,"Atlanta, GA",Atlanta, GA
+15399,2018,10,B6,JetBlue Airways,ORD,229.0,0.0,4152.0,1341.0,0.0,"Chicago, IL",Chicago, IL
+15579,2018,10,EV,ExpressJet Airlines Inc.,ATL,560.0,8.0,6974.0,2971.0,0.0,"Atlanta, GA",Atlanta, GA
+17958,2018,11,OO,SkyWest Airlines Inc.,DEN,3522.0,55.0,45724.0,19357.0,1194.0,"Denver, CO",Denver, CO
+17906,2018,11,OO,SkyWest Airlines Inc.,ATL,1850.0,3.0,39550.0,8047.0,5104.0,"Atlanta, GA",Atlanta, GA
+17869,2018,11,OH,PSA Airlines Inc.,ORD,191.0,10.0,3165.0,997.0,15.0,"Chicago, IL",Chicago, IL
+17807,2018,11,OH,PSA Airlines Inc.,ATL,103.0,3.0,1344.0,434.0,54.0,"Atlanta, GA",Atlanta, GA
+17790,2018,11,NK,Spirit Air Lines,ORD,679.0,14.0,10135.0,2093.0,98.0,"Chicago, IL",Chicago, IL
+17629,2018,11,MQ,Envoy Air,ATL,55.0,2.0,479.0,12.0,83.0,"Atlanta, GA",Atlanta, GA
+17773,2018,11,NK,Spirit Air Lines,DFW,598.0,1.0,6169.0,683.0,210.0,"Dallas/Fort Worth, TX",Dallas, TX
+17772,2018,11,NK,Spirit Air Lines,DEN,232.0,1.0,2907.0,385.0,5.0,"Denver, CO",Denver, CO
+17763,2018,11,NK,Spirit Air Lines,ATL,689.0,1.0,9510.0,1751.0,45.0,"Atlanta, GA",Atlanta, GA
+17726,2018,11,MQ,Envoy Air,ORD,5370.0,283.0,71570.0,13753.0,9103.0,"Chicago, IL",Chicago, IL
+17665,2018,11,MQ,Envoy Air,DFW,3933.0,35.0,34079.0,9576.0,2845.0,"Dallas/Fort Worth, TX",Dallas, TX
+17959,2018,11,OO,SkyWest Airlines Inc.,DFW,1128.0,14.0,16584.0,5836.0,1294.0,"Dallas/Fort Worth, TX",Dallas, TX
+17781,2018,11,NK,Spirit Air Lines,LAX,651.0,1.0,6426.0,2424.0,84.0,"Los Angeles, CA",Los Angeles, CA
+18479,2018,11,YX,Republic Airline,ORD,1216.0,43.0,14689.0,1582.0,731.0,"Chicago, IL",Chicago, IL
+18232,2018,11,WN,Southwest Airlines Co.,ATL,3474.0,20.0,35692.0,10478.0,938.0,"Atlanta, GA",Atlanta, GA
+18059,2018,11,OO,SkyWest Airlines Inc.,ORD,5077.0,238.0,95783.0,28250.0,5623.0,"Chicago, IL",Chicago, IL
+18131,2018,11,UA,United Air Lines Inc.,ATL,358.0,5.0,5062.0,1059.0,240.0,"Atlanta, GA",Atlanta, GA
+18152,2018,11,UA,United Air Lines Inc.,DEN,5329.0,16.0,46869.0,15425.0,1817.0,"Denver, CO",Denver, CO
+18153,2018,11,UA,United Air Lines Inc.,DFW,406.0,9.0,6743.0,998.0,389.0,"Dallas/Fort Worth, TX",Dallas, TX
+18175,2018,11,UA,United Air Lines Inc.,LAX,2292.0,10.0,27010.0,7207.0,799.0,"Los Angeles, CA",Los Angeles, CA
+18195,2018,11,UA,United Air Lines Inc.,ORD,6775.0,164.0,123705.0,21941.0,24442.0,"Chicago, IL",Chicago, IL
+18250,2018,11,WN,Southwest Airlines Co.,DEN,5802.0,23.0,42269.0,13309.0,1339.0,"Denver, CO",Denver, CO
+18268,2018,11,WN,Southwest Airlines Co.,LAX,3503.0,46.0,29401.0,9890.0,368.0,"Los Angeles, CA",Los Angeles, CA
+18316,2018,11,YV,Mesa Airlines Inc.,ATL,172.0,1.0,3385.0,974.0,715.0,"Atlanta, GA",Atlanta, GA
+18342,2018,11,YV,Mesa Airlines Inc.,DFW,3150.0,69.0,44707.0,14068.0,2454.0,"Dallas/Fort Worth, TX",Dallas, TX
+18416,2018,11,YX,Republic Airline,ATL,480.0,11.0,4472.0,860.0,150.0,"Atlanta, GA",Atlanta, GA
+18438,2018,11,YX,Republic Airline,DEN,387.0,3.0,5012.0,859.0,241.0,"Denver, CO",Denver, CO
+18439,2018,11,YX,Republic Airline,DFW,253.0,2.0,4103.0,1228.0,248.0,"Dallas/Fort Worth, TX",Dallas, TX
+17609,2018,11,HA,Hawaiian Airlines Inc.,LAX,180.0,2.0,968.0,660.0,0.0,"Los Angeles, CA",Los Angeles, CA
+18019,2018,11,OO,SkyWest Airlines Inc.,LAX,2542.0,6.0,32390.0,13126.0,805.0,"Los Angeles, CA",Los Angeles, CA
+17539,2018,11,G4,Allegiant Air,LAX,109.0,0.0,3099.0,1426.0,0.0,"Los Angeles, CA",Los Angeles, CA
+17088,2018,11,B6,JetBlue Airways,DFW,51.0,0.0,974.0,419.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+17453,2018,11,F9,Frontier Airlines Inc.,ORD,225.0,7.0,5680.0,1785.0,0.0,"Chicago, IL",Chicago, IL
+16795,2018,11,9E,Endeavor Air Inc.,ATL,2541.0,7.0,48247.0,10446.0,2266.0,"Atlanta, GA",Atlanta, GA
+16825,2018,11,9E,Endeavor Air Inc.,DFW,182.0,1.0,1727.0,475.0,76.0,"Dallas/Fort Worth, TX",Dallas, TX
+16870,2018,11,9E,Endeavor Air Inc.,ORD,117.0,6.0,1616.0,443.0,63.0,"Chicago, IL",Chicago, IL
+16903,2018,11,AA,American Airlines Inc.,ATL,1001.0,5.0,12535.0,4909.0,345.0,"Atlanta, GA",Atlanta, GA
+16921,2018,11,AA,American Airlines Inc.,DEN,795.0,4.0,7666.0,2492.0,302.0,"Denver, CO",Denver, CO
+16922,2018,11,AA,American Airlines Inc.,DFW,11557.0,38.0,131864.0,48695.0,5253.0,"Dallas/Fort Worth, TX",Dallas, TX
+16944,2018,11,AA,American Airlines Inc.,LAX,3381.0,10.0,29239.0,11316.0,2341.0,"Los Angeles, CA",Los Angeles, CA
+16964,2018,11,AA,American Airlines Inc.,ORD,5223.0,152.0,71021.0,14449.0,4941.0,"Chicago, IL",Chicago, IL
+17509,2018,11,G4,Allegiant Air,DEN,10.0,0.0,272.0,137.0,0.0,"Denver, CO",Denver, CO
+17016,2018,11,AS,Alaska Airlines Inc.,DEN,115.0,0.0,861.0,206.0,288.0,"Denver, CO",Denver, CO
+17017,2018,11,AS,Alaska Airlines Inc.,DFW,118.0,2.0,505.0,330.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+17032,2018,11,AS,Alaska Airlines Inc.,LAX,1675.0,39.0,14173.0,2949.0,1328.0,"Los Angeles, CA",Los Angeles, CA
+17044,2018,11,AS,Alaska Airlines Inc.,ORD,270.0,6.0,3644.0,701.0,360.0,"Chicago, IL",Chicago, IL
+17072,2018,11,B6,JetBlue Airways,ATL,268.0,0.0,5676.0,2158.0,404.0,"Atlanta, GA",Atlanta, GA
+17002,2018,11,AS,Alaska Airlines Inc.,ATL,51.0,0.0,537.0,85.0,205.0,"Atlanta, GA",Atlanta, GA
+17098,2018,11,B6,JetBlue Airways,LAX,505.0,0.0,6520.0,2915.0,312.0,"Los Angeles, CA",Los Angeles, CA
+17087,2018,11,B6,JetBlue Airways,DEN,89.0,0.0,1487.0,927.0,0.0,"Denver, CO",Denver, CO
+17414,2018,11,F9,Frontier Airlines Inc.,DFW,36.0,0.0,620.0,184.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+17413,2018,11,F9,Frontier Airlines Inc.,DEN,1856.0,14.0,32944.0,9046.0,214.0,"Denver, CO",Denver, CO
+17395,2018,11,F9,Frontier Airlines Inc.,ATL,254.0,1.0,4501.0,1445.0,0.0,"Atlanta, GA",Atlanta, GA
+17367,2018,11,EV,ExpressJet Airlines Inc.,ORD,1199.0,63.0,40011.0,8232.0,531.0,"Chicago, IL",Chicago, IL
+17316,2018,11,EV,ExpressJet Airlines Inc.,DFW,528.0,5.0,11634.0,6546.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+17435,2018,11,F9,Frontier Airlines Inc.,LAX,71.0,0.0,908.0,509.0,41.0,"Los Angeles, CA",Los Angeles, CA
+17238,2018,11,DL,Delta Air Lines Inc.,ORD,816.0,16.0,16713.0,1706.0,1986.0,"Chicago, IL",Chicago, IL
+17212,2018,11,DL,Delta Air Lines Inc.,LAX,2704.0,1.0,24486.0,11846.0,1166.0,"Los Angeles, CA",Los Angeles, CA
+17175,2018,11,DL,Delta Air Lines Inc.,DFW,580.0,0.0,4770.0,2240.0,160.0,"Dallas/Fort Worth, TX",Dallas, TX
+17174,2018,11,DL,Delta Air Lines Inc.,DEN,911.0,1.0,4742.0,1774.0,753.0,"Denver, CO",Denver, CO
+17141,2018,11,DL,Delta Air Lines Inc.,ATL,19820.0,13.0,204446.0,57420.0,11334.0,"Atlanta, GA",Atlanta, GA
+17106,2018,11,B6,JetBlue Airways,ORD,200.0,6.0,6582.0,1615.0,204.0,"Chicago, IL",Chicago, IL
+17288,2018,11,EV,ExpressJet Airlines Inc.,ATL,150.0,9.0,7990.0,5666.0,0.0,"Atlanta, GA",Atlanta, GA
+19624,2018,12,OO,SkyWest Airlines Inc.,ATL,2182.0,11.0,40625.0,10682.0,7745.0,"Atlanta, GA",Atlanta, GA
+19591,2018,12,OH,PSA Airlines Inc.,ORD,178.0,6.0,1378.0,250.0,22.0,"Chicago, IL",Chicago, IL
+19528,2018,12,OH,PSA Airlines Inc.,ATL,109.0,6.0,1420.0,262.0,74.0,"Atlanta, GA",Atlanta, GA
+19510,2018,12,NK,Spirit Air Lines,ORD,704.0,2.0,4322.0,760.0,358.0,"Chicago, IL",Chicago, IL
+19501,2018,12,NK,Spirit Air Lines,LAX,679.0,0.0,4724.0,1145.0,325.0,"Los Angeles, CA",Los Angeles, CA
+19445,2018,12,MQ,Envoy Air,ORD,5747.0,95.0,67109.0,14828.0,3581.0,"Chicago, IL",Chicago, IL
+19491,2018,12,NK,Spirit Air Lines,DEN,238.0,2.0,1829.0,552.0,86.0,"Denver, CO",Denver, CO
+19482,2018,12,NK,Spirit Air Lines,ATL,690.0,3.0,5367.0,1045.0,39.0,"Atlanta, GA",Atlanta, GA
+19383,2018,12,MQ,Envoy Air,DFW,4059.0,120.0,48940.0,14717.0,6702.0,"Dallas/Fort Worth, TX",Dallas, TX
+19349,2018,12,MQ,Envoy Air,ATL,56.0,0.0,649.0,73.0,201.0,"Atlanta, GA",Atlanta, GA
+19329,2018,12,HA,Hawaiian Airlines Inc.,LAX,186.0,0.0,2796.0,2416.0,0.0,"Los Angeles, CA",Los Angeles, CA
+19492,2018,12,NK,Spirit Air Lines,DFW,597.0,3.0,8589.0,2248.0,111.0,"Dallas/Fort Worth, TX",Dallas, TX
+19675,2018,12,OO,SkyWest Airlines Inc.,DEN,3497.0,48.0,54821.0,19634.0,2606.0,"Denver, CO",Denver, CO
+20165,2018,12,YX,Republic Airline,DEN,505.0,1.0,5248.0,1386.0,493.0,"Denver, CO",Denver, CO
+19737,2018,12,OO,SkyWest Airlines Inc.,LAX,2771.0,32.0,43488.0,13155.0,2887.0,"Los Angeles, CA",Los Angeles, CA
+19781,2018,12,OO,SkyWest Airlines Inc.,ORD,5467.0,82.0,112703.0,42652.0,3675.0,"Chicago, IL",Chicago, IL
+19854,2018,12,UA,United Air Lines Inc.,ATL,337.0,0.0,2702.0,661.0,1.0,"Atlanta, GA",Atlanta, GA
+19874,2018,12,UA,United Air Lines Inc.,DEN,5281.0,8.0,39098.0,14013.0,1450.0,"Denver, CO",Denver, CO
+19875,2018,12,UA,United Air Lines Inc.,DFW,339.0,1.0,4429.0,1074.0,39.0,"Dallas/Fort Worth, TX",Dallas, TX
+19901,2018,12,UA,United Air Lines Inc.,LAX,2418.0,0.0,28050.0,9908.0,521.0,"Los Angeles, CA",Los Angeles, CA
+19921,2018,12,UA,United Air Lines Inc.,ORD,6303.0,8.0,57088.0,18440.0,1233.0,"Chicago, IL",Chicago, IL
+19957,2018,12,WN,Southwest Airlines Co.,ATL,3465.0,38.0,33444.0,10344.0,842.0,"Atlanta, GA",Atlanta, GA
+19975,2018,12,WN,Southwest Airlines Co.,DEN,5762.0,19.0,41597.0,17172.0,762.0,"Denver, CO",Denver, CO
+19993,2018,12,WN,Southwest Airlines Co.,LAX,3421.0,59.0,34559.0,11413.0,533.0,"Los Angeles, CA",Los Angeles, CA
+20042,2018,12,YV,Mesa Airlines Inc.,ATL,190.0,2.0,4702.0,2983.0,377.0,"Atlanta, GA",Atlanta, GA
+20069,2018,12,YV,Mesa Airlines Inc.,DFW,3185.0,143.0,66175.0,18073.0,6337.0,"Dallas/Fort Worth, TX",Dallas, TX
+20143,2018,12,YX,Republic Airline,ATL,477.0,1.0,4203.0,1014.0,113.0,"Atlanta, GA",Atlanta, GA
+19258,2018,12,G4,Allegiant Air,LAX,123.0,1.0,1680.0,512.0,45.0,"Los Angeles, CA",Los Angeles, CA
+19676,2018,12,OO,SkyWest Airlines Inc.,DFW,1268.0,41.0,26220.0,8789.0,1263.0,"Dallas/Fort Worth, TX",Dallas, TX
+19228,2018,12,G4,Allegiant Air,DEN,9.0,0.0,46.0,0.0,0.0,"Denver, CO",Denver, CO
+18814,2018,12,B6,JetBlue Airways,DEN,88.0,0.0,1200.0,503.0,0.0,"Denver, CO",Denver, CO
+19153,2018,12,F9,Frontier Airlines Inc.,LAX,55.0,1.0,361.0,200.0,0.0,"Los Angeles, CA",Los Angeles, CA
+20166,2018,12,YX,Republic Airline,DFW,320.0,0.0,3860.0,980.0,329.0,"Dallas/Fort Worth, TX",Dallas, TX
+18508,2018,12,9E,Endeavor Air Inc.,ATL,3144.0,23.0,52771.0,12709.0,3309.0,"Atlanta, GA",Atlanta, GA
+18539,2018,12,9E,Endeavor Air Inc.,DEN,3.0,0.0,0.0,0.0,0.0,"Denver, CO",Denver, CO
+18540,2018,12,9E,Endeavor Air Inc.,DFW,155.0,1.0,864.0,586.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+18594,2018,12,9E,Endeavor Air Inc.,ORD,94.0,0.0,1270.0,438.0,0.0,"Chicago, IL",Chicago, IL
+18626,2018,12,AA,American Airlines Inc.,ATL,1029.0,14.0,10847.0,4444.0,812.0,"Atlanta, GA",Atlanta, GA
+18644,2018,12,AA,American Airlines Inc.,DEN,810.0,17.0,6113.0,2443.0,500.0,"Denver, CO",Denver, CO
+18645,2018,12,AA,American Airlines Inc.,DFW,11864.0,333.0,149112.0,41965.0,7275.0,"Dallas/Fort Worth, TX",Dallas, TX
+18670,2018,12,AA,American Airlines Inc.,LAX,3594.0,22.0,30724.0,12072.0,869.0,"Los Angeles, CA",Los Angeles, CA
+18691,2018,12,AA,American Airlines Inc.,ORD,5243.0,40.0,45321.0,17444.0,911.0,"Chicago, IL",Chicago, IL
+18730,2018,12,AS,Alaska Airlines Inc.,ATL,52.0,0.0,287.0,124.0,0.0,"Atlanta, GA",Atlanta, GA
+18743,2018,12,AS,Alaska Airlines Inc.,DEN,118.0,0.0,703.0,320.0,0.0,"Denver, CO",Denver, CO
+18744,2018,12,AS,Alaska Airlines Inc.,DFW,121.0,0.0,684.0,186.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+18759,2018,12,AS,Alaska Airlines Inc.,LAX,1712.0,23.0,13270.0,2336.0,57.0,"Los Angeles, CA",Los Angeles, CA
+18771,2018,12,AS,Alaska Airlines Inc.,ORD,273.0,0.0,1690.0,411.0,0.0,"Chicago, IL",Chicago, IL
+18798,2018,12,B6,JetBlue Airways,ATL,245.0,0.0,4791.0,2728.0,57.0,"Atlanta, GA",Atlanta, GA
+18815,2018,12,B6,JetBlue Airways,DFW,43.0,0.0,457.0,73.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+18826,2018,12,B6,JetBlue Airways,LAX,543.0,0.0,5998.0,2750.0,0.0,"Los Angeles, CA",Los Angeles, CA
+18834,2018,12,B6,JetBlue Airways,ORD,194.0,0.0,2660.0,1189.0,0.0,"Chicago, IL",Chicago, IL
+18869,2018,12,DL,Delta Air Lines Inc.,ATL,19224.0,22.0,114809.0,46184.0,9818.0,"Atlanta, GA",Atlanta, GA
+18901,2018,12,DL,Delta Air Lines Inc.,DEN,970.0,0.0,2928.0,1766.0,235.0,"Denver, CO",Denver, CO
+18902,2018,12,DL,Delta Air Lines Inc.,DFW,495.0,0.0,2663.0,949.0,78.0,"Dallas/Fort Worth, TX",Dallas, TX
+18940,2018,12,DL,Delta Air Lines Inc.,LAX,2858.0,0.0,24625.0,8715.0,1630.0,"Los Angeles, CA",Los Angeles, CA
+18967,2018,12,DL,Delta Air Lines Inc.,ORD,757.0,0.0,3474.0,1120.0,100.0,"Chicago, IL",Chicago, IL
+19040,2018,12,EV,ExpressJet Airlines Inc.,DFW,454.0,60.0,8905.0,3967.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+19089,2018,12,EV,ExpressJet Airlines Inc.,ORD,1241.0,49.0,26986.0,5494.0,1595.0,"Chicago, IL",Chicago, IL
+19116,2018,12,F9,Frontier Airlines Inc.,ATL,248.0,0.0,3760.0,1229.0,0.0,"Atlanta, GA",Atlanta, GA
+19131,2018,12,F9,Frontier Airlines Inc.,DEN,1646.0,9.0,21900.0,7395.0,19.0,"Denver, CO",Denver, CO
+19132,2018,12,F9,Frontier Airlines Inc.,DFW,31.0,0.0,559.0,266.0,0.0,"Dallas/Fort Worth, TX",Dallas, TX
+19169,2018,12,F9,Frontier Airlines Inc.,ORD,253.0,1.0,2663.0,1097.0,0.0,"Chicago, IL",Chicago, IL
+20207,2018,12,YX,Republic Airline,ORD,1186.0,6.0,8864.0,2072.0,420.0,"Chicago, IL",Chicago, IL
