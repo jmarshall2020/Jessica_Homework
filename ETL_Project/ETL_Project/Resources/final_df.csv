@@ -1,0 +1,61 @@
+year,month,city,weather_val
+2018,1,Atlanta,14.0
+2018,1,Chicago,14.0
+2018,1,Dallas,14.0
+2018,1,Denver,15.0
+2018,1,Los Angeles,14.0
+2018,2,Atlanta,13.0
+2018,2,Chicago,13.0
+2018,2,Dallas,13.0
+2018,2,Denver,14.0
+2018,2,Los Angeles,14.0
+2018,3,Atlanta,14.0
+2018,3,Chicago,14.0
+2018,3,Dallas,14.0
+2018,3,Denver,14.0
+2018,3,Los Angeles,12.0
+2018,4,Atlanta,14.0
+2018,4,Chicago,14.0
+2018,4,Dallas,14.0
+2018,4,Denver,14.0
+2018,4,Los Angeles,15.0
+2018,5,Atlanta,14.0
+2018,5,Chicago,13.0
+2018,5,Dallas,13.0
+2018,5,Denver,13.0
+2018,5,Los Angeles,14.0
+2018,6,Atlanta,14.0
+2018,6,Chicago,14.0
+2018,6,Dallas,14.0
+2018,6,Denver,15.0
+2018,6,Los Angeles,15.0
+2018,7,Atlanta,15.0
+2018,7,Chicago,15.0
+2018,7,Dallas,14.0
+2018,7,Denver,15.0
+2018,7,Los Angeles,15.0
+2018,8,Atlanta,14.0
+2018,8,Chicago,14.0
+2018,8,Dallas,15.0
+2018,8,Denver,15.0
+2018,8,Los Angeles,15.0
+2018,9,Atlanta,14.0
+2018,9,Chicago,14.0
+2018,9,Dallas,14.0
+2018,9,Denver,15.0
+2018,9,Los Angeles,15.0
+2018,10,Atlanta,14.0
+2018,10,Chicago,14.0
+2018,10,Dallas,14.0
+2018,10,Denver,14.0
+2018,10,Los Angeles,14.0
+2018,11,Atlanta,14.0
+2018,11,Chicago,14.0
+2018,11,Dallas,14.0
+2018,11,Denver,14.0
+2018,11,Los Angeles,14.0
+2018,12,Atlanta,14.0
+2018,12,Chicago,14.0
+2018,12,Dallas,14.0
+2018,12,Denver,14.0
+2018,12,Los Angeles,14.0
