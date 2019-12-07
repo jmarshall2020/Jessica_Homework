@@ -1,0 +1,366 @@
+,city,date,weather
+0,"Atlanta, United States of America",2018-01-01,Partly cloudy
+1,"Atlanta, United States of America",2018-01-02,Clear
+2,"Atlanta, United States of America",2018-01-03,Overcast
+3,"Atlanta, United States of America",2018-01-04,Clear
+4,"Atlanta, United States of America",2018-01-05,Clear
+5,"Atlanta, United States of America",2018-01-06,Clear
+6,"Atlanta, United States of America",2018-01-07,Clear
+7,"Atlanta, United States of America",2018-01-08,Partly cloudy
+8,"Atlanta, United States of America",2018-01-09,Fog
+9,"Atlanta, United States of America",2018-01-10,Mist
+10,"Atlanta, United States of America",2018-01-11,Overcast
+11,"Atlanta, United States of America",2018-01-12,Fog
+12,"Atlanta, United States of America",2018-01-13,Overcast
+13,"Atlanta, United States of America",2018-01-14,Clear
+14,"Atlanta, United States of America",2018-01-15,Partly cloudy
+15,"Atlanta, United States of America",2018-01-16,Clear
+16,"Atlanta, United States of America",2018-01-17,Overcast
+17,"Atlanta, United States of America",2018-01-18,Clear
+18,"Atlanta, United States of America",2018-01-19,Clear
+19,"Atlanta, United States of America",2018-01-20,Clear
+20,"Atlanta, United States of America",2018-01-21,Clear
+21,"Atlanta, United States of America",2018-01-22,Clear
+22,"Atlanta, United States of America",2018-01-23,Mist
+23,"Atlanta, United States of America",2018-01-24,Clear
+24,"Atlanta, United States of America",2018-01-25,Clear
+25,"Atlanta, United States of America",2018-01-26,Clear
+26,"Atlanta, United States of America",2018-01-27,Overcast
+27,"Atlanta, United States of America",2018-01-28,Fog
+28,"Atlanta, United States of America",2018-01-29,Fog
+29,"Atlanta, United States of America",2018-01-30,Partly cloudy
+30,"Atlanta, United States of America",2018-01-31,Clear
+0,"Atlanta, United States of America",2018-02-01,Clear
+1,"Atlanta, United States of America",2018-02-02,Overcast
+2,"Atlanta, United States of America",2018-02-03,Overcast
+3,"Atlanta, United States of America",2018-02-04,Overcast
+4,"Atlanta, United States of America",2018-02-05,Clear
+5,"Atlanta, United States of America",2018-02-06,Clear
+6,"Atlanta, United States of America",2018-02-07,Mist
+7,"Atlanta, United States of America",2018-02-08,Clear
+8,"Atlanta, United States of America",2018-02-09,Clear
+9,"Atlanta, United States of America",2018-02-10,Mist
+10,"Atlanta, United States of America",2018-02-11,Fog
+11,"Atlanta, United States of America",2018-02-12,Mist
+12,"Atlanta, United States of America",2018-02-13,Overcast
+13,"Atlanta, United States of America",2018-02-14,Partly cloudy
+14,"Atlanta, United States of America",2018-02-15,Fog
+15,"Atlanta, United States of America",2018-02-16,Mist
+16,"Atlanta, United States of America",2018-02-17,Cloudy
+17,"Atlanta, United States of America",2018-02-18,Overcast
+18,"Atlanta, United States of America",2018-02-19,Overcast
+19,"Atlanta, United States of America",2018-02-20,Mist
+20,"Atlanta, United States of America",2018-02-21,Partly cloudy
+21,"Atlanta, United States of America",2018-02-22,Clear
+22,"Atlanta, United States of America",2018-02-23,Clear
+23,"Atlanta, United States of America",2018-02-24,Cloudy
+24,"Atlanta, United States of America",2018-02-25,Clear
+25,"Atlanta, United States of America",2018-02-26,Partly cloudy
+26,"Atlanta, United States of America",2018-02-27,Clear
+27,"Atlanta, United States of America",2018-02-28,Cloudy
+0,"Atlanta, United States of America",2018-03-01,Mist
+1,"Atlanta, United States of America",2018-03-02,Clear
+2,"Atlanta, United States of America",2018-03-03,Clear
+3,"Atlanta, United States of America",2018-03-04,Clear
+4,"Atlanta, United States of America",2018-03-05,Clear
+5,"Atlanta, United States of America",2018-03-06,Overcast
+6,"Atlanta, United States of America",2018-03-07,Clear
+7,"Atlanta, United States of America",2018-03-08,Clear
+8,"Atlanta, United States of America",2018-03-09,Clear
+9,"Atlanta, United States of America",2018-03-10,Clear
+10,"Atlanta, United States of America",2018-03-11,Overcast
+11,"Atlanta, United States of America",2018-03-12,Mist
+12,"Atlanta, United States of America",2018-03-13,Clear
+13,"Atlanta, United States of America",2018-03-14,Clear
+14,"Atlanta, United States of America",2018-03-15,Clear
+15,"Atlanta, United States of America",2018-03-16,Clear
+16,"Atlanta, United States of America",2018-03-17,Partly cloudy
+17,"Atlanta, United States of America",2018-03-18,Clear
+18,"Atlanta, United States of America",2018-03-19,Overcast
+19,"Atlanta, United States of America",2018-03-20,Mist
+20,"Atlanta, United States of America",2018-03-21,Overcast
+21,"Atlanta, United States of America",2018-03-22,Clear
+22,"Atlanta, United States of America",2018-03-23,Clear
+23,"Atlanta, United States of America",2018-03-24,Partly cloudy
+24,"Atlanta, United States of America",2018-03-25,Overcast
+25,"Atlanta, United States of America",2018-03-26,Overcast
+26,"Atlanta, United States of America",2018-03-27,Overcast
+27,"Atlanta, United States of America",2018-03-28,Overcast
+28,"Atlanta, United States of America",2018-03-29,Clear
+29,"Atlanta, United States of America",2018-03-30,Partly cloudy
+30,"Atlanta, United States of America",2018-03-31,Clear
+0,"Atlanta, United States of America",2018-04-01,Clear
+1,"Atlanta, United States of America",2018-04-02,Partly cloudy
+2,"Atlanta, United States of America",2018-04-03,Clear
+3,"Atlanta, United States of America",2018-04-04,Thundery outbreaks possible
+4,"Atlanta, United States of America",2018-04-05,Clear
+5,"Atlanta, United States of America",2018-04-06,Clear
+6,"Atlanta, United States of America",2018-04-07,Overcast
+7,"Atlanta, United States of America",2018-04-08,Clear
+8,"Atlanta, United States of America",2018-04-09,Partly cloudy
+9,"Atlanta, United States of America",2018-04-10,Overcast
+10,"Atlanta, United States of America",2018-04-11,Clear
+11,"Atlanta, United States of America",2018-04-12,Clear
+12,"Atlanta, United States of America",2018-04-13,Clear
+13,"Atlanta, United States of America",2018-04-14,Cloudy
+14,"Atlanta, United States of America",2018-04-15,Partly cloudy
+15,"Atlanta, United States of America",2018-04-16,Overcast
+16,"Atlanta, United States of America",2018-04-17,Clear
+17,"Atlanta, United States of America",2018-04-18,Partly cloudy
+18,"Atlanta, United States of America",2018-04-19,Partly cloudy
+19,"Atlanta, United States of America",2018-04-20,Clear
+20,"Atlanta, United States of America",2018-04-21,Clear
+21,"Atlanta, United States of America",2018-04-22,Overcast
+22,"Atlanta, United States of America",2018-04-23,Overcast
+23,"Atlanta, United States of America",2018-04-24,Cloudy
+24,"Atlanta, United States of America",2018-04-25,Partly cloudy
+25,"Atlanta, United States of America",2018-04-26,Clear
+26,"Atlanta, United States of America",2018-04-27,Partly cloudy
+27,"Atlanta, United States of America",2018-04-28,Clear
+28,"Atlanta, United States of America",2018-04-29,Clear
+29,"Atlanta, United States of America",2018-04-30,Clear
+0,"Atlanta, United States of America",2018-05-01,Clear
+1,"Atlanta, United States of America",2018-05-02,Clear
+2,"Atlanta, United States of America",2018-05-03,Clear
+3,"Atlanta, United States of America",2018-05-04,Clear
+4,"Atlanta, United States of America",2018-05-05,Overcast
+5,"Atlanta, United States of America",2018-05-06,Clear
+6,"Atlanta, United States of America",2018-05-07,Clear
+7,"Atlanta, United States of America",2018-05-08,Clear
+8,"Atlanta, United States of America",2018-05-09,Partly cloudy
+9,"Atlanta, United States of America",2018-05-10,Clear
+10,"Atlanta, United States of America",2018-05-11,Clear
+11,"Atlanta, United States of America",2018-05-12,Clear
+12,"Atlanta, United States of America",2018-05-13,Clear
+13,"Atlanta, United States of America",2018-05-14,Clear
+14,"Atlanta, United States of America",2018-05-15,Partly cloudy
+15,"Atlanta, United States of America",2018-05-16,Overcast
+16,"Atlanta, United States of America",2018-05-17,Partly cloudy
+17,"Atlanta, United States of America",2018-05-18,Partly cloudy
+18,"Atlanta, United States of America",2018-05-19,Cloudy
+19,"Atlanta, United States of America",2018-05-20,Partly cloudy
+20,"Atlanta, United States of America",2018-05-21,Cloudy
+21,"Atlanta, United States of America",2018-05-22,Clear
+22,"Atlanta, United States of America",2018-05-23,Cloudy
+23,"Atlanta, United States of America",2018-05-24,Partly cloudy
+24,"Atlanta, United States of America",2018-05-25,Cloudy
+25,"Atlanta, United States of America",2018-05-26,Partly cloudy
+26,"Atlanta, United States of America",2018-05-27,Clear
+27,"Atlanta, United States of America",2018-05-28,Overcast
+28,"Atlanta, United States of America",2018-05-29,Cloudy
+29,"Atlanta, United States of America",2018-05-30,Partly cloudy
+30,"Atlanta, United States of America",2018-05-31,Clear
+0,"Atlanta, United States of America",2018-06-01,Clear
+1,"Atlanta, United States of America",2018-06-02,Partly cloudy
+2,"Atlanta, United States of America",2018-06-03,Clear
+3,"Atlanta, United States of America",2018-06-04,Clear
+4,"Atlanta, United States of America",2018-06-05,Partly cloudy
+5,"Atlanta, United States of America",2018-06-06,Clear
+6,"Atlanta, United States of America",2018-06-07,Clear
+7,"Atlanta, United States of America",2018-06-08,Clear
+8,"Atlanta, United States of America",2018-06-09,Clear
+9,"Atlanta, United States of America",2018-06-10,Clear
+10,"Atlanta, United States of America",2018-06-11,Clear
+11,"Atlanta, United States of America",2018-06-12,Clear
+12,"Atlanta, United States of America",2018-06-13,Partly cloudy
+13,"Atlanta, United States of America",2018-06-14,Partly cloudy
+14,"Atlanta, United States of America",2018-06-15,Clear
+15,"Atlanta, United States of America",2018-06-16,Clear
+16,"Atlanta, United States of America",2018-06-17,Clear
+17,"Atlanta, United States of America",2018-06-18,Clear
+18,"Atlanta, United States of America",2018-06-19,Clear
+19,"Atlanta, United States of America",2018-06-20,Clear
+20,"Atlanta, United States of America",2018-06-21,Partly cloudy
+21,"Atlanta, United States of America",2018-06-22,Clear
+22,"Atlanta, United States of America",2018-06-23,Partly cloudy
+23,"Atlanta, United States of America",2018-06-24,Clear
+24,"Atlanta, United States of America",2018-06-25,Clear
+25,"Atlanta, United States of America",2018-06-26,Clear
+26,"Atlanta, United States of America",2018-06-27,Clear
+27,"Atlanta, United States of America",2018-06-28,Overcast
+28,"Atlanta, United States of America",2018-06-29,Partly cloudy
+29,"Atlanta, United States of America",2018-06-30,Clear
+0,"Atlanta, United States of America",2018-07-01,Clear
+1,"Atlanta, United States of America",2018-07-02,Partly cloudy
+2,"Atlanta, United States of America",2018-07-03,Clear
+3,"Atlanta, United States of America",2018-07-04,Clear
+4,"Atlanta, United States of America",2018-07-05,Clear
+5,"Atlanta, United States of America",2018-07-06,Clear
+6,"Atlanta, United States of America",2018-07-07,Clear
+7,"Atlanta, United States of America",2018-07-08,Overcast
+8,"Atlanta, United States of America",2018-07-09,Clear
+9,"Atlanta, United States of America",2018-07-10,Clear
+10,"Atlanta, United States of America",2018-07-11,Clear
+11,"Atlanta, United States of America",2018-07-12,Clear
+12,"Atlanta, United States of America",2018-07-13,Clear
+13,"Atlanta, United States of America",2018-07-14,Clear
+14,"Atlanta, United States of America",2018-07-15,Clear
+15,"Atlanta, United States of America",2018-07-16,Partly cloudy
+16,"Atlanta, United States of America",2018-07-17,Partly cloudy
+17,"Atlanta, United States of America",2018-07-18,Clear
+18,"Atlanta, United States of America",2018-07-19,Clear
+19,"Atlanta, United States of America",2018-07-20,Partly cloudy
+20,"Atlanta, United States of America",2018-07-21,Clear
+21,"Atlanta, United States of America",2018-07-22,Clear
+22,"Atlanta, United States of America",2018-07-23,Partly cloudy
+23,"Atlanta, United States of America",2018-07-24,Partly cloudy
+24,"Atlanta, United States of America",2018-07-25,Clear
+25,"Atlanta, United States of America",2018-07-26,Clear
+26,"Atlanta, United States of America",2018-07-27,Clear
+27,"Atlanta, United States of America",2018-07-28,Clear
+28,"Atlanta, United States of America",2018-07-29,Clear
+29,"Atlanta, United States of America",2018-07-30,Clear
+30,"Atlanta, United States of America",2018-07-31,Clear
+0,"Atlanta, United States of America",2018-08-01,Partly cloudy
+1,"Atlanta, United States of America",2018-08-02,Cloudy
+2,"Atlanta, United States of America",2018-08-03,Overcast
+3,"Atlanta, United States of America",2018-08-04,Clear
+4,"Atlanta, United States of America",2018-08-05,Clear
+5,"Atlanta, United States of America",2018-08-06,Clear
+6,"Atlanta, United States of America",2018-08-07,Clear
+7,"Atlanta, United States of America",2018-08-08,Clear
+8,"Atlanta, United States of America",2018-08-09,Clear
+9,"Atlanta, United States of America",2018-08-10,Clear
+10,"Atlanta, United States of America",2018-08-11,Clear
+11,"Atlanta, United States of America",2018-08-12,Clear
+12,"Atlanta, United States of America",2018-08-13,Clear
+13,"Atlanta, United States of America",2018-08-14,Clear
+14,"Atlanta, United States of America",2018-08-15,Clear
+15,"Atlanta, United States of America",2018-08-16,Clear
+16,"Atlanta, United States of America",2018-08-17,Clear
+17,"Atlanta, United States of America",2018-08-18,Partly cloudy
+18,"Atlanta, United States of America",2018-08-19,Partly cloudy
+19,"Atlanta, United States of America",2018-08-20,Partly cloudy
+20,"Atlanta, United States of America",2018-08-21,Partly cloudy
+21,"Atlanta, United States of America",2018-08-22,Partly cloudy
+22,"Atlanta, United States of America",2018-08-23,Clear
+23,"Atlanta, United States of America",2018-08-24,Clear
+24,"Atlanta, United States of America",2018-08-25,Clear
+25,"Atlanta, United States of America",2018-08-26,Clear
+26,"Atlanta, United States of America",2018-08-27,Clear
+27,"Atlanta, United States of America",2018-08-28,Clear
+28,"Atlanta, United States of America",2018-08-29,Partly cloudy
+29,"Atlanta, United States of America",2018-08-30,Clear
+30,"Atlanta, United States of America",2018-08-31,Partly cloudy
+0,"Atlanta, United States of America",2018-09-01,Clear
+1,"Atlanta, United States of America",2018-09-02,Clear
+2,"Atlanta, United States of America",2018-09-03,Clear
+3,"Atlanta, United States of America",2018-09-04,Clear
+4,"Atlanta, United States of America",2018-09-05,Cloudy
+5,"Atlanta, United States of America",2018-09-06,Partly cloudy
+6,"Atlanta, United States of America",2018-09-07,Clear
+7,"Atlanta, United States of America",2018-09-08,Clear
+8,"Atlanta, United States of America",2018-09-09,Clear
+9,"Atlanta, United States of America",2018-09-10,Clear
+10,"Atlanta, United States of America",2018-09-11,Cloudy
+11,"Atlanta, United States of America",2018-09-12,Partly cloudy
+12,"Atlanta, United States of America",2018-09-13,Clear
+13,"Atlanta, United States of America",2018-09-14,Clear
+14,"Atlanta, United States of America",2018-09-15,Clear
+15,"Atlanta, United States of America",2018-09-16,Partly cloudy
+16,"Atlanta, United States of America",2018-09-17,Clear
+17,"Atlanta, United States of America",2018-09-18,Clear
+18,"Atlanta, United States of America",2018-09-19,Clear
+19,"Atlanta, United States of America",2018-09-20,Clear
+20,"Atlanta, United States of America",2018-09-21,Clear
+21,"Atlanta, United States of America",2018-09-22,Partly cloudy
+22,"Atlanta, United States of America",2018-09-23,Clear
+23,"Atlanta, United States of America",2018-09-24,Clear
+24,"Atlanta, United States of America",2018-09-25,Overcast
+25,"Atlanta, United States of America",2018-09-26,Partly cloudy
+26,"Atlanta, United States of America",2018-09-27,Cloudy
+27,"Atlanta, United States of America",2018-09-28,Cloudy
+28,"Atlanta, United States of America",2018-09-29,Clear
+29,"Atlanta, United States of America",2018-09-30,Clear
+0,"Atlanta, United States of America",2018-10-01,Clear
+1,"Atlanta, United States of America",2018-10-02,Partly cloudy
+2,"Atlanta, United States of America",2018-10-03,Clear
+3,"Atlanta, United States of America",2018-10-04,Clear
+4,"Atlanta, United States of America",2018-10-05,Clear
+5,"Atlanta, United States of America",2018-10-06,Clear
+6,"Atlanta, United States of America",2018-10-07,Partly cloudy
+7,"Atlanta, United States of America",2018-10-08,Clear
+8,"Atlanta, United States of America",2018-10-09,Cloudy
+9,"Atlanta, United States of America",2018-10-10,Overcast
+10,"Atlanta, United States of America",2018-10-11,Overcast
+11,"Atlanta, United States of America",2018-10-12,Clear
+12,"Atlanta, United States of America",2018-10-13,Partly cloudy
+13,"Atlanta, United States of America",2018-10-14,Clear
+14,"Atlanta, United States of America",2018-10-15,Clear
+15,"Atlanta, United States of America",2018-10-16,Clear
+16,"Atlanta, United States of America",2018-10-17,Clear
+17,"Atlanta, United States of America",2018-10-18,Clear
+18,"Atlanta, United States of America",2018-10-19,Clear
+19,"Atlanta, United States of America",2018-10-20,Partly cloudy
+20,"Atlanta, United States of America",2018-10-21,Clear
+21,"Atlanta, United States of America",2018-10-22,Clear
+22,"Atlanta, United States of America",2018-10-23,Clear
+23,"Atlanta, United States of America",2018-10-24,Clear
+24,"Atlanta, United States of America",2018-10-25,Overcast
+25,"Atlanta, United States of America",2018-10-26,Overcast
+26,"Atlanta, United States of America",2018-10-27,Overcast
+27,"Atlanta, United States of America",2018-10-28,Clear
+28,"Atlanta, United States of America",2018-10-29,Clear
+29,"Atlanta, United States of America",2018-10-30,Clear
+30,"Atlanta, United States of America",2018-10-31,Clear
+0,"Atlanta, United States of America",2018-11-01,Clear
+1,"Atlanta, United States of America",2018-11-02,Cloudy
+2,"Atlanta, United States of America",2018-11-03,Clear
+3,"Atlanta, United States of America",2018-11-04,Clear
+4,"Atlanta, United States of America",2018-11-05,Overcast
+5,"Atlanta, United States of America",2018-11-06,Overcast
+6,"Atlanta, United States of America",2018-11-07,Clear
+7,"Atlanta, United States of America",2018-11-08,Partly cloudy
+8,"Atlanta, United States of America",2018-11-09,Overcast
+9,"Atlanta, United States of America",2018-11-10,Clear
+10,"Atlanta, United States of America",2018-11-11,Clear
+11,"Atlanta, United States of America",2018-11-12,Partly cloudy
+12,"Atlanta, United States of America",2018-11-13,Overcast
+13,"Atlanta, United States of America",2018-11-14,Overcast
+14,"Atlanta, United States of America",2018-11-15,Overcast
+15,"Atlanta, United States of America",2018-11-16,Partly cloudy
+16,"Atlanta, United States of America",2018-11-17,Partly cloudy
+17,"Atlanta, United States of America",2018-11-18,Clear
+18,"Atlanta, United States of America",2018-11-19,Clear
+19,"Atlanta, United States of America",2018-11-20,Cloudy
+20,"Atlanta, United States of America",2018-11-21,Clear
+21,"Atlanta, United States of America",2018-11-22,Partly cloudy
+22,"Atlanta, United States of America",2018-11-23,Clear
+23,"Atlanta, United States of America",2018-11-24,Overcast
+24,"Atlanta, United States of America",2018-11-25,Clear
+25,"Atlanta, United States of America",2018-11-26,Overcast
+26,"Atlanta, United States of America",2018-11-27,Clear
+27,"Atlanta, United States of America",2018-11-28,Clear
+28,"Atlanta, United States of America",2018-11-29,Clear
+29,"Atlanta, United States of America",2018-11-30,Cloudy
+0,"Atlanta, United States of America",2018-12-01,Clear
+1,"Atlanta, United States of America",2018-12-02,Fog
+2,"Atlanta, United States of America",2018-12-03,Clear
+3,"Atlanta, United States of America",2018-12-04,Clear
+4,"Atlanta, United States of America",2018-12-05,Clear
+5,"Atlanta, United States of America",2018-12-06,Clear
+6,"Atlanta, United States of America",2018-12-07,Partly cloudy
+7,"Atlanta, United States of America",2018-12-08,Overcast
+8,"Atlanta, United States of America",2018-12-09,Overcast
+9,"Atlanta, United States of America",2018-12-10,Overcast
+10,"Atlanta, United States of America",2018-12-11,Partly cloudy
+11,"Atlanta, United States of America",2018-12-12,Partly cloudy
+12,"Atlanta, United States of America",2018-12-13,Clear
+13,"Atlanta, United States of America",2018-12-14,Overcast
+14,"Atlanta, United States of America",2018-12-15,Mist
+15,"Atlanta, United States of America",2018-12-16,Overcast
+16,"Atlanta, United States of America",2018-12-17,Partly cloudy
+17,"Atlanta, United States of America",2018-12-18,Clear
+18,"Atlanta, United States of America",2018-12-19,Overcast
+19,"Atlanta, United States of America",2018-12-20,Overcast
+20,"Atlanta, United States of America",2018-12-21,Fog
+21,"Atlanta, United States of America",2018-12-22,Overcast
+22,"Atlanta, United States of America",2018-12-23,Clear
+23,"Atlanta, United States of America",2018-12-24,Partly cloudy
+24,"Atlanta, United States of America",2018-12-25,Clear
+25,"Atlanta, United States of America",2018-12-26,Clear
+26,"Atlanta, United States of America",2018-12-27,Partly cloudy
+27,"Atlanta, United States of America",2018-12-28,Overcast
+28,"Atlanta, United States of America",2018-12-29,Clear
+29,"Atlanta, United States of America",2018-12-30,Overcast
+30,"Atlanta, United States of America",2018-12-31,Mist
