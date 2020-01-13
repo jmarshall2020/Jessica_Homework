@@ -1,6 +1,6 @@
 import numpy as np
-
 import sqlalchemy
+import datetime as dt
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
@@ -79,6 +79,36 @@ def stations():
         all_stations.append(station_dict)
 
     return jsonify(all_stations)
+
+@app.route("/api/v1.0/tobs")
+def tobs():
+    date=session.query(Measurement.date).order_by(Measurement.date.desc()).first()
+    results=session.query(Measurement.date,Measurement.tobs).filter(Measurement.date.between('2016-08-23', '2017-08-23')).all()
+# create a dictionary for dates and temperature observations from a year from the last data point
+    all_data = []
+    for tobs in results:
+        tobs_dict = {}
+        tobs_dict["date"] = tobs.date
+        tobs_dict["tobs"]=tobs.tobs
+        all_data.append(tobs_dict)
+    return jsonify(all_data)
+
+# @app.route("/api/v1.0/temp/<start>")
+# def temps():
+#     tempdata = [func.min(Measurement.tobs),func.avg(Measurement.tobs),func.max(Measurement.tobs)]
+#     result = session.query(*tempdata).\
+#         filter(Measurement.date>=start).all()
+#     templist=list(np.ravel(result))
+#     return jsonify(templist) 
+
+# @app.route("/api/v1.0/temp/<start>/<end>")
+# def temps(start = None, end = None):
+#     result = session.query(*tempdata).\
+#         filter(Measurement.date>=start).\
+#         filter(Measurement.date<=end).all()
+#     print(result)
+#     templist=list(np.ravel(result))
+#     return jsonify(templist) 
 
 if __name__ == '__main__':
     app.run(debug=True)
