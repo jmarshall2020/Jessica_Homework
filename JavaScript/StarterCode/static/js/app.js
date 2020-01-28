@@ -2,6 +2,7 @@
 var tableData = data;
 
 // YOUR CODE HERE!
+<<<<<<< HEAD
 
 var tbody = d3.select("tbody");
 function buildTable (data){
@@ -35,3 +36,5 @@ d3.selectAll("#filter-btn").on("click",clickButton);
 
 buildTable(tableData);
 
+=======
+>>>>>>> 6cdf32a8e7d863dd5e88a9fcbee58138d4833211
